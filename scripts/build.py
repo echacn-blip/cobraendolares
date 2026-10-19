@@ -99,16 +99,36 @@ DISC = ("Información, no asesoría financiera. Comparamos las comisiones que ca
         "y un tipo de cambio medio de referencia. Los montos son estimaciones: confirma siempre el costo final en la app del proveedor antes de operar. "
         "No decimos cuál es “el mejor”: el orden depende del monto, tu país y los datos disponibles.")
 def disc(r): return f'<p class="disc"><span>{DISC} <a href="{r}metodologia/index.html">Metodología</a>.</span></p>'
-def badge(p, size=""): return f'<span class="mono-badge"{size}>{e(p["mono"])}</span>'
+def badge(p, size=""): return f'<span class="mono-badge" data-b="{p["slug"]}"{size}>{e(p["mono"])}</span>'
+FLAGS = {
+ "mx": '<rect width="6" height="12" fill="#006847"/><rect x="6" width="6" height="12" fill="#fff"/><rect x="12" width="6" height="12" fill="#ce1126"/><circle cx="9" cy="6" r="1.6" fill="#8c5a2b"/>',
+ "co": '<rect width="18" height="6" fill="#fcd116"/><rect y="6" width="18" height="3" fill="#003893"/><rect y="9" width="18" height="3" fill="#ce1126"/>',
+ "pe": '<rect width="6" height="12" fill="#d91023"/><rect x="6" width="6" height="12" fill="#fff"/><rect x="12" width="6" height="12" fill="#d91023"/>',
+ "cl": '<rect width="18" height="6" fill="#fff"/><rect y="6" width="18" height="6" fill="#d52b1e"/><rect width="6" height="6" fill="#0039a6"/><circle cx="3" cy="3" r="1.2" fill="#fff"/>',
+ "ar": '<rect width="18" height="4" fill="#74acdf"/><rect y="4" width="18" height="4" fill="#fff"/><rect y="8" width="18" height="4" fill="#74acdf"/><circle cx="9" cy="6" r="1.3" fill="#f6b40e"/>'}
+def flag(cc): return f'<svg class="flag" viewBox="0 0 18 12" aria-hidden="true">{FLAGS[cc]}</svg>'
+def flag_seg(cc):
+    return '<span class="seg flags" role="group" aria-label="País">' + "".join(f'<button type="button" data-c="{k}" aria-pressed="{"true" if k==cc else "false"}">{flag(k)}<span>{e(v["name"])}</span></button>' for k, v in COUNTRIES.items()) + '</span>'
+def cost_bar(r, scale):
+    v = r["v"]; segs = []; known = 0
+    for key, cls, lab in (("rx","rx","Recepción"),("fx","fx","Cambio"),("wd","wd","Retiro")):
+        k = v[key]["k"]; lo, hi = r[key][0], r[key][1]
+        if k in ("unpublished","unknown"): segs.append(f'<span class="s unk" title="{lab}: {"margen no publicado" if k=="unpublished" else "sin verificar"}">?</span>'); continue
+        known += hi
+        if lo > 0: segs.append(f'<span class="s {cls}" style="width:{lo/scale*100:.2f}%" title="{lab}: US${fmt(lo)}"></span>')
+        if hi > lo: segs.append(f'<span class="s {cls} rg" style="width:{(hi-lo)/scale*100:.2f}%" title="{lab}: hasta US${fmt(hi)}"></span>')
+    lab = ("≥ " if not r["complete"] else "") + (f'US${fmt(r["rx"][0]+r["fx"][0]+r["wd"][0])}' + (f'–{fmt(known)}' if known > r["rx"][0]+r["fx"][0]+r["wd"][0] + 0.005 else ""))
+    return f'<div class="cbarw"><div class="cbar" role="img" aria-label="Costos publicados {lab}">{"".join(segs)}</div><span class="cbar-l">{lab} en comisiones publicadas</span></div>'
 def src_link(key, label=None):
     u = SRC[key]; host = re.sub(r"^https?://(www\.)?", "", u).split("/")[0]
     return f'<a href="{e(u)}" rel="nofollow noopener" target="_blank">{e(label or host)} ↗</a>'
 
-def row_html(r, i, A, rr):
+def row_html(r, i, A, rr, scale=1):
     p, v, cur = r["p"], r["v"], r["cur"]
     top = " top" if i == 0 and r["complete"] else ""
     if r["complete"]: st = '<span class="badge acc">Costo verificado</span>' if not r["range"] else '<span class="badge">Rango publicado</span>'
     else: st = '<span class="badge warn">Datos incompletos</span>'
+    if i == 0 and r["complete"]: st = '<span class="badge win">★ Más te llega</span>' + st
     if "max" in r["flags"]: st += f'<span class="badge dn">{e(v.get("max_txt",""))}</span>'
     net = (f'<b>{money((r["netlo"]+r["nethi"])/2, cur)}</b><small>{money(r["netlo"],cur)} – {money(r["nethi"],cur)}</small>' if r["range"]
            else f'<b>{"≤ " if not r["complete"] else ""}{money(r["nethi"], cur)}</b>')
@@ -118,24 +138,24 @@ def row_html(r, i, A, rr):
     return (f'<div class="rrow{top}" data-p="{p["slug"]}"><span class="rk">{i+1 if r["complete"] else "–"}</span>'
             f'<div class="pv">{badge(p)}<div><a href="{rr}proveedores/{p["slug"]}/index.html">{e(p["name"])}</a><span class="route">{e(v["route"])}</span><div>{st}</div></div></div>'
             f'<span class="f" data-l="Recepción">{comp_html(v["rx"], A, cur, r)}</span><span class="f" data-l="Cambio">{comp_html(v["fx"], A, cur, r)}</span>'
-            f'<span class="f" data-l="Retiro">{comp_html(v["wd"], A, cur, r)}</span><div class="net">{net}</div>'
+            f'<span class="f" data-l="Retiro">{comp_html(v["wd"], A, cur, r)}</span><div class="net">{net}</div>{cost_bar(r, scale)}'
             f'<details><summary>Fuentes y notas</summary><ul>{srcs}{notes}</ul></details></div>')
 
 def results_static(cc, A, rr):
     comp, inc, mins, na = ranking(cc, A); cname = COUNTRIES[cc]["name"]
-    h = '<div class="rhead"><span>#</span><span>Proveedor</span><span>Recepción</span><span>Cambio</span><span>Retiro</span><span>Te llega</span></div>'
-    h += f'<div class="grp">Costo total publicado · ordenado por lo que te llega</div>' + "".join(row_html(r, i, A, rr) for i, r in enumerate(comp))
-    if inc: h += '<div class="grp">Datos incompletos · neto antes del margen o comisión que no publican</div>' + "".join(row_html(r, -1, A, rr) for r in inc)
+    scale = max([1] + [x["rx"][1] + x["fx"][1] + x["wd"][1] for x in comp + inc]) * 1.12
+    h = '<div class="cleg"><span><i class="rx"></i>Recepción</span><span><i class="fx"></i>Cambio / margen</span><span><i class="wd"></i>Retiro</span><span><i class="rg"></i>Rango publicado</span><span><i class="unk"></i>No publicado</span></div><div class="rhead"><span>#</span><span>Proveedor</span><span>Recepción</span><span>Cambio</span><span>Retiro</span><span>Te llega</span></div>'
+    h += f'<div class="grp">Costo total publicado · ordenado por lo que te llega</div>' + "".join(row_html(r, i, A, rr, scale) for i, r in enumerate(comp))
+    if inc: h += '<div class="grp">Datos incompletos · neto antes del margen o comisión que no publican</div>' + "".join(row_html(r, -1, A, rr, scale) for r in inc)
     if mins: h += '<div class="grp">Monto mínimo no alcanzado</div>' + "".join(f'<div class="rrow na"><span class="rk">–</span><div class="pv">{badge(r["p"])}<div><b>{e(r["p"]["name"])}</b><span class="route">{e(r["v"].get("min_txt","Monto mínimo no alcanzado"))}</span></div></div></div>' for r in mins)
     if na: h += f'<div class="grp">No disponible en {e(cname)}</div>' + "".join(f'<div class="rrow na"><span class="rk">–</span><div class="pv">{badge(r["p"])}<div><b>{e(r["p"]["name"])}</b><span class="route">{e(r["why"])}</span></div></div></div>' for r in na)
     return h
 
 def comparator(rr, cc="mx", A=1000):
-    seg = "".join(f'<button type="button" data-c="{k}" aria-pressed="{"true" if k==cc else "false"}">{e(v["name"])}</button>' for k, v in COUNTRIES.items())
     return f"""<section id="comparador" class="reveal" style="--d:3" aria-labelledby="h-comp" data-comp data-country="{cc}">
-<div class="sh"><div><h2 id="h-comp">Cuánto te llega en <span data-cname>{e(COUNTRIES[cc]["name"])}</span></h2><p>Escribe cualquier monto: recalculamos al instante para los 8 proveedores. Comisiones revisadas el {CHECKED}; tipo de cambio de referencia del {fecha(RATES["mid"]["date"])}.</p></div>
+<div class="sh"><div><span class="kicker">Comparador</span><h2 id="h-comp">Cuánto te llega en <span data-cname>{e(COUNTRIES[cc]["name"])}</span></h2><p>Escribe cualquier monto: recalculamos al instante para los 8 proveedores. Comisiones revisadas el {CHECKED}; tipo de cambio de referencia del {fecha(RATES["mid"]["date"])}.</p></div>
 <span class="status snap" data-status><i></i><span data-status-txt>Datos guardados · {fecha(RATES["mid"]["date"])}</span></span></div>
-<div class="ctl-row"><span class="seg" role="group" aria-label="País">{seg}</span></div>
+<div class="ctl-row">{flag_seg(cc)}</div>
 <div class="res" data-results aria-live="polite">{results_static(cc, A, rr)}</div>
 <p class="fine">“Te llega” = monto en moneda local después de las comisiones publicadas. Para proveedores que no publican su margen cambiario usamos el tipo medio de referencia, así que el neto real será menor (por eso “≤”). Wise: cotización oficial en vivo de su API pública. Payoneer publica un rango (1,2%–4%), por eso mostramos mínimo y máximo.</p>
 {disc(rr)}</section>"""
@@ -150,37 +170,59 @@ def spark(vals, w=64, h=20, col=None):
     if len(vals) < 2: return ""
     lo, hi = min(vals), max(vals); rg = (hi - lo) or 1
     pts = " ".join(f"{i*(w/(len(vals)-1)):.1f},{h-2-(v-lo)/rg*(h-4):.1f}" for i, v in enumerate(vals))
-    col = col or ("var(--up)" if vals[-1] >= vals[0] else "var(--dn)")
-    return f'<svg viewBox="0 0 {w} {h}" preserveAspectRatio="none" aria-hidden="true"><polyline fill="none" stroke="{col}" stroke-width="1.5" points="{pts}"/></svg>'
+    up = vals[-1] >= vals[0]; col = col or ("var(--up)" if up else "var(--dn)")
+    return (f'<svg viewBox="0 0 {w} {h}" preserveAspectRatio="none" aria-hidden="true"><polygon fill="url(#sg-{"up" if up else "dn"})" points="0,{h} {pts} {w},{h}"/>'
+            f'<polyline fill="none" stroke="{col}" stroke-width="1.6" vector-effect="non-scaling-stroke" points="{pts}"/></svg>')
 def chg(p):
     cls = "flat" if abs(p) < 0.005 else ("up" if p > 0 else "dn"); ar = "→" if cls == "flat" else ("▲" if p > 0 else "▼")
     return f'<span class="chg {cls}">{ar} {abs(p):.2f}%</span>'
-def market_rows():
+def market_data():
     m = HIST["mid"]; rows = []
     for c in ("MXN", "COP", "PEN", "CLP", "ARS"):
         s = m["rates"][c]; ch = (s[-1] / s[-2] - 1) * 100
         lab = "oficial · ref." if c == "ARS" else "medio · ref."
-        rows.append((f"USD/{c}", lab, MID[c], ch, s[-8:], f"mid-{c}"))
+        rows.append((f"USD/{c}", lab, MID[c], ch, s, f"mid-{c}"))
     for casa, lab in (("blue", "blue · venta"), ("bolsa", "MEP · venta")):
         h = HIST["ar"].get(casa)
-        if h and AR.get(casa): rows.append((f"USD/ARS", lab, AR[casa]["venta"], (h["venta"][-1] / h["venta"][-2] - 1) * 100, h["venta"][-8:], f"ar-{casa}"))
-    return "".join(f'<tr data-mk="{k}"><td class="p">{p}<span class="lab">{l}</span></td><td class="v" data-v>{fmt(v, 2)}</td><td class="c" data-c>{chg(c)}</td><td class="s">{spark(s)}</td></tr>' for p, l, v, c, s, k in rows)
+        if h and AR.get(casa): rows.append((f"USD/ARS", lab, AR[casa]["venta"], (h["venta"][-1] / h["venta"][-2] - 1) * 100, h["venta"], f"ar-{casa}"))
+    return rows
+def market_rows():
+    return "".join(f'<tr data-mk="{k}"><td class="p">{p}<span class="lab">{l}</span></td><td class="v" data-v>{fmt(v, 2)}</td><td class="c" data-c>{chg(c)}</td><td class="rg30">{fmt(min(s), 2)}<span>–</span>{fmt(max(s), 2)}</td><td class="s">{spark(s, 150, 36)}</td></tr>' for p, l, v, c, s, k in market_data())
+def ticker():
+    one = "".join(f'<span class="tk" data-tk="{k}"><b>{p}</b> <em>{l.split(" · ")[0]}</em> <span data-v>{fmt(v, 2)}</span> <span data-c>{chg(c)}</span></span>' for p, l, v, c, s, k in market_data())
+    return f'<div class="ticker" aria-hidden="true"><div class="tk-track">{one}{one}</div></div>'
+def market_block():
+    return f"""<section id="mercado" class="reveal" aria-labelledby="h-mk"><div class="sh"><div><span class="kicker">Mercado</span><h2 id="h-mk">El dólar ahora mismo</h2><p>Tipo medio de referencia y dólares de Argentina, con su cambio diario y los últimos 30 días.</p></div></div>
+{ticker()}{terminal()}</section>"""
 def terminal():
-    return f"""<div class="term reveal" style="--d:4" data-market aria-label="Panel de mercado"><div class="term-bar"><i></i><i></i><i></i><span>mercado — referencia USD</span></div>
-<div class="term-body"><table class="mk"><tbody>{market_rows()}</tbody></table></div>
+    return f"""<div class="term glass" data-market aria-label="Panel de mercado"><div class="term-bar"><i></i><i></i><i></i><span>cobraendolares ~ mercado --usd</span><span class="live-tag"><b class="live-dot"></b>EN VIVO</span></div>
+<div class="term-body"><table class="mk"><thead><tr><th>Par</th><th class="v">Último</th><th class="c">Día</th><th class="rg30">Rango 30 d</th><th class="s">30 días</th></tr></thead><tbody>{market_rows()}</tbody></table></div>
 <div class="term-foot"><span data-mk-time>Actualizado {fecha(RATES["mid"]["date"])} · DolarAPI {e(AR.get("blue",{}).get("t","")[:16].replace("T"," "))} UTC</span><span>currency-api · DolarAPI<span class="cursor" aria-hidden="true"></span></span></div></div>"""
 
+def hero_card(cc, A=1000):
+    comp, inc, mins, na = ranking(cc, A); cur = COUNTRIES[cc]["cur"]
+    b = comp[0] if comp else None
+    netv = ((b["netlo"] + b["nethi"]) / 2) if b else 0
+    who = f'{badge(b["p"])}<span><b data-hc-name>{e(b["p"]["name"])}</b><small data-hc-usd>≈ {usd(b["nethi"]/b["mid"])} · costo {usd(max(0,b["costlo"]))}</small></span>' if b else ""
+    return f"""<aside class="hcard2 glass reveal" style="--d:3" data-hero-card aria-label="Resumen del comparador">
+<div class="hc-top"><span class="kicker">Te llega en <span data-cname>{e(COUNTRIES[cc]["name"])}</span></span><span class="status snap" data-status><i></i><span data-status-txt>Datos guardados · {fecha(RATES["mid"]["date"])}</span></span></div>
+<p class="hc-lbl">Lo que más te llega con <span data-hc-amt>US$1.000</span>, entre opciones con costo publicado</p>
+<div class="hc-net"><span class="hc-cur" data-hc-cur>{cur}</span><b data-hc-net>{fmt(netv, 0 if cur in ("COP","CLP","ARS") else 2)}</b></div>
+<div class="hc-who" data-hc-who>{who}</div>
+<div class="hc-plot" data-hc-plot></div>
+<div class="hc-foot"><span>Comisiones {CHECKED} · tipo medio {fecha(RATES["mid"]["date"])}</span><a href="#comparador">Ver detalle ↓</a></div></aside>"""
+
 def ahorrometro(cc="mx"):
-    return f"""<section id="ahorrometro" class="ahorro reveal" aria-labelledby="h-ah" data-ahorro>
+    return f"""<section id="ahorrometro" class="ahorro glass reveal" aria-labelledby="h-ah" data-ahorro>
 <div><span class="eyebrow"><i></i>Ahorrómetro</span><h2 id="h-ah">Lo que se queda en el camino en un año</h2>
-<div class="big" data-ah-big>US$0</div><div class="sub" data-ah-sub>…</div>
+<p class="ah-lead">Diferencia al año entre la opción más cara y la más barata con costo publicado</p><div class="big" data-ah-big>US$0</div><div class="sub" data-ah-sub>…</div>
 <div class="ctl-row"><label class="l" for="ppy">Pagos al año</label><select id="ppy" data-ppy><option value="52">52 (semanal)</option><option value="26">26 (quincenal)</option><option value="12" selected>12 (mensual)</option><option value="4">4 (trimestral)</option><option value="1">1</option></select>
 <button class="btn sec sm" type="button" data-share>Compartir resultado</button><span class="xs dim" data-share-msg></span></div></div>
-<div class="vs" data-ah-vs><p class="dim small">Calculando con los proveedores que publican su costo completo…</p></div>
+<div class="ah-side"><div class="ah-gauge" data-ah-gauge aria-hidden="true"></div><div class="vs" data-ah-vs><p class="dim small">Calculando con los proveedores que publican su costo completo…</p></div></div>
 <p class="xs dim" style="grid-column:1/-1;margin:0">Solo usamos proveedores con costo total publicado (incluido el rango de Payoneer: tomamos el extremo que <b>reduce</b> la diferencia, para no exagerar). Los que no publican su margen no entran en el cálculo.</p></section>"""
 
 def thermo_block(rr, only=None):
-    return f"""<section id="termometro" class="reveal" aria-labelledby="h-th"><div class="sh"><div><h2 id="h-th">Termómetro del dólar</h2><p>Cómo está hoy el dólar frente a su promedio de los últimos 30 días, con datos reales.</p></div></div>
+    return f"""<section id="termometro" class="reveal" aria-labelledby="h-th"><div class="sh"><div><span class="kicker">Termómetro</span><h2 id="h-th">Termómetro del dólar</h2><p>Cómo está hoy el dólar frente a su promedio de los últimos 30 días, con datos reales.</p></div></div>
 <div class="thermo" data-thermo{f' data-only="{only}"' if only else ""}></div>
 <p class="fine">Es un dato, no una recomendación: el tipo de cambio de los últimos 30 días no predice el de mañana. Fuentes: currency-api (tipo medio diario) y ArgentinaDatos (oficial, blue y MEP, venta).</p></section>"""
 
@@ -188,8 +230,8 @@ def chart_block(cc=None):
     tabs = [("MXN","USD/MXN"),("COP","USD/COP"),("PEN","USD/PEN"),("CLP","USD/CLP"),("ARS","USD/ARS · oficial, blue, MEP")]
     sel = COUNTRIES[cc]["cur"] if cc else "MXN"
     t = "".join(f'<button class="tab" type="button" role="tab" data-cur="{c}" aria-selected="{"true" if c==sel else "false"}">{l}</button>' for c, l in tabs)
-    return f"""<section id="grafico" class="reveal" aria-labelledby="h-ch"><div class="sh"><div><h2 id="h-ch">El dólar en 30 días</h2><p>Valores diarios reales. Pasa el cursor para ver cada día.</p></div></div>
-<div class="chart-card"><div class="tabs" role="tablist" data-ch-tabs data-sel="{sel}">{t}</div><div id="chart" style="margin-top:14px" data-chart></div>
+    return f"""<section id="grafico" class="reveal" aria-labelledby="h-ch"><div class="sh"><div><span class="kicker">Gráfico</span><h2 id="h-ch">El dólar en 30 días</h2><p>Valores diarios reales. Pasa el cursor para ver cada día.</p></div></div>
+<div class="chart-card glass"><div class="tabs" role="tablist" data-ch-tabs data-sel="{sel}">{t}</div><div id="chart" style="margin-top:14px" data-chart></div>
 <noscript><p class="dim">Activa JavaScript para ver el gráfico. Los datos están en <a href="data/history.json">history.json</a>.</p></noscript>
 <p class="fine">Fuentes: <a href="https://github.com/fawazahmed0/exchange-api" rel="nofollow noopener" target="_blank">currency-api</a> (tipo medio) y <a href="https://argentinadatos.com" rel="nofollow noopener" target="_blank">ArgentinaDatos</a> (dólar oficial, blue y MEP en Argentina). Gráfico: uPlot (MIT).</p></div></section>"""
 
@@ -257,6 +299,12 @@ def layout(path, title, desc, body, kw="", active="", sticky=True, extra_head=""
 <link rel="icon" href="{r}assets/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="{r}assets/style.css">{extra_head.replace("{r}", r)}
 </head><body>
+<div class="bgfx" aria-hidden="true"><i></i><i></i><i></i></div>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false"><defs>
+<linearGradient id="sg-up" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#34e0a1" stop-opacity=".35"/><stop offset="1" stop-color="#34e0a1" stop-opacity="0"/></linearGradient>
+<linearGradient id="sg-dn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff6b81" stop-opacity=".32"/><stop offset="1" stop-color="#ff6b81" stop-opacity="0"/></linearGradient>
+<linearGradient id="sg-acc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#34e0a1" stop-opacity=".3"/><stop offset="1" stop-color="#34e0a1" stop-opacity="0"/></linearGradient>
+</defs></svg>
 <a class="skip" href="#main">Saltar al contenido</a>
 <header class="top"><div class="wrap">
 <a class="logo" href="{r}index.html" aria-label="{NAME}, inicio"><span class="mark">$↓</span><span>CobraEn<b>Dólares</b></span></a>
@@ -291,14 +339,16 @@ if len(comp_mx) >= 2:
     a, b = comp_mx[0], comp_mx[-1]
     lead_ex = f" Ejemplo real con US$1.000 en México hoy: la diferencia entre opciones con costo publicado llega a {money(((a['netlo']+a['nethi'])/2) - b['netlo'], 'MXN')}."
 home = f"""
-<section class="hero fx" data-cta-trigger style="padding-bottom:28px">
+<section class="hero fx v2" data-cta-trigger>
 <div><div class="eyebrow reveal"><i></i>Comisiones revisadas {CHECKED} · 8 proveedores · 5 países</div>
 <h1 class="reveal" style="--d:1">Te pagan en dólares. <span class="hl">¿Cuánto te llega de verdad?</span></h1>
 <p class="lead reveal" style="--d:1">Payoneer, Wise, DolarApp, Global66, Takenos, Littio, Deel y Airtm, comparados en México, Colombia, Perú, Chile y Argentina: comisión por recibir, margen cambiario, retiro a tu banco y lo que te queda en pesos.{e(lead_ex)}</p>
 {amount_box("")}
+<div class="reveal" style="--d:3;margin-top:18px">{flag_seg("mx")}</div>
 </div>
-{terminal()}
+{hero_card("mx")}
 </section>
+{market_block()}
 {comparator("")}
 {ahorrometro()}
 <div style="height:56px"></div>
@@ -328,10 +378,11 @@ for cc, cv in COUNTRIES.items():
         summ = (f"Con US$1.000 y datos del {CHECKED}, entre las opciones que publican su costo completo te llegan desde {money(worst['netlo'], cur)} hasta {money(best['nethi'], cur)}. "
                 f"{len(inc)} proveedor(es) no publican su margen cambiario y {len(na)} no operan en {cv['name']}.")
     body = f"""<div class="crumbs"><a href="../index.html">Inicio</a> / {e(cv["name"])}</div>
-<section class="hero fx" data-cta-trigger style="padding-top:24px;padding-bottom:28px"><div>
+<section class="hero fx v2" data-cta-trigger style="padding-top:24px"><div>
 <div class="eyebrow reveal"><i></i>{e(cv["name"])} · {cur} · revisado {CHECKED}</div>
 <h1 class="reveal" style="--d:1">Cobrar en dólares en {e(cv["name"])}: <span class="hl">cuánto te llega</span></h1>
-<p class="lead reveal" style="--d:1">{e(summ)}</p>{amount_box("../")}</div>{terminal()}</section>
+<p class="lead reveal" style="--d:1">{e(summ)}</p>{amount_box("../")}<div class="reveal" style="--d:3;margin-top:18px">{flag_seg(cc)}</div></div>{hero_card(cc)}</section>
+{market_block()}
 {comparator("../", cc)}
 {ahorrometro(cc)}
 <div style="height:56px"></div>
