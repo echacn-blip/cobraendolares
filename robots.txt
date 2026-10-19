@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://echacn-blip.github.io/cobraendolares/sitemap.xml

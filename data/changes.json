@@ -1,0 +1,66 @@
+[
+ {
+  "date": "2026-10-19",
+  "type": "base",
+  "provider": "Payoneer",
+  "title": "Registro inicial de comisiones de Payoneer",
+  "detail": "Datos verificados a mano en las páginas oficiales citadas en cada campo.",
+  "reviewed": true
+ },
+ {
+  "date": "2026-10-19",
+  "type": "base",
+  "provider": "Wise",
+  "title": "Registro inicial de comisiones de Wise",
+  "detail": "Datos verificados a mano en las páginas oficiales citadas en cada campo.",
+  "reviewed": true
+ },
+ {
+  "date": "2026-10-19",
+  "type": "base",
+  "provider": "DolarApp (ARQ)",
+  "title": "Registro inicial de comisiones de DolarApp (ARQ)",
+  "detail": "Datos verificados a mano en las páginas oficiales citadas en cada campo.",
+  "reviewed": true
+ },
+ {
+  "date": "2026-10-19",
+  "type": "base",
+  "provider": "Global66",
+  "title": "Registro inicial de comisiones de Global66",
+  "detail": "Datos verificados a mano en las páginas oficiales citadas en cada campo.",
+  "reviewed": true
+ },
+ {
+  "date": "2026-10-19",
+  "type": "base",
+  "provider": "Takenos",
+  "title": "Registro inicial de comisiones de Takenos",
+  "detail": "Datos verificados a mano en las páginas oficiales citadas en cada campo.",
+  "reviewed": true
+ },
+ {
+  "date": "2026-10-19",
+  "type": "base",
+  "provider": "Littio",
+  "title": "Registro inicial de comisiones de Littio",
+  "detail": "Datos verificados a mano en las páginas oficiales citadas en cada campo.",
+  "reviewed": true
+ },
+ {
+  "date": "2026-10-19",
+  "type": "base",
+  "provider": "Deel",
+  "title": "Registro inicial de comisiones de Deel",
+  "detail": "Datos verificados a mano en las páginas oficiales citadas en cada campo.",
+  "reviewed": true
+ },
+ {
+  "date": "2026-10-19",
+  "type": "base",
+  "provider": "Airtm",
+  "title": "Registro inicial de comisiones de Airtm",
+  "detail": "Datos verificados a mano en las páginas oficiales citadas en cada campo.",
+  "reviewed": true
+ }
+]
