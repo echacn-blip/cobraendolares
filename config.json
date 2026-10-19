@@ -1,0 +1,6 @@
+{
+  "SITE_URL": "https://echacn-blip.github.io/cobraendolares",
+  "BASE_PATH": "/cobraendolares/",
+  "NEWSLETTER_PROVIDER": "buttondown",
+  "NEWSLETTER_USERNAME": ""
+}
