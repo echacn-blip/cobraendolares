@@ -81,9 +81,22 @@ function compHtml(c, A, r, which){
   else { var v = fee(c, A)[0]; inner = v === 0 ? "US$0" : usd(v); }
   return '<span class="f" data-l="'+which+'">'+inner+'</span>';
 }
-function rowHtml(r, i, A){
+function costBar(r, scale){
+  var v = r.v, segs = "", known = 0, base = r.rx[0] + r.fx[0] + r.wd[0];
+  [["rx","rx","Recepción"],["fx","fx","Cambio"],["wd","wd","Retiro"]].forEach(function(x){
+    var k = v[x[0]].k, lo = r[x[0]][0], hi = r[x[0]][1];
+    if(k === "unpublished" || k === "unknown"){ segs += '<span class="s unk" title="'+x[2]+': '+(k === "unpublished" ? "margen no publicado" : "sin verificar")+'">?</span>'; return; }
+    known += hi;
+    if(lo > 0) segs += '<span class="s '+x[1]+'" style="width:'+(lo/scale*100).toFixed(2)+'%" title="'+x[2]+': '+usd(lo)+'"></span>';
+    if(hi > lo) segs += '<span class="s '+x[1]+' rg" style="width:'+((hi-lo)/scale*100).toFixed(2)+'%" title="'+x[2]+': hasta '+usd(hi)+'"></span>';
+  });
+  var lab = (r.complete ? "" : "≥ ") + usd(base) + (known > base + 0.005 ? "–" + nf(known, 2) : "");
+  return '<div class="cbarw"><div class="cbar" role="img" aria-label="Costos publicados '+lab+'">'+segs+'</div><span class="cbar-l">'+lab+' en comisiones publicadas</span></div>';
+}
+function rowHtml(r, i, A, scale){
   var p = r.p, v = r.v, cur = r.cur, top = (i === 0 && r.complete) ? " top" : "";
   var st = r.complete ? (r.range ? '<span class="badge">Rango publicado</span>' : '<span class="badge acc">Costo verificado</span>') : '<span class="badge warn">Datos incompletos</span>';
+  if(i === 0 && r.complete) st = '<span class="badge win">★ Más te llega</span>' + st;
   if(r.flags.indexOf("max") >= 0) st += '<span class="badge dn">'+esc(v.max_txt||"Supera el máximo publicado")+'</span>';
   var mid = (r.netlo + r.nethi)/2;
   var net = r.range ? '<b data-count="'+mid+'" data-cur="'+cur+'">'+money(mid,cur)+'</b><small>'+money(r.netlo,cur)+' – '+money(r.nethi,cur)+'</small>'
@@ -94,19 +107,46 @@ function rowHtml(r, i, A){
     return '<li><b>'+x[1]+':</b> '+esc(c.txt)+' — '+srcLink(c.src)+' <span class="dim">('+fecha(c.date)+')</span></li>'; }).join("");
   var notes = (v.notes||[]).map(function(n){ return "<li>"+esc(n)+"</li>"; }).join("");
   return '<div class="rrow'+top+'" data-p="'+p.slug+'"><span class="rk">'+(r.complete ? i+1 : "–")+'</span>' +
-    '<div class="pv"><span class="mono-badge">'+esc(p.mono)+'</span><div><a href="'+ROOT+'proveedores/'+p.slug+'/index.html">'+esc(p.name)+'</a><span class="route">'+esc(v.route)+'</span><div>'+st+'</div></div></div>' +
+    '<div class="pv"><span class="mono-badge" data-b="'+p.slug+'">'+esc(p.mono)+'</span><div><a href="'+ROOT+'proveedores/'+p.slug+'/index.html">'+esc(p.name)+'</a><span class="route">'+esc(v.route)+'</span><div>'+st+'</div></div></div>' +
     compHtml(v.rx, A, r, "Recepción") + compHtml(v.fx, A, r, "Cambio") + compHtml(v.wd, A, r, "Retiro") +
-    '<div class="net">'+net+'</div><details><summary>Fuentes y notas</summary><ul>'+srcs+notes+'</ul></details></div>';
+    '<div class="net">'+net+'</div>' + costBar(r, scale || 1) + '<details><summary>Fuentes y notas</summary><ul>'+srcs+notes+'</ul></details></div>';
 }
-function naRow(r, txt){ return '<div class="rrow na"><span class="rk">–</span><div class="pv"><span class="mono-badge">'+esc(r.p.mono)+'</span><div><b>'+esc(r.p.name)+'</b><span class="route">'+esc(txt)+'</span></div></div></div>'; }
+function naRow(r, txt){ return '<div class="rrow na"><span class="rk">–</span><div class="pv"><span class="mono-badge" data-b="'+r.p.slug+'">'+esc(r.p.mono)+'</span><div><b>'+esc(r.p.name)+'</b><span class="route">'+esc(txt)+'</span></div></div></div>'; }
 function renderResults(el, cc, A){
-  var R = ranking(cc, A), h = '<div class="rhead"><span>#</span><span>Proveedor</span><span>Recepción</span><span>Cambio</span><span>Retiro</span><span>Te llega</span></div>';
-  h += '<div class="grp">Costo total publicado · ordenado por lo que te llega</div>' + R.comp.map(function(r,i){ return rowHtml(r, i, A); }).join("");
-  if(R.inc.length) h += '<div class="grp">Datos incompletos · neto antes del margen o comisión que no publican</div>' + R.inc.map(function(r){ return rowHtml(r, -1, A); }).join("");
+  var R = ranking(cc, A), scale = Math.max.apply(null, [1].concat(R.comp.concat(R.inc).map(function(x){ return x.rx[1] + x.fx[1] + x.wd[1]; }))) * 1.12;
+  var h = '<div class="cleg"><span><i class="rx"></i>Recepción</span><span><i class="fx"></i>Cambio / margen</span><span><i class="wd"></i>Retiro</span><span><i class="rg"></i>Rango publicado</span><span><i class="unk"></i>No publicado</span></div><div class="rhead"><span>#</span><span>Proveedor</span><span>Recepción</span><span>Cambio</span><span>Retiro</span><span>Te llega</span></div>';
+  h += '<div class="grp">Costo total publicado · ordenado por lo que te llega</div>' + R.comp.map(function(r,i){ return rowHtml(r, i, A, scale); }).join("");
+  if(R.inc.length) h += '<div class="grp">Datos incompletos · neto antes del margen o comisión que no publican</div>' + R.inc.map(function(r){ return rowHtml(r, -1, A, scale); }).join("");
   if(R.min.length) h += '<div class="grp">Monto mínimo no alcanzado</div>' + R.min.map(function(r){ return naRow(r, "Monto mínimo no alcanzado" + (r.v && r.v.min_txt ? " · " + r.v.min_txt : "")); }).join("");
   if(R.na.length) h += '<div class="grp">No disponible en '+esc(C[cc].name)+'</div>' + R.na.map(function(r){ return naRow(r, r.why); }).join("");
   el.innerHTML = h;
+  $$(".rrow", el).forEach(function(n, i){ n.style.setProperty("--i", i); });
+  renderHero(R, cc, A);
   return R;
+}
+
+// ---- tarjeta "te llega" del hero ----
+var BRAND = {payoneer:"#ff6a2b", wise:"#9fe870", dolarapp:"#8b7bff", global66:"#2fa8ff", takenos:"#c084fc", littio:"#ffd23f", deel:"#5b7cff", airtm:"#ff5c8a"};
+function renderHero(R, cc, A){
+  var hc = $("[data-hero-card]"); if(!hc) return;
+  var cur = C[cc].cur, d = (cur==="COP"||cur==="CLP"||cur==="ARS") ? 0 : 2, b = R.comp[0];
+  $("[data-hc-cur]", hc).textContent = cur; $("[data-hc-amt]", hc).textContent = "US$" + nf(A, A % 1 ? 2 : 0);
+  var netEl = $("[data-hc-net]", hc), who = $("[data-hc-who]", hc), plot = $("[data-hc-plot]", hc);
+  if(!b){ netEl.textContent = "—"; netEl._v = 0; who.innerHTML = '<span class="small dim">Ningún proveedor publica su costo completo para este país y monto.</span>'; }
+  else {
+    animateTo(netEl, (b.netlo + b.nethi)/2, function(v){ return nf(v, d); }, d);
+    who.innerHTML = '<span class="mono-badge" data-b="'+b.p.slug+'">'+esc(b.p.mono)+'</span><span><b>'+esc(b.p.name)+'</b><small>≈ '+usd(b.nethi/b.mid)+' · costo '+usd(Math.max(0, b.costlo))+' ('+nf(Math.max(0,b.costlo)/A*100, 2)+'%)'+(b.range ? ' · punto medio del rango' : '')+'</small></span>';
+  }
+  var all = R.comp.map(function(r){ return {r:r, lo:r.netlo, hi:r.nethi, ok:true}; }).concat(R.inc.map(function(r){ return {r:r, lo:r.nethi, hi:r.nethi, ok:false}; }));
+  if(all.length < 2){ plot.innerHTML = ""; return; }
+  var mn = Math.min.apply(null, all.map(function(x){ return x.lo; })), mx = Math.max.apply(null, all.map(function(x){ return x.hi; })), rg = (mx - mn) || 1;
+  var pos = function(v){ return (4 + (v - mn)/rg*92).toFixed(2); };
+  var marks = all.map(function(x, i){ var c = BRAND[x.r.p.slug] || "#34e0a1", t = esc(x.r.p.name) + ": " + (x.ok ? "" : "≤ ") + money((x.lo+x.hi)/2, cur);
+    var seg = x.hi > x.lo ? '<span class="pl-rg" style="left:'+pos(x.lo)+'%;width:'+(pos(x.hi)-pos(x.lo)).toFixed(2)+'%;background:'+c+'"></span>' : "";
+    return seg + '<span class="pl-dot'+(x.ok ? "" : " open")+'" style="left:'+pos((x.lo+x.hi)/2)+'%;--c:'+c+';--i:'+i+'" title="'+t+'"></span>'; }).join("");
+  var leg = all.map(function(x){ return '<span><i style="--c:'+(BRAND[x.r.p.slug]||"#34e0a1")+'"'+(x.ok ? "" : ' class="open"')+'></i>'+esc(x.r.p.name.replace(" (ARQ)",""))+'</span>'; }).join("");
+  plot.innerHTML = '<div class="pl-cap"><span>Dónde cae cada proveedor</span><span class="xs dim">escala ampliada, no empieza en cero</span></div><div class="pl-track">'+marks+'</div>' +
+    '<div class="pl-ax"><span>'+money(mn, cur)+'</span><span>'+money(mx, cur)+'</span></div><div class="pl-leg">'+leg+'</div><p class="xs dim" style="margin:6px 0 0">Punto lleno: costo publicado. Punto hueco: falta el margen, así que el neto real es menor.</p>';
 }
 
 // ---- estado + URL compartible ----
@@ -151,10 +191,10 @@ if(compEl){
 }
 
 // ---- animación de números (countUp.js + Intl) ----
-function animateTo(el, value, fmtFn){
+function animateTo(el, value, fmtFn, dec){
   if(REDUCED || !window.countUp){ el.textContent = fmtFn(value); return; }
   var from = el._v || 0; el._v = value;
-  var cu = new countUp.CountUp(el, value, {startVal: from, duration: 1.1, decimalPlaces: 2, formattingFn: fmtFn});
+  var cu = new countUp.CountUp(el, value, {startVal: from, duration: 1.1, decimalPlaces: dec === undefined ? 2 : dec, formattingFn: fmtFn});
   if(!cu.error) cu.start(); else el.textContent = fmtFn(value);
 }
 
@@ -163,12 +203,13 @@ function renderAhorro(){
   var box = $("[data-ahorro]"); if(!box || !lastR) return;
   var comp = lastR.comp, cur = C[state.cc].cur, big = $("[data-ah-big]", box), sub = $("[data-ah-sub]", box), vs = $("[data-ah-vs]", box);
   var unverified = lastR.inc.length;
-  if(comp.length < 2){ big.textContent = "—"; sub.textContent = "Necesitamos al menos dos proveedores con costo publicado para este país y monto.";
+  if(comp.length < 2){ var g0 = $("[data-ah-gauge]", box); if(g0) g0.innerHTML = meter(0); big.textContent = "—"; sub.textContent = "Necesitamos al menos dos proveedores con costo publicado para este país y monto.";
     vs.innerHTML = '<p class="small dim">'+unverified+' proveedor(es) no publican su margen cambiario, así que no entran en el cálculo.</p>'; return; }
   // opción más cara (usamos su costo mínimo) vs más barata (usamos su costo máximo): no exagera la diferencia
   var exp = comp.reduce(function(a,b){ return b.costlo > a.costlo ? b : a; });
   var chp = comp.reduce(function(a,b){ return b.costhi < a.costhi ? b : a; });
   var per = Math.max(0, exp.costlo - chp.costhi); var year = per * state.ppy;
+  var g = $("[data-ah-gauge]", box); if(g) g.innerHTML = meter(per/state.A*100);
   animateTo(big, year, function(v){ return "US$" + nf(v, 2); });
   sub.textContent = "al año · " + money(year * MID[cur], cur) + " · " + state.ppy + " pagos de " + usd(state.A);
   vs.innerHTML = '<div>Más cara con costo publicado: <b>'+esc(exp.p.name)+'</b> · costo desde '+usd(exp.costlo)+' por pago</div>' +
@@ -177,6 +218,17 @@ function renderAhorro(){
     (per <= 0 ? '<div class="small">Los costos publicados se superponen (por ejemplo, un margen publicado como rango): con datos verificados no se puede afirmar una diferencia mínima a este monto.</div>' : "") +
     (unverified ? '<div class="xs dim">'+unverified+' proveedor(es) con margen no publicado o comisiones sin verificar quedan fuera.</div>' : "");
   box._share = "Si cobro " + usd(state.A) + " " + state.ppy + " veces al año en " + C[state.cc].name + ", entre la opción más cara y la más barata con costo publicado se van " + usd(year) + " al año (" + exp.p.name + " vs " + chp.p.name + ", datos de CobraEnDólares).";
+}
+function meter(pct){
+  var cl = Math.max(0, Math.min(5, pct)), f = cl/5, ang = Math.PI*(1 - f), x = 100 + 78*Math.cos(ang), y = 100 - 78*Math.sin(ang), ticks = "";
+  for(var t = 0; t <= 10; t++){ var a = Math.PI*(1 - t/10), r1 = t % 5 ? 90 : 87; ticks += '<line x1="'+(100+r1*Math.cos(a)).toFixed(1)+'" y1="'+(100-r1*Math.sin(a)).toFixed(1)+'" x2="'+(100+95*Math.cos(a)).toFixed(1)+'" y2="'+(100-95*Math.sin(a)).toFixed(1)+'"/>'; }
+  return '<svg viewBox="0 0 200 122" class="meter"><defs><linearGradient id="mg" x1="0" x2="1"><stop offset="0" stop-color="#34e0a1"/><stop offset=".55" stop-color="#f5c451"/><stop offset="1" stop-color="#ff6b81"/></linearGradient></defs>' +
+    '<g class="tk" stroke="rgba(255,255,255,.25)" stroke-width="1.5">'+ticks+'</g>' +
+    '<path d="M22 100 A78 78 0 0 1 178 100" fill="none" stroke="rgba(255,255,255,.07)" stroke-width="14" stroke-linecap="round"/>' +
+    '<path class="mv" d="M22 100 A78 78 0 0 1 178 100" fill="none" stroke="url(#mg)" stroke-width="14" stroke-linecap="round" pathLength="100" stroke-dasharray="100" style="--o:'+(100 - f*100).toFixed(1)+'"/>' +
+    '<g class="needle" style="--a:'+(f*180 - 90).toFixed(1)+'deg"><line x1="100" y1="100" x2="100" y2="34" stroke="#f3f5f8" stroke-width="3" stroke-linecap="round"/></g><circle cx="100" cy="100" r="7" fill="#f3f5f8"/><circle cx="100" cy="100" r="3" fill="#08090b"/>' +
+    '<text x="22" y="119" class="ml">0%</text><text x="100" y="12" class="ml" text-anchor="middle">2,5%</text><text x="178" y="119" class="ml" text-anchor="end">5%+</text></svg>' +
+    '<div class="meter-v"><b>'+nf(pct, 2)+'%</b><span>del monto se pierde por pago, extra, en la opción más cara</span></div>';
 }
 var shareBtn = $("[data-share]");
 if(shareBtn) shareBtn.addEventListener("click", function(){
@@ -204,6 +256,7 @@ function scheduleWise(){
 function setStatus(ok, txt){ $$("[data-status]").forEach(function(s){ s.classList.toggle("live", ok); s.classList.toggle("snap", !ok); var t = $("[data-status-txt]", s); if(t) t.textContent = txt; }); }
 function fetchJSON(urls){ var i = 0; return new Promise(function(res, rej){ (function next(){ if(i >= urls.length) return rej(); fetch(urls[i++]).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(res, next); })(); }); }
 var H = D.hist;
+var FLAGSVG = {}; $$(".seg.flags button[data-c]").forEach(function(b){ var sv = $("svg", b); if(sv && !FLAGSVG[b.dataset.c]) FLAGSVG[b.dataset.c] = sv.innerHTML; });
 function live(){
   var p1 = fetchJSON(["https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.min.json", "https://latest.currency-api.pages.dev/v1/currencies/usd.min.json"]).then(function(d){
     ["MXN","COP","PEN","CLP","ARS"].forEach(function(c){ var v = d.usd[c.toLowerCase()]; if(v) MID[c] = v; }); MIDDATE = d.date; return true; }).catch(function(){ return false; });
@@ -224,8 +277,10 @@ function paintMarket(flash){
     if(k.indexOf("mid-") === 0){ var c = k.slice(4); v = MID[c]; prev = prevMid(c); }
     else { var casa = k.slice(3), h = H.ar[casa]; if(!AR[casa] || !h) return; v = AR[casa].venta; var last = h.dates[h.dates.length-1];
       prev = (AR[casa].t && AR[casa].t.slice(0,10) > last) ? h.venta[h.venta.length-1] : h.venta[h.venta.length-2]; }
-    var cell = $("[data-v]", tr), old = cell.textContent; cell.textContent = nf(v, 2); $("[data-c]", tr).innerHTML = chgHtml((v/prev - 1)*100);
-    if(flash && old !== cell.textContent && !REDUCED){ tr.classList.remove("flash"); void tr.offsetWidth; tr.classList.add("flash"); }
+    var cell = $("[data-v]", tr), old = parseFloat(cell.textContent.replace(/,/g, "")) , nv = nf(v, 2), ch = chgHtml((v/prev - 1)*100), same = cell.textContent === nv;
+    cell.textContent = nv; $("[data-c]", tr).innerHTML = ch;
+    $$('[data-tk="'+k+'"]').forEach(function(t){ $("[data-v]", t).textContent = nv; $("[data-c]", t).innerHTML = ch; });
+    if(flash && !REDUCED){ var cls = same ? "flash" : (v >= old ? "flash-up" : "flash-dn"); tr.classList.remove("flash","flash-up","flash-dn"); void tr.offsetWidth; tr.classList.add(cls); }
   });
   var t = $("[data-mk-time]");
   if(t){ var hm = new Intl.DateTimeFormat("es-419",{hour:"2-digit",minute:"2-digit"}).format(new Date());
@@ -241,7 +296,7 @@ function sparkSVG(vals, w, h){
   if(!vals || vals.length < 2) return ""; var lo = Math.min.apply(null, vals), hi = Math.max.apply(null, vals), rg = (hi - lo) || 1;
   var pts = vals.map(function(v, i){ return (i*(w/(vals.length-1))).toFixed(1) + "," + (h - 2 - (v - lo)/rg*(h - 4)).toFixed(1); }).join(" ");
   var avg = vals.reduce(function(a,b){ return a+b; }, 0)/vals.length, ay = (h - 2 - (avg - lo)/rg*(h - 4)).toFixed(1);
-  return '<svg viewBox="0 0 '+w+' '+h+'" preserveAspectRatio="none" aria-hidden="true"><line x1="0" x2="'+w+'" y1="'+ay+'" y2="'+ay+'" stroke="var(--line2)" stroke-dasharray="3 3"/><polyline fill="none" stroke="var(--acc)" stroke-width="1.6" points="'+pts+'"/></svg>';
+  return '<svg viewBox="0 0 '+w+' '+h+'" preserveAspectRatio="none" aria-hidden="true"><polygon fill="url(#sg-acc)" points="0,'+h+' '+pts+' '+w+','+h+'"/><line x1="0" x2="'+w+'" y1="'+ay+'" y2="'+ay+'" stroke="rgba(255,255,255,.28)" stroke-dasharray="3 3" vector-effect="non-scaling-stroke"/><polyline fill="none" stroke="var(--acc)" stroke-width="1.8" vector-effect="non-scaling-stroke" points="'+pts+'"/></svg>';
 }
 function gauge(pct){
   var cl = Math.max(-5, Math.min(5, pct)), ang = Math.PI * (1 - (cl + 5)/10), cx = 60, cy = 58, r = 46;
@@ -251,6 +306,18 @@ function gauge(pct){
     '<path d="M14 58 A46 46 0 0 1 106 58" fill="none" stroke="url(#gg)" stroke-width="9" stroke-linecap="round"/>' +
     '<line x1="'+cx+'" y1="'+cy+'" x2="'+x.toFixed(1)+'" y2="'+y.toFixed(1)+'" stroke="var(--t1)" stroke-width="2.5" stroke-linecap="round"/><circle cx="'+cx+'" cy="'+cy+'" r="4" fill="var(--t1)"/>' +
     '<text x="12" y="67" font-size="8" fill="var(--t3)" font-family="monospace">−5%</text><text x="96" y="67" font-size="8" fill="var(--t3)" font-family="monospace">+5%</text></svg>';
+}
+function thermometer(pct){
+  var cl = Math.max(-5, Math.min(5, pct)), k = (cl + 5)/10, top = 10, bot = 112, hgt = bot - top, y0 = top + hgt*0.5;
+  var col = pct > 0.05 ? "#ff8a5c" : (pct < -0.05 ? "#5fb4ff" : "#34e0a1");
+  return '<svg class="thermo-svg" viewBox="0 0 64 140" role="img" aria-label="'+nf(pct,2)+'% frente al promedio de 30 días">' +
+    '<rect x="22" y="4" width="20" height="112" rx="10" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.14)"/>' +
+    '<circle cx="32" cy="122" r="15" fill="rgba(255,255,255,.05)" stroke="rgba(255,255,255,.14)"/>' +
+    '<rect class="merc" x="27" y="'+top+'" width="10" height="'+(hgt+8)+'" rx="5" fill="'+col+'" style="--k:'+(1-k).toFixed(3)+'"/>' +
+    '<circle cx="32" cy="122" r="10" fill="'+col+'" class="bulb"/>' +
+    '<line x1="44" x2="52" y1="'+y0+'" y2="'+y0+'" stroke="rgba(255,255,255,.55)"/><text x="54" y="'+(y0+3)+'" class="tl">0</text>' +
+    '<line x1="44" x2="50" y1="'+top+'" y2="'+top+'" stroke="rgba(255,255,255,.3)"/><text x="52" y="'+(top+3)+'" class="tl">+5</text>' +
+    '<line x1="44" x2="50" y1="'+bot+'" y2="'+bot+'" stroke="rgba(255,255,255,.3)"/><text x="52" y="'+(bot+3)+'" class="tl">−5</text></svg>';
 }
 function thermoItems(){
   var out = [], names = {MXN:["mx","México"], COP:["co","Colombia"], PEN:["pe","Perú"], CLP:["cl","Chile"], ARS:["ar","Argentina · oficial (ref.)"]};
@@ -264,10 +331,11 @@ function renderThermo(){
     box.innerHTML = thermoItems().filter(function(it){ return !only || it.cc === only || (only !== "ar" && false); }).map(function(it, i){
       var avg = it.s.reduce(function(a,b){ return a+b; }, 0)/it.s.length, now = it.s[it.s.length-1], pct = (now/avg - 1)*100;
       var word = Math.abs(pct) < 0.05 ? "prácticamente igual a" : (pct > 0 ? "por encima de" : "por debajo de");
-      return '<div class="tcard reveal" style="--d:'+i+'"><div class="hd"><span>'+esc(it.label)+'</span><span>'+it.pair+'</span></div>' +
-        '<div class="val">'+nf(now, 2)+'</div>'+gauge(pct)+
-        '<div class="msg">Hoy el dólar está <b class="'+(pct>0?"up":"dn")+'">'+nf(Math.abs(pct),2)+'%</b> '+word+' su promedio de 30 días ('+nf(avg,2)+').</div>' +
-        '<div class="sp">'+sparkSVG(it.s, 200, 34)+'</div></div>';
+      var ctry = it.cc ? '<svg class="flag" viewBox="0 0 18 12" aria-hidden="true">'+(FLAGSVG[it.cc]||"")+'</svg>' : "";
+      return '<div class="tcard glass" style="--i:'+i+'"><div class="hd"><span>'+ctry+esc(it.label)+'</span><span>'+it.pair+'</span></div>' +
+        '<div class="tbody">'+thermometer(pct)+'<div class="tinfo"><div class="val">'+nf(now, 2)+'</div><div class="pct '+(Math.abs(pct) < 0.05 ? "flat" : (pct>0?"up":"dn"))+'">'+(pct>0?"+":"−")+nf(Math.abs(pct),2)+'%<small>vs. promedio 30 d</small></div>' +
+        '<div class="msg">Hoy el dólar está <b>'+nf(Math.abs(pct),2)+'%</b> '+word+' su promedio de 30 días ('+nf(avg,2)+').</div></div></div>' +
+        '<div class="sp">'+sparkSVG(it.s, 240, 40)+'</div></div>';
     }).join("");
   });
 }
@@ -316,6 +384,13 @@ if(sc && !sessionStorage.getItem("ced-cta-cerrado")){
   var trig = $("[data-cta-trigger]"); var chk = function(){ sc.classList.toggle("show", trig ? trig.getBoundingClientRect().bottom < 0 : scrollY > 600); };
   addEventListener("scroll", chk, {passive: true}); chk();
   $(".x", sc).addEventListener("click", function(){ sc.classList.remove("show"); sessionStorage.setItem("ced-cta-cerrado", "1"); removeEventListener("scroll", chk); });
+}
+
+// ---- aparición escalonada al hacer scroll ----
+if(!REDUCED && "IntersectionObserver" in window){
+  document.documentElement.classList.add("io");
+  var io = new IntersectionObserver(function(es){ es.forEach(function(en){ if(en.isIntersecting){ var t = en.target; t.classList.add("in"); io.unobserve(t); setTimeout(function(){ t.classList.add("done"); }, 1800); } }); }, {rootMargin: "0px 0px -8% 0px", threshold: 0.05});
+  $$(".reveal, section, .thermo, .res, .grid, .pcards, .news").forEach(function(n){ io.observe(n); });
 }
 
 // ---- arranque ----
