@@ -25,10 +25,15 @@ python3 scripts/build.py
 
 ## Publicar (sin Actions)
 ```bash
-git add -A && git commit -m "refresh" && git push origin main
-git push origin `git subtree split --prefix site main`:gh-pages --force
+./deploy.sh        # run.sh + commit + push main + subtree split site -> gh-pages (force) + build de Pages
+```
+Equivalente manual:
+```bash
+./run.sh && git add -A && git commit -m "refresh" && git push origin main
+git push --force origin `git subtree split --prefix site main`:refs/heads/gh-pages
 gh api -X POST repos/echacn-blip/cobraendolares/pages/builds
 ```
+El diseño (v2) vive en `assets/` y `scripts/build.py` en `main`: cualquier refresco desde `main` lo conserva.
 
 ## Newsletter
 Modo demo mientras `NEWSLETTER_USERNAME` en `config.json` esté vacío (Buttondown).
