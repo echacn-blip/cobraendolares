@@ -1,13 +1,81 @@
 {
- "generated_at": "2026-10-19T18:57:37.477243+00:00",
+ "generated_at": "2026-10-19T20:59:56.158186+00:00",
  "count": 60,
  "items": [
   {
-   "source": "Gestión",
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "Milei defendió el valor actual del dólar y criticó a la oposición: “Hoy dicen que crecemos a dos velocidades, antes no crecíamos”",
+   "link": "https://www.cronista.com/economia-politica/milei-defendio-el-valor-actual-del-dolar-y-critico-a-la-oposicion-hoy-dicen-que-crecemos-a-dos-velocidades-antes-no-creciamos/",
+   "date": "2026-10-19T20:53:20+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Economista",
+   "country": "MX",
+   "title": "Peso mexicano se aprecia levemente frente al dólar; cierra en 18.43 unidades",
+   "link": "https://www.eleconomista.com.mx/mercados/precio-dolar-hoy-19-octubre-2026-cuanto-cerro-20261019-839375.html",
+   "date": "2026-10-19T20:52:06+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Infobae",
+   "country": "AR",
+   "title": "El Banco Central ya compró más de USD 1.000 millones en lo que va de octubre",
+   "link": "https://www.infobae.com/economia/2026/10/19/el-banco-central-ya-compro-mas-de-usd-1000-millones-en-lo-que-va-de-octubre/",
+   "date": "2026-10-19T20:40:25+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Portafolio",
+   "country": "CO",
+   "title": "Comercio de Cúcuta en crisis por dólar barato: piden exonerar la ciudad del IVA, pero advierten limitantes",
+   "link": "https://www.portafolio.co/economia/regiones/comercio-de-cucuta-en-crisis-por-dolar-barato-piden-exonerar-la-ciudad-del-iva-pero-advierten-limitantes-504736",
+   "date": "2026-10-19T20:37:43+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos",
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Comercio",
    "country": "PE",
-   "title": "Tipo de cambio sube hoy en Perú: ¿en cuánto cerró el dólar este lunes 19 de octubre?",
-   "link": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-lunes-19-de-octubre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
-   "date": "2026-10-19T18:51:02+00:00",
+   "title": "Rextie se prepara para su primer salto internacional: ¿a qué mercados mira la fintech de cambio de dólares y otras divisas?",
+   "link": "https://elcomercio.pe/economia/peru/rextie-se-prepara-para-su-primer-salto-internacional-a-que-mercado-se-mueve-la-fintech-de-cambio-de-divisas-noticia/",
+   "date": "2026-10-19T20:36:34+00:00",
+   "category": "fintech",
+   "tags": [
+    "fintech",
+    "dólar"
+   ]
+  },
+  {
+   "source": "La Nación",
+   "country": "AR",
+   "title": "Fuerte reclamo de los grandes supermercados al Gobierno por las billeteras virtuales",
+   "link": "https://www.lanacion.com.ar/economia/fuerte-reclamo-de-los-grandes-supermercados-al-gobierno-por-las-billeteras-virtuales-nid19102026/",
+   "date": "2026-10-19T20:30:44+00:00",
+   "category": "fintech",
+   "tags": [
+    "fintech"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 19 de octubre",
+   "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-19-octubre-n6335161",
+   "date": "2026-10-19T20:27:00+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -16,9 +84,98 @@
   {
    "source": "El Cronista",
    "country": "AR",
+   "title": "Ingresos Brutos: supermercados presionan para extender las retenciones a las billeteras virtuales y apuntan a tres provincias",
+   "link": "https://www.cronista.com/economia-politica/ingresos-brutos-supermercados-presionan-para-extender-las-retenciones-a-las-billeteras-virtuales-y-apuntan-a-tres-provincias/",
+   "date": "2026-10-19T20:22:34+00:00",
+   "category": "fintech",
+   "tags": [
+    "fintech",
+    "impuestos"
+   ]
+  },
+  {
+   "source": "La Nación",
+   "country": "AR",
+   "title": "Fuerte impacto: estiman que, sin retenciones, el agro podría crear 850.000 empleos",
+   "link": "https://www.lanacion.com.ar/economia/campo/fuerte-impacto-estiman-que-sin-retenciones-el-agro-podria-crear-850000-empleos-nid19102026/",
+   "date": "2026-10-19T20:21:37+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "El dólar blue volvió a máximos de octubre, pero la brecha se achicó por el salto del mayorista",
+   "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-cerro-este-lunes-19-octubre-n6335467",
+   "date": "2026-10-19T20:21:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Comercio",
+   "country": "PE",
+   "title": "Sunat otorga facilidades tributarias automáticas a contribuyentes de zonas declaradas en emergencias por desastres naturales",
+   "link": "https://elcomercio.pe/economia/peru/sunat-otorga-facilidades-tributarias-automaticas-a-contribuyentes-de-zonas-declaradas-en-emergencias-por-desastres-naturales-l-ultimas-noticia/",
+   "date": "2026-10-19T20:16:06+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
    "title": "Dólar hoy y dólar blue hoy: cuál es la cotización del lunes 19 de octubre minuto a minuto",
    "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-lunes-19-de-octubre-minuto-a-minuto/",
-   "date": "2026-10-19T18:49:03+00:00",
+   "date": "2026-10-19T20:09:59+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Comercio",
+   "country": "PE",
+   "title": "Precio del dólar hoy, lunes 19 de octubre: A cuánto abrió el tipo de cambio",
+   "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-lunes-19-de-octubre-a-cuanto-esta-el-dolar-y-tipo-de-cambio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
+   "date": "2026-10-19T20:03:40+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "La Nación",
+   "country": "AR",
+   "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 19 de octubre, minuto a minuto",
+   "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid19102026/",
+   "date": "2026-10-19T19:45:21+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Infobae",
+   "country": "AR",
+   "title": "El dólar volvió a subir pero acumula un aumento de solo 3% en el último año",
+   "link": "https://www.infobae.com/economia/2026/10/19/el-dolar-volvio-a-subir-pero-acumula-un-aumento-de-solo-3-en-el-ultimo-ano/",
+   "date": "2026-10-19T19:44:24+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Comercio",
+   "country": "PE",
+   "title": "Relanzamiento del sector petrolero: Los nuevos proyectos, inversionistas de peso y la apuesta del Gobierno por la exploración",
+   "link": "https://elcomercio.pe/economia/dia-1/petroleo-gas-nuevos-proyectos-de-petroleo-y-gas-la-apuesta-del-gobierno-por-la-exploracion-noticia/",
+   "date": "2026-10-19T19:34:42+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -29,16 +186,49 @@
    "country": "AR",
    "title": "Los supermercados quieren que todas las provincias adhieran al régimen que retiene Ingresos Brutos en billeteras virtuales",
    "link": "https://www.infobae.com/economia/2026/10/19/los-supermercados-quieren-que-todas-las-provincias-adhieran-al-regimen-que-retiene-ingresos-brutos-en-billeteras-virtuales/",
-   "date": "2026-10-19T18:48:53+00:00",
+   "date": "2026-10-19T19:23:30+00:00",
    "category": "fintech",
    "tags": [
     "fintech"
    ]
   },
   {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "Dólar hoy: a cuánto cerró este lunes 19 de octubre",
+   "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-lunes-19-octubre-n6335466",
+   "date": "2026-10-19T19:12:45+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "iProfesional",
+   "country": "AR",
+   "title": "El riesgo país escala y en la City temen que contagie al dólar",
+   "link": "https://www.iprofesional.com/finanzas/466932-el-riesgo-pais-escala-y-la-city-teme-que-contagie-al-dolar",
+   "date": "2026-10-19T19:07:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Gestión",
+   "country": "PE",
+   "title": "Tipo de cambio sube hoy en Perú: ¿en cuánto cerró el dólar este lunes 19 de octubre?",
+   "link": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-lunes-19-de-octubre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
+   "date": "2026-10-19T18:59:43+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
    "source": "El Cronista",
    "country": "AR",
-   "title": "Dólar e inflación: la estrategia gradual que propone Gismondi para mejorar el tipo de cambio real",
+   "title": "Dólar e inflación: la estrategia gradual que propone Milagros Gismondi para mejorar el tipo de cambio real",
    "link": "https://www.cronista.com/finanzas-mercados/dolar-e-inflacion-la-estrategia-gradual-que-propone-gismondi-para-mejorar-el-tipo-de-cambio-real/",
    "date": "2026-10-19T18:48:50+00:00",
    "category": "dólar",
@@ -69,28 +259,6 @@
    ]
   },
   {
-   "source": "La Nación",
-   "country": "AR",
-   "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 19 de octubre, minuto a minuto",
-   "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid19102026/",
-   "date": "2026-10-19T18:30:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "Dólar hoy: a cuánto cotiza este lunes 19 de octubre",
-   "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-lunes-19-octubre-n6335147",
-   "date": "2026-10-19T18:29:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
    "source": "El Cronista",
    "country": "AR",
    "title": "El dólar blue subió $ 5: a cuánto cotizó hoy lunes 19 de octubre con el MEP y el CCL",
@@ -113,17 +281,6 @@
    ]
   },
   {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "Relanzamiento del sector petrolero: Los nuevos proyectos, inversionistas de peso y la apuesta del Gobierno por la exploración",
-   "link": "https://elcomercio.pe/economia/dia-1/petroleo-gas-nuevos-proyectos-de-petroleo-y-gas-la-apuesta-del-gobierno-por-la-exploracion-noticia/",
-   "date": "2026-10-19T18:13:39+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
    "source": "Portafolio",
    "country": "CO",
    "title": "Minvivienda Jaime Beltrán alerta por obras de agua sin avances: $3.600 millones desembolsados y costos en dólares",
@@ -131,29 +288,6 @@
    "date": "2026-10-19T18:02:19+00:00",
    "category": "dólar",
    "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 19 de octubre",
-   "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-19-octubre-n6335161",
-   "date": "2026-10-19T17:42:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "Rextie se prepara para su primer salto internacional: ¿a qué mercados mira la fintech de cambio de dólares y otras divisas?",
-   "link": "https://elcomercio.pe/economia/peru/rextie-se-prepara-para-su-primer-salto-internacional-a-que-mercado-se-mueve-la-fintech-de-cambio-de-divisas-noticia/",
-   "date": "2026-10-19T17:39:41+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech",
     "dólar"
    ]
   },
@@ -200,28 +334,6 @@
    "tags": [
     "remesas",
     "dólar"
-   ]
-  },
-  {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "Billeteras virtuales ganan terreno: cuáles pagan mejores tasas y superan al plazo fijo",
-   "link": "https://www.cronista.com/infotechnology/finanzas-digitales/billeteras-virtuales-ganan-terreno-cuales-pagan-mejores-tasas-y-superan-al-plazo-fijo/",
-   "date": "2026-10-19T17:00:00+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
-   ]
-  },
-  {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "Feijóo presenta sus doce compromisos para llegar a Moncloa: bajada de impuestos, pensiones garantizadas y un millón de viviendas",
-   "link": "https://www.cronista.com/espana/politica-es/feijoo-presenta-sus-doce-compromisos-para-llegar-a-moncloa-bajada-de-impuestos-pensiones-garantizadas-y-un-millon-de-viviendas/",
-   "date": "2026-10-19T16:58:48+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
    ]
   },
   {
@@ -325,22 +437,22 @@
    ]
   },
   {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "Precio del dólar hoy, lunes 19 de octubre: A cuánto abrió el tipo de cambio",
-   "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-lunes-19-de-octubre-a-cuanto-esta-el-dolar-y-tipo-de-cambio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
-   "date": "2026-10-19T14:41:00+00:00",
+   "source": "iProfesional",
+   "country": "AR",
+   "title": "Cuántos dólares podrían llegar al mercado cambiario si los productores venden sus granos",
+   "link": "https://www.iprofesional.com/finanzas/466911-dolares-del-campo-granos-sin-vender-liquidacion-2026",
+   "date": "2026-10-19T14:39:00+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
    ]
   },
   {
-   "source": "iProfesional",
-   "country": "AR",
-   "title": "Cuántos dólares podrían llegar al mercado cambiario si los productores venden sus granos",
-   "link": "https://www.iprofesional.com/finanzas/466911-dolares-del-campo-granos-sin-vender-liquidacion-2026",
-   "date": "2026-10-19T14:39:00+00:00",
+   "source": "LaPrensa.hn",
+   "country": "LatAm",
+   "title": "Dólar registra una leve baja en Honduras este lunes 19 de octubre",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVgwRlp1bDh5c19QX3hiR1liTjdBTW9KSWMzZGZNQ2p4RFJuMngwazhIbU1kNjc5cENjUElGdnZ2M3BOeC1JRTdSdlN4SVJZT3cwS0VmUTI3VTBzemw0UEVJLVhZQXZVOVdVRlY2bUktSDJmLXUxU0h0YklfS2FpbWlGTTBqbmdkR283dnB0WUJITnVHcG8xbkxNRUtXZXRKN1dxSDdlYlNuZHlKLVZRUVo4bmNtMzNCcnc?oc=5",
+   "date": "2026-10-19T14:34:34+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -363,17 +475,6 @@
    "title": "La advertencia del mercado a Milei sobre la \"súper bazuka\" de 125.000 millones de dólares",
    "link": "https://www.iprofesional.com/finanzas/466866-que-advierte-la-city-sobre-la-super-bazuca-de-dolares-de-milei",
    "date": "2026-10-19T14:30:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "LaPrensa.hn",
-   "country": "LatAm",
-   "title": "Dólar registra una leve baja en Honduras este lunes 19 de octubre",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVgwRlp1bDh5c19QX3hiR1liTjdBTW9KSWMzZGZNQ2p4RFJuMngwazhIbU1kNjc5cENjUElGdnZ2M3BOeC1JRTdSdlN4SVJZT3cwS0VmUTI3VTBzemw0UEVJLVhZQXZVOVdVRlY2bUktSDJmLXUxU0h0YklfS2FpbWlGTTBqbmdkR283dnB0WUJITnVHcG8xbkxNRUtXZXRKN1dxSDdlYlNuZHlKLVZRUVo4bmNtMzNCcnc?oc=5",
-   "date": "2026-10-19T14:22:00+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -437,7 +538,7 @@
   {
    "source": "La República",
    "country": "CO",
-   "title": "Dólar cerró la jornada en $3.156, una diferencia de $18,3 frente a la TRM",
+   "title": "El dólar cerró la jornada en $3.156, con una diferencia de $18,3 frente a la TRM del día",
    "link": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-19-de-octubre-4505897",
    "date": "2026-10-19T13:10:26+00:00",
    "category": "dólar",
@@ -454,6 +555,17 @@
    "category": "dólar",
    "tags": [
     "dólar"
+   ]
+  },
+  {
+   "source": "TradingView",
+   "country": "LatAm",
+   "title": "Is It Wise to Retain Crown Castle Stock in Your Portfolio Right Now?",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1U3X3FuNl9mRmpCZ1NZWlZqZUdDbldvcjRYQk9MQVpwaGhUOGpDM0dwbWJWeDJKSy1fZmpuX2FPOWhVdThXT2tGWkhIdnRkOGpGN0ZzZERMRkdEM1pBNUw0QWlOTTBFOU1QX0ZxUG9qaUdBbERCbVpsd2FZTmNyUFdPVllmV0VpYlU5aTcyLTN6NUcyaG5NVjNfS3l2Z1N0Y1A0blRJYmM2V25vQXROUWl2eFZZcjdYalRycEFyaw?oc=5",
+   "date": "2026-10-19T12:12:00+00:00",
+   "category": "fintech",
+   "tags": [
+    "fintech"
    ]
   },
   {
@@ -476,6 +588,17 @@
    "category": "dólar",
    "tags": [
     "dólar"
+   ]
+  },
+  {
+   "source": "https://estrelladigital.com.mx/",
+   "country": "LatAm",
+   "title": "Remesas disminuyen en Saltillo, Torreón y Monclova, Coahuila",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lZ1hQWUxSZkR1WTNVZmVlemhIQ0c3ckFfM0N3WXRKZld0WDdVVXdYaWVRdzZrVHdmaVNrT2pIdlVoanVwT09QanZHNXJBNXUwNm80eGU5MUd5M2M5V0FFbkhKc3otSDgtOFkzRUNCb1BjY0ZyVHRLVXBfMzRvUWs?oc=5",
+   "date": "2026-10-19T11:00:00+00:00",
+   "category": "remesas",
+   "tags": [
+    "remesas"
    ]
   },
   {
@@ -502,17 +625,6 @@
    ]
   },
   {
-   "source": "Vietnam.vn",
-   "country": "LatAm",
-   "title": "Las remesas a Ciudad Ho Chi Minh aumentaron en casi un 40% en el tercer trimestre.",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQamFPMDZpUW9OTXpwc2RRR3AwWXdQYzFSckpGUHVJTmxtbm9RUERDZWNmUU55X3E1V2JYQ3hxcFNINmp3WVhPNHpiWlNXazRDR3pQay14ZGs1cm5BOXlTeE1fZWJhemQwRWtyZ1ZBb2cwakx3ZnYxMFFaanlnZnRESkxoQnhCQQ?oc=5",
-   "date": "2026-10-19T06:58:40+00:00",
-   "category": "remesas",
-   "tags": [
-    "remesas"
-   ]
-  },
-  {
    "source": "Gestión",
    "country": "PE",
    "title": "Gobierno transfiere S/ 12.4 millones a Ministerio de Defensa para pago de impuestos",
@@ -526,8 +638,8 @@
   {
    "source": "Ámbito",
    "country": "AR",
-   "title": "Dólar blue hoy: a cuánto opera este domingo 18 de octubre",
-   "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-domingo-18-octubre-n6334994",
+   "title": "Dólar hoy: a cuánto cotiza este domingo 18 de octubre",
+   "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-domingo-18-octubre-n6334993",
    "date": "2026-10-19T02:57:00+00:00",
    "category": "dólar",
    "tags": [
@@ -551,116 +663,6 @@
    "title": "Precio del dólar en Colombia: Qué pasará con la moneda entre el 19 y el 23 de octubre de 2026; expertos dicen por qué seguiría “barato”",
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQ0hTc3Y5TWlMRExXby1kbDZTZmxxNmF1WHR6SjZZb0JqWU0yTElyOERQX1VrOGxTQ1RPZ0FpQ1lmZU1qZFRGOEh5YzdWal9jYUNNQk5FRTZwa0VSNElvcmJXVlRRQXAtQ2psOElkZW5yaDZiQUhDcHNUUVlGOU9TekM5VnNnRHJsYUFIV2RiRl91ZXNRcWV4ZG9jQTlaWGQ2MnVRUmMxM1M2bEkwRDIwQ3RNd3VsZXlEZVVLV1lBUTlxTU9NXzQ0N2FmQUpWbUs4amwxQjlIMFBGaG1hR25FRjZQeVZUWjZDSFhtS3EwTGVhYVdONGpocmRTVzRvLXlKM29VMkIyONIBogJBVV95cUxPbUI5alF0V09xZmhFTjJzRXRoa1hxVFRRcU16cE9YdUFMQ0xqWnkxSHMzbmptQ2JfdDJuNnZkQ0d5QW5EZVVhR2tKVVQ4d2prU2lVcS0xVUViXy1FUFNjNEJyX1pua2d3TlhNYmFLN0dtUmlyN2F6Vk9WTTRWck01bThndVY5aDkzeVZfd19ITUhIdUEtLTNiWWwxNmlBbXdwQkRTRWJjcWFadWQwa2toZ2wwNm5VbWdQaFZXeHhFd1FhU1ZlYnJIbXlvdlp2MW5xZ1JEMjkwUGFwS2ZQR1FWNl9OWWhiWGtBX1Zrbl9BZ0hYWktzMDBWV3dhOU1xdnpEMWZiRVVoZzhIRDRnWHJPZmRhWDhxemt4R1BhUUE4OTBiZw?oc=5",
    "date": "2026-10-18T22:23:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "La Nación",
-   "country": "AR",
-   "title": "Advierten que los servicios impiden que baje la inflación, aun con una economía debilitada y el dólar planchado",
-   "link": "https://www.lanacion.com.ar/economia/advierten-que-los-servicios-impiden-que-baje-la-inflacion-aun-con-una-economia-debilitada-y-el-dolar-nid18102026/",
-   "date": "2026-10-18T21:56:42+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "Precio del dólar en Perú: cierre del domingo 18 de octubre",
-   "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-domingo-18-de-octubre-a-cuanto-esta-el-dolar-y-tipo-de-cambio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
-   "date": "2026-10-18T20:38:22+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "Martín Uribe: \"Muchos de los dólares que están en el Banco Central no le pertenecen al Gobierno”",
-   "link": "https://www.ambito.com/economia/martin-uribe-muchos-los-dolares-que-estan-el-banco-central-no-le-pertenecen-al-gobierno-n6335014",
-   "date": "2026-10-18T19:17:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Expreso",
-   "country": "LatAm",
-   "title": "Repuntan remesas en Tamaulipas",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uRlZYeDR1V1FCdFFKLTdtbld5WU5Pd3RPWm1VSzFTcVBzTUlxcUN1UHRxTjd4VEN0bWlKM3N4ME9ZY2tqMm1xUUhfam1wQ1FzdzZ5andtc3hKVk9CNEZRTHFjTVlVbU1EM2J4N3FCWmRNQQ?oc=5",
-   "date": "2026-10-18T15:31:00+00:00",
-   "category": "remesas",
-   "tags": [
-    "remesas"
-   ]
-  },
-  {
-   "source": "MundoNOW",
-   "country": "LatAm",
-   "title": "Dólar en México: FIX de 18.4930, máximo desde nov. 2025",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TRFlvblJsSHZFa0VEalV1VDVBWFpOY1BSTTF2amY1ekxlaHFZQVBFQ091X2ZEQUtKYVlTQlIxX0EtZWVTRGFZMGVIWjh3NnQzUVE1Nm5DVmZURlg3aEM0akNDQldZMV9GcjdSWDdGRGVNUmZpX1E?oc=5",
-   "date": "2026-10-18T14:19:34+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Hoy Tamaulipas",
-   "country": "LatAm",
-   "title": "Caen remesas en Tamaulipas; esperan recuperación en 2026",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2R2cW5vbXZ5MTVBaGJqNHMxWXVjcDBOcDdkd21nYkRHOFNGenoyQS1mZnd6ZUFLZ3drclZ1ZlluX3VsTGk1ZVFOeXdZV2RKek9CRDhzTnFsNWl5NEhqNmtuejFIbFhrWmlCakdzaUtXcEs0MHVNUTJkUVhPTGV6M2tfVkstQ2FHajB5cWVsQnV6MTFqQ09aWjE3elZtQjlWSHpmdktn?oc=5",
-   "date": "2026-10-18T14:00:00+00:00",
-   "category": "remesas",
-   "tags": [
-    "remesas"
-   ]
-  },
-  {
-   "source": "La Nación",
-   "country": "AR",
-   "title": "Con dudas, en Wall Street se preguntan por los dólares para pagar la deuda en el año electoral",
-   "link": "https://www.lanacion.com.ar/economia/con-dudas-en-wall-street-se-preguntan-por-los-dolares-para-pagar-la-deuda-en-el-ano-electoral-nid18102026/",
-   "date": "2026-10-18T10:59:47+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "iProfesional",
-   "country": "AR",
-   "title": "Caputo acelera la compra de dólares y la City anticipa más operaciones en bloque",
-   "link": "https://www.iprofesional.com/finanzas/466643-caputo-acelera-la-compra-de-dolares-y-la-city-anticipa-mas-operaciones-en-bloque",
-   "date": "2026-10-18T10:13:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Financiero",
-   "country": "MX",
-   "title": "El dólar: la velocidad y la distancia son diferentes",
-   "link": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/10/17/el-dolar-la-velocidad-y-la-distancia-son-diferentes/",
-   "date": "2026-10-18T04:43:54+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "Precio del dólar en Perú: cuál fue el tipo de cambio del sábado 17 de octubre",
-   "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-sabado-17-de-octubre-a-cuanto-esta-el-dolar-y-tipo-de-cambio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
-   "date": "2026-10-17T22:00:00+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
