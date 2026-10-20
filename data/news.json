@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-19T22:51:59.452426+00:00",
+ "generated_at": "2026-10-20T00:56:45.147123+00:00",
  "count": 60,
  "items": [
   {
    "source": "El Tiempo",
    "country": "CO",
-   "title": "Estos son los 18 impuestos que el ministro de Hacienda señala como la raíz de los males fiscales de Colombia: ¿Cuánto recaudan?",
-   "link": "https://www.eltiempo.com/economia/sectores/estos-son-los-18-impuestos-que-el-ministro-de-hacienda-senala-como-la-raiz-de-los-males-fiscales-de-colombia-cuanto-recaudan-3594742",
-   "date": "2026-10-19T22:45:10+00:00",
+   "title": "Arturo Calle vs. Temu y Shein: más de 2.000 empleos perdidos y el debate por los impuestos en Colombia",
+   "link": "https://www.eltiempo.com/economia/sectores/arturo-calle-vs-temu-y-shein-mas-de-2-000-empleos-perdidos-y-el-debate-por-los-impuestos-en-colombia-3594779",
+   "date": "2026-10-20T00:44:21+00:00",
    "category": "impuestos",
    "tags": [
     "impuestos"
@@ -16,7 +16,86 @@
   {
    "source": "Ámbito",
    "country": "AR",
-   "title": "El dólar oficial registró la mayor suba diaria en casi tres semanas y el MEP cerró arriba de $1.54",
+   "title": "Las criptomonedas operan con tendencia negativa: Bitcoin lucha por superar los u$s82.000",
+   "link": "https://www.ambito.com/finanzas/bitcoin-busca-recuperar-los-us82000-mientras-se-encamina-cerrar-una-semana-la-baja-n6334643",
+   "date": "2026-10-20T00:29:00+00:00",
+   "category": "fintech",
+   "tags": [
+    "fintech"
+   ]
+  },
+  {
+   "source": "El Comercio",
+   "country": "PE",
+   "title": "Relanzamiento del sector petrolero: Los nuevos proyectos, inversionistas de peso y la apuesta del Gobierno por la exploración",
+   "link": "https://elcomercio.pe/economia/dia-1/petroleo-gas-nuevos-proyectos-de-petroleo-y-gas-la-apuesta-del-gobierno-por-la-exploracion-noticia/",
+   "date": "2026-10-20T00:22:27+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Gestión",
+   "country": "PE",
+   "title": "¿Tienes impuestos pendientes? Sunat otorga facilidades automáticas en zonas de emergencia",
+   "link": "https://gestion.pe/economia/sunat-quienes-pueden-postergar-el-pago-de-impuestos-en-zonas-de-emergencia-y-como-acceder-noticia/",
+   "date": "2026-10-19T23:59:03+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "El Comercio",
+   "country": "PE",
+   "title": "Rextie se prepara para su primer salto internacional: ¿a qué mercados mira la fintech de cambio de dólares y otras divisas?",
+   "link": "https://elcomercio.pe/economia/peru/rextie-se-prepara-para-su-primer-salto-internacional-a-que-mercado-se-mueve-la-fintech-de-cambio-de-divisas-noticia/",
+   "date": "2026-10-19T23:49:10+00:00",
+   "category": "fintech",
+   "tags": [
+    "fintech",
+    "dólar"
+   ]
+  },
+  {
+   "source": "Mi bolsillo",
+   "country": "LatAm",
+   "title": "El error oculto al enviar dólares a México: por qué puedes perder dinero en tus remesas",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHFTb2txN2JITTNDUDBBNmt1Slo2eFpvUWlHRHpTWjh6QTBjUlVyQlJYdGxSLVp1WlQ0UDFiM0Y3NzN5ZUFpalhZVkQwZG8wMld2bTVsQVN3RXNpbmlWUk1IMng4TDJtLUxuM2lhUUtJTEFDN1lLOVpEODdManF5eVBEMk9aOEsyUjZvc1h3bllMTWFZcVlHZy1CYnhFdFlSSDVOczBSZ1NFM0JSR1l6WjRUSXdLMVRNX2o4Vm5wSFJsZzFRMFZnN0hsQlg4MzVVbm04?oc=5",
+   "date": "2026-10-19T23:33:00+00:00",
+   "category": "remesas",
+   "tags": [
+    "remesas",
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Tiempo",
+   "country": "CO",
+   "title": "Estos son los 18 impuestos que el ministro de Hacienda señala como la raíz de los males fiscales de Colombia: ¿Cuánto recaudan?",
+   "link": "https://www.eltiempo.com/economia/sectores/estos-son-los-18-impuestos-que-el-ministro-de-hacienda-senala-como-la-raiz-de-los-males-fiscales-de-colombia-cuanto-recaudan-3594742",
+   "date": "2026-10-19T23:01:52+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "iProfesional",
+   "country": "AR",
+   "title": "Los cambios que prepara el BCRA para impulsar el crédito a familias y empresas",
+   "link": "https://www.iprofesional.com/finanzas/466968-los-cambios-que-prepara-el-bcra-para-impulsar-el-credito-a-familias-y-empresas",
+   "date": "2026-10-19T22:57:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "El dólar oficial registró la mayor suba diaria en casi tres semanas y el MEP cerró arriba de $1.540",
    "link": "https://www.ambito.com/finanzas/el-dolar-mayorista-se-ubica-arriba-1530-y-el-bcra-busca-acelerar-la-compra-reservas-n6335172",
    "date": "2026-10-19T22:28:00+00:00",
    "category": "dólar",
@@ -56,17 +135,6 @@
    "category": "dólar",
    "tags": [
     "dólar"
-   ]
-  },
-  {
-   "source": "Gestión",
-   "country": "PE",
-   "title": "¿Tienes impuestos pendientes? Sunat otorga facilidades automáticas en zonas de emergencia",
-   "link": "https://gestion.pe/economia/sunat-quienes-pueden-postergar-el-pago-de-impuestos-en-zonas-de-emergencia-y-como-acceder-noticia/",
-   "date": "2026-10-19T22:08:27+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
    ]
   },
   {
@@ -119,17 +187,6 @@
    "title": "Cuál es el factor que puede empujar el dólar a la baja, según el economista De Pablo",
    "link": "https://www.iprofesional.com/finanzas/466957-cual-es-factor-que-puede-empujar-dolar-a-la-baja-segun-economista-de-pablo",
    "date": "2026-10-19T21:41:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "Relanzamiento del sector petrolero: Los nuevos proyectos, inversionistas de peso y la apuesta del Gobierno por la exploración",
-   "link": "https://elcomercio.pe/economia/dia-1/petroleo-gas-nuevos-proyectos-de-petroleo-y-gas-la-apuesta-del-gobierno-por-la-exploracion-noticia/",
-   "date": "2026-10-19T21:39:24+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -225,18 +282,6 @@
    ]
   },
   {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "Rextie se prepara para su primer salto internacional: ¿a qué mercados mira la fintech de cambio de dólares y otras divisas?",
-   "link": "https://elcomercio.pe/economia/peru/rextie-se-prepara-para-su-primer-salto-internacional-a-que-mercado-se-mueve-la-fintech-de-cambio-de-divisas-noticia/",
-   "date": "2026-10-19T20:36:34+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech",
-    "dólar"
-   ]
-  },
-  {
    "source": "La Nación",
    "country": "AR",
    "title": "Fuerte reclamo de los grandes supermercados al Gobierno por las billeteras virtuales",
@@ -295,7 +340,7 @@
   {
    "source": "El Comercio",
    "country": "PE",
-   "title": "Precio del dólar hoy, lunes 19 de octubre: A cuánto abrió el tipo de cambio",
+   "title": "Precio del dólar del lunes 19 de octubre: cuál fue el cierre del tipo de cambio",
    "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-lunes-19-de-octubre-a-cuanto-esta-el-dolar-y-tipo-de-cambio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
    "date": "2026-10-19T20:03:40+00:00",
    "category": "dólar",
@@ -447,18 +492,6 @@
    ]
   },
   {
-   "source": "Mi bolsillo",
-   "country": "LatAm",
-   "title": "¿Mandas dinero a México?, Profeco revela las remesadoras que te dan más pesos por tus dólares esta semana",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSnRXOUV0U3paV3A1LW9lUTQ2SFRTSzFCc2hmUWFHUDl4U0VmQmpXamRyQUhZNVYyV2FqUUxBUUJNVzBZZ3JYeUR2d3V5UmM1cmwzeGZrQmxXZ2R0c1Fzb0ZpSWJLVFluSUdUMUlmM2QzRlc1cXVTdWZpbnFIUEtMdDY1Zl9iTi1jOENLREY0bXlLeXdDUkQ5dHAzd2hVZkVhWWpzdXpBWUZHVmUyc2ozZDZIclpma3czRjVEVTFTYTl4MTNRd01QbTR0LXppekFTUW82Q29uNVhXdFAwOXhLLXRVS3drMjRsemV5N2xR?oc=5",
-   "date": "2026-10-19T17:01:00+00:00",
-   "category": "remesas",
-   "tags": [
-    "remesas",
-    "dólar"
-   ]
-  },
-  {
    "source": "El Economista",
    "country": "MX",
    "title": "Inflación en México pone a prueba al peso",
@@ -515,6 +548,17 @@
    ]
   },
   {
+   "source": "La Revista Peninsular",
+   "country": "LatAm",
+   "title": "Oxkutzcab supera a Mérida: recibe 18 veces más remesas por habitante",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUZ0SmRQNkRibG4zWGJZUWRZRWtQRWF5ZXJPU091RFpLZVduX2NBamhhWHNxTjVwT2NmUTFNcGQ5bTZtOUdDTUJQTEJaR0s0d1JUdmNMbzVOZVB0LXpGY0FrVTZIbi1wb081dE5UaUt0cFFuS05JUzNpSFVlY3A1c3IzVlJxZmRRUmVpTVFlVEJWcWxoR29wZzAzUC1XbEhxX1M5cUxXMElkd1BfcmVLYw?oc=5",
+   "date": "2026-10-19T16:09:00+00:00",
+   "category": "remesas",
+   "tags": [
+    "remesas"
+   ]
+  },
+  {
    "source": "El Comercio",
    "country": "PE",
    "title": "Tipo de cambio al 19 de octubre: sol peruano gana terreno frente al dólar en medio de la incertidumbre internacional",
@@ -559,33 +603,11 @@
    ]
   },
   {
-   "source": "iProfesional",
-   "country": "AR",
-   "title": "Cuántos dólares podrían llegar al mercado cambiario si los productores venden sus granos",
-   "link": "https://www.iprofesional.com/finanzas/466911-dolares-del-campo-granos-sin-vender-liquidacion-2026",
-   "date": "2026-10-19T14:39:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Por Esto!",
-   "country": "LatAm",
-   "title": "Oxkutzcab recibe 18 veces más remesas por habitante que Mérida",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTFNZTHh1RVg4SEFvQ2tIQjBYN2lsSFNZSl9BMGlQVFgycTJkNXFSUUV2QkFPX0g3SzhMUnVTQWxPMlQ3VEw5eHRzb0o1YjEwOS1pMXZOSjFkTXJydmd1cHN2SVRBMjZydTRuZm9yTXlndDAwZU9rTS16Y3Jyc29iOEtpVmFMRnduTFM4YU80OHNVWXPSAZgBQVVfeXFMT2MxWkhUbXdZZWIwR0pJUTZwOE9hdGMtcFB0SzNWdGdyRVo2R0ZSOThxWURlS1B2NGZCR212dkQ4NGJIWEMyY1RQSDJNdndKa2xrZWJGaXVoeWNfakJxd1BzTHo4TklnMkpYZGh6TnlBNmYzdkFtbzBnc25lVlVqemo5RWhxa3BncHJmdjVfMEVydG51TEFhQ2Q?oc=5",
-   "date": "2026-10-19T14:33:26+00:00",
-   "category": "remesas",
-   "tags": [
-    "remesas"
-   ]
-  },
-  {
    "source": "LaPrensa.hn",
    "country": "LatAm",
    "title": "Dólar registra una leve baja en Honduras este lunes 19 de octubre",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVgwRlp1bDh5c19QX3hiR1liTjdBTW9KSWMzZGZNQ2p4RFJuMngwazhIbU1kNjc5cENjUElGdnZ2M3BOeC1JRTdSdlN4SVJZT3cwS0VmUTI3VTBzemw0UEVJLVhZQXZVOVdVRlY2bUktSDJmLXUxU0h0YklfS2FpbWlGTTBqbmdkR283dnB0WUJITnVHcG8xbkxNRUtXZXRKN1dxSDdlYlNuZHlKLVZRUVo4bmNtMzNCcnc?oc=5",
-   "date": "2026-10-19T14:22:00+00:00",
+   "date": "2026-10-19T14:34:34+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -608,28 +630,6 @@
    "title": "Precio del dólar hoy: así cotizan los principales bancos de México",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVI1QXUxaHo5N1RDVk9uRk9UQmdtT1IxcWNoMTNrOFhkSTFybDlERnJsLW85R2phRENUaEdDanZGMXNmZnJFU1VzRjZSalozcHAxSjZKbG56LU9CbS1vTGd5UDI3SFlOVm4yb2dUS3NpbzUxV3pzOHVDd0lLWFRZbDR4OWJjOUFhN0R3cHpiMWQyX3FUamUyOEdvcm5JWXhzZ2FRM19WeElPdUE?oc=5",
    "date": "2026-10-19T13:47:03+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "Bitcoin hoy: la criptomoneda roza los u$s82.000 impulsada por un rebote del mercado",
-   "link": "https://www.ambito.com/finanzas/bitcoin-busca-recuperar-los-us82000-mientras-se-encamina-cerrar-una-semana-la-baja-n6334643",
-   "date": "2026-10-19T13:31:00+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
-   ]
-  },
-  {
-   "source": "El Economista",
-   "country": "MX",
-   "title": "La Fed cree que auge de la IA agrava problema de inflación, pero otros podrían pagar el precio",
-   "link": "https://www.eleconomista.com.mx/economia/fed-cree-auge-ia-agrava-problema-inflacion-otros-pagar-precio-20261019-839310.html",
-   "date": "2026-10-19T13:16:56+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
