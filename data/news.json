@@ -1,24 +1,35 @@
 {
- "generated_at": "2026-10-21T16:52:29.864909+00:00",
+ "generated_at": "2026-10-21T19:00:58.836794+00:00",
  "count": 60,
  "items": [
   {
-   "source": "El Financiero",
-   "country": "MX",
-   "title": "Cuando la ‘maldad’ del dólar acecha al peso: Se deprecia más de 1% este miércoles",
-   "link": "https://www.elfinanciero.com.mx/mercados/2026/10/21/peso-dolar-tipo-de-cambio-precio-hoy-21-de-octubre-de-2026/",
-   "date": "2026-10-21T16:44:16+00:00",
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "Iberdrola aumenta un 10% sus ganancias y alcanza los 5816 millones de euros por el impulso de las redes eléctricas",
+   "link": "https://www.cronista.com/espana/economia-finanzas/iberdrola-aumenta-un-10-sus-ganancias-y-alcanza-los-5816-millones-de-euros-por-el-impulso-de-las-redes-electricas/",
+   "date": "2026-10-21T18:44:55+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "Las pymes se financiaron a una TEA en pesos de casi 30% en septiembre y a una TNA en dólares del 7%",
+   "link": "https://www.ambito.com/finanzas/las-pymes-se-financiaron-una-tea-pesos-casi-30-septiembre-y-una-tna-dolares-del-7-n6336379",
+   "date": "2026-10-21T18:44:00+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
    ]
   },
   {
-   "source": "Ámbito",
+   "source": "El Cronista",
    "country": "AR",
-   "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 21 de octubre",
-   "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-21-octubre-n6336114",
-   "date": "2026-10-21T16:40:00+00:00",
+   "title": "Dólar hoy y dólar blue hoy: cuál es la cotización del miércoles 21 de octubre minuto a minuto",
+   "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-miercoles-21-de-octubre-minuto-a-minuto/",
+   "date": "2026-10-21T18:43:46+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -29,7 +40,151 @@
    "country": "AR",
    "title": "Dólar hoy: a cuánto cotiza este miércoles 21 de octubre",
    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-21-octubre-n6336095",
-   "date": "2026-10-21T16:40:00+00:00",
+   "date": "2026-10-21T18:40:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "Dólar: el mercado espera que se mantenga la estabilidad antes de que arranque la volatilidad electoral",
+   "link": "https://www.ambito.com/finanzas/dolar-el-mercado-espera-que-se-mantenga-la-estabilidad-antes-que-arranque-la-volatilidad-electoral-n6336414",
+   "date": "2026-10-21T18:35:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "El dólar oficial cerró sin cambios: a cuánto quedó en los bancos hoy miércoles 21 de octubre",
+   "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-miercoles-21-de-octubre/",
+   "date": "2026-10-21T18:34:02+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "Paso a paso: cómo pagar el Monotributo con QR para evitar una deuda con ARCA",
+   "link": "https://www.cronista.com/economia-politica/paso-a-paso-como-pagar-el-monotributo-con-qr-para-evitar-una-deuda-con-arca/",
+   "date": "2026-10-21T18:25:56+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "El dólar oficial tocó un nuevo récord nominal y la acumulación de reservas concentró la atención del mercado",
+   "link": "https://www.ambito.com/finanzas/el-dolar-oficial-llego-maximos-del-mes-y-la-acumulacion-reservas-concentra-la-atencion-del-mercado-n6336130",
+   "date": "2026-10-21T18:22:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "El dólar blue revirtió la suba inicial y perdió $ 5: a cuánto cerró este miércoles con el MEP y el CCL",
+   "link": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-el-miercoles-21-de-octubre-con-el-mep-y-el-ccl/",
+   "date": "2026-10-21T18:19:23+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "Netflix cae en Wall Street tras proyectar débiles ganancias y despedir al 6% de su personal",
+   "link": "https://www.ambito.com/finanzas/netflix-cae-wall-street-proyectar-debiles-ganancias-y-despedir-al-6-su-personal-n6336396",
+   "date": "2026-10-21T17:54:00+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 21 de octubre",
+   "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-21-octubre-n6336114",
+   "date": "2026-10-21T17:44:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "Jensen Huang, CEO de Nvidia: “No tengo miedo de pagar impuestos. Solo tengo miedo de ser pobre”",
+   "link": "https://www.cronista.com/espana/actualidad-es/jensen-huang-ceo-de-nvidia-no-tengo-miedo-de-pagar-impuestos-solo-tengo-miedo-de-ser-pobre/",
+   "date": "2026-10-21T17:43:02+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "El Comercio",
+   "country": "PE",
+   "title": "El dólar inicia la jornada en S/3,43 mientras el mercado espera nuevos datos económicos de EE.UU.",
+   "link": "https://elcomercio.pe/economia/peru/el-dolar-inicia-la-jornada-en-s343-mientras-el-mercado-espera-nuevos-datos-economicos-de-ee-uu-l-ultimas-noticia/",
+   "date": "2026-10-21T17:11:10+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Financiero",
+   "country": "MX",
+   "title": "Cuando la ‘maldad’ del dólar acecha al peso: Se deprecia más de 1% este miércoles",
+   "link": "https://www.elfinanciero.com.mx/mercados/2026/10/21/peso-dolar-tipo-de-cambio-precio-hoy-21-de-octubre-de-2026/",
+   "date": "2026-10-21T17:06:02+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Economista",
+   "country": "MX",
+   "title": "Impuestos por criptomonedas en México: cuándo y cuánto pagas",
+   "link": "https://www.eleconomista.com.mx/finanzaspersonales/impuestos-criptomonedas-mexico-cuanto-pagas-20261021-839657.html",
+   "date": "2026-10-21T17:00:00+00:00",
+   "category": "fintech",
+   "tags": [
+    "fintech",
+    "impuestos"
+   ]
+  },
+  {
+   "source": "Gestión",
+   "country": "PE",
+   "title": "Fintech se alistan a diversificar oferta en Perú: ¿llegará unicornio?",
+   "link": "https://gestion.pe/economia/empresas/fintech-se-alistan-a-diversificar-oferta-en-peru-llegara-unicornio-noticia/",
+   "date": "2026-10-21T17:00:00+00:00",
+   "category": "fintech",
+   "tags": [
+    "fintech"
+   ]
+  },
+  {
+   "source": "Bloomberg Línea",
+   "country": "LatAm",
+   "title": "Peso mexicano cae con fuerza ante el dólar y encabeza pérdidas entre monedas emergentes",
+   "link": "https://www.bloomberglinea.com/latinoamerica/mexico/peso-mexicano-cae-con-fuerza-ante-el-dolar-y-encabeza-perdidas-entre-monedas-emergentes/",
+   "date": "2026-10-21T16:58:29+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -59,17 +214,6 @@
    ]
   },
   {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "El dólar oficial toca un nuevo récord nominal y la acumulación de reservas concentra la atención del mercado",
-   "link": "https://www.ambito.com/finanzas/el-dolar-oficial-llego-maximos-del-mes-y-la-acumulacion-reservas-concentra-la-atencion-del-mercado-n6336130",
-   "date": "2026-10-21T16:18:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
    "source": "El Financiero",
    "country": "MX",
    "title": "SAT ‘castiga’ a 180 empresas por huachicol fiscal: Las da de baja por contrabando de combustible",
@@ -92,22 +236,22 @@
    ]
   },
   {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "Dólar hoy y dólar blue hoy: cuál es la cotización del miércoles 21 de octubre minuto a minuto",
-   "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-miercoles-21-de-octubre-minuto-a-minuto/",
-   "date": "2026-10-21T15:32:49+00:00",
+   "source": "www.laprensa.hn",
+   "country": "LatAm",
+   "title": "Precio del dólar registra leve baja este miércoles 21 de octubre en Honduras",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1BKRlEwX3lTVHo0ZU5tcVd4MThVSmtyRkpzbUxvS0RlbDB5Nnp2aVpIc0JsRGJ2QXMzMFpfSUlWMzZMaDY1UEZFQ0dVOFhwVE5PX280c09Cc21aa0hsSHhpWnJNVHdnU0duMjUwZlhfQzZnaUt3NVJrMnZKTzFaeUxSRWU3b0pZdnZTWmN4a0ZMUFJzQW1YMnRxU1Vab3pkVzJ6c19kaEM?oc=5",
+   "date": "2026-10-21T15:40:48+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
    ]
   },
   {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "Los bonos en dólares repuntan en Wall Street y el riesgo país cae por debajo de los 660 puntos",
-   "link": "https://www.ambito.com/finanzas/bonos-dolares-ensayan-un-rebote-las-fuertes-perdidas-y-el-riesgo-pais-cede-maximos-del-ano-n6336222",
-   "date": "2026-10-21T15:28:00+00:00",
+   "source": "Expansión",
+   "country": "MX",
+   "title": "Peso mexicano rompe los 18.60 por dólar ante tropiezo del T-MEC; Wall Street avanza por la IA",
+   "link": "https://expansion.mx/mercados/2026/10/21/peso-rompe-los-18-60-por-dolar-tropiezo-t-mec",
+   "date": "2026-10-21T15:27:52+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -125,28 +269,6 @@
    ]
   },
   {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "La advertencia de un analista clave de la City sobre el valor del dólar: “No es cómodo”",
-   "link": "https://www.cronista.com/finanzas-mercados/la-advertencia-de-un-analista-clave-de-la-city-sobre-el-valor-del-dolar-no-es-comodo/",
-   "date": "2026-10-21T15:11:34+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "Alerta | Tipo de cambio: El peso mexicano se hunde y apunta a los 18.75 por dólar por riesgos del T-MEC",
-   "link": "https://www.cronista.com/mexico/dolar-peso-mexicano/alerta-tipo-de-cambio-el-peso-mexicano-se-hunde-y-apunta-a-los-1875-por-dolar-por-riesgos-del-t-mec/",
-   "date": "2026-10-21T15:00:13+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
    "source": "El Economista",
    "country": "MX",
    "title": "Peso mexicano se deprecia más de 1% frente al dólar; toca su peor nivel en casi un año",
@@ -155,39 +277,6 @@
    "category": "dólar",
    "tags": [
     "dólar"
-   ]
-  },
-  {
-   "source": "Gestión",
-   "country": "PE",
-   "title": "Fintech se alistan a diversificar oferta en Perú: ¿llegará unicornio?",
-   "link": "https://gestion.pe/economia/empresas/fintech-se-alistan-a-diversificar-oferta-en-peru-llegara-unicornio-noticia/",
-   "date": "2026-10-21T14:42:07+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
-   ]
-  },
-  {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "Por orden de IRS y el Departamento de Estado, revocarán y negarán los pasaportes de los ciudadanos que mantengan deudas tributarias graves y cumplan otros requisitos",
-   "link": "https://www.cronista.com/usa/economia-y-finanzas/por-orden-de-irs-y-el-departamento-de-estado-revocaran-y-negaran-los-pasaportes-de-los-ciudadanos-que-mantengan-deudas-tributarias-graves-y-cumplan-otros-requisitos/",
-   "date": "2026-10-21T14:39:29+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
-   ]
-  },
-  {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "El error en la declaración de impuestos que puede hacerte perder la residencia permanente en Estados Unidos",
-   "link": "https://www.cronista.com/usa/economia-y-finanzas/el-error-en-la-declaracion-de-impuestos-que-puede-hacerte-perder-la-residencia-permanente-en-estados-unidos/",
-   "date": "2026-10-21T14:30:48+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
    ]
   },
   {
@@ -215,7 +304,7 @@
   {
    "source": "La República",
    "country": "CO",
-   "title": "El dólar cotiza al alza en un precio promedio de $3.193,38, $29,6 por encima de la TRM",
+   "title": "El dólar cerró al alza en un precio promedio de $3.191, $27,93 por encima de la TRM",
    "link": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-21-de-octubre-4507572",
    "date": "2026-10-21T13:12:38+00:00",
    "category": "dólar",
@@ -247,66 +336,11 @@
    ]
   },
   {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "Dólar, inflación y PBI: cuánto variaron las proyecciones a lo largo del año y qué expectativas quedaron desancladas",
-   "link": "https://www.ambito.com/economia/dolar-inflacion-y-pbi-cuanto-variaron-las-proyecciones-lo-largo-del-ano-y-que-expectativas-quedaron-desancladas-n6335875",
-   "date": "2026-10-21T10:00:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
    "source": "iProfesional",
    "country": "AR",
    "title": "El riesgo país obliga a un cambio en la estrategia oficial con las reservas y el dólar",
    "link": "https://www.iprofesional.com/finanzas/467070-riesgo-pais-obliga-a-un-cambio-en-la-estrategia-oficial-con-reservas-y-dolar",
    "date": "2026-10-21T10:00:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "El nuevo boom de dólares de Argentina: cuánto puede crecer el superávit energético",
-   "link": "https://www.cronista.com/economia-politica/el-nuevo-boom-de-dolares-de-argentina-cuanto-puede-crecer-el-superavit-energetico/",
-   "date": "2026-10-21T09:00:01+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Economista",
-   "country": "MX",
-   "title": "Economistas pronostican que la Fed mantendrá sin cambios las tasas este mes",
-   "link": "https://www.eleconomista.com.mx/economia/economistas-pronostican-fed-mantendra-cambios-tasas-mes-20261020-839692.html",
-   "date": "2026-10-21T05:33:47+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Economista",
-   "country": "MX",
-   "title": "Colombia busca en EU financiamiento por 56,799 millones de dólares para 86 proyectos",
-   "link": "https://www.eleconomista.com.mx/economia/colombia-busca-eu-financiamiento-56-799-millones-dolares-86-proyectos-20261020-839690.html",
-   "date": "2026-10-21T05:25:11+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Economista",
-   "country": "MX",
-   "title": "Petrolera estatal chilena Enap compra Pluspetrol Ecuador por 207 millones de dólares",
-   "link": "https://www.eleconomista.com.mx/empresas/petrolera-estatal-chilena-enap-compra-pluspetrol-ecuador-207-millones-dolares-20261020-839688.html",
-   "date": "2026-10-21T05:20:05+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -324,20 +358,9 @@
    ]
   },
   {
-   "source": "El Economista",
-   "country": "MX",
-   "title": "Crecimiento de fintech eleva exigencias de prevención de fraude",
-   "link": "https://www.eleconomista.com.mx/sectorfinanciero/crecimiento-fintech-eleva-exigencias-prevencion-fraude-20261020-839687.html",
-   "date": "2026-10-21T05:02:56+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
-   ]
-  },
-  {
    "source": "La República",
    "country": "CO",
-   "title": "Las fintech que van por los usuarios venezolanos para ampliar su acceso a servicios",
+   "title": "Las fintech que van por los usuarios venezolanos para ampliar su inclusión",
    "link": "https://www.larepublica.co/finanzas/las-fintech-que-van-por-los-usuarios-venezolanos-para-ampliar-su-acceso-a-servicios-financieros-digitales-4506886",
    "date": "2026-10-21T05:01:20+00:00",
    "category": "fintech",
@@ -417,17 +440,6 @@
    "title": "Analistas prevén tasa de interés sin cambios aun con miembros de Banxico abiertos a recortes",
    "link": "https://www.bloomberglinea.com/latinoamerica/mexico/analistas-preven-tasa-de-interes-sin-cambios-aun-con-miembros-de-banxico-abiertos-a-recortes/",
    "date": "2026-10-21T00:41:08+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "Plazo Fijo en dólares: qué banco paga la mejor tasa y cuánto rinden US$10.000 a 30 días",
-   "link": "https://www.ambito.com/economia/plazo-fijo-dolares-que-banco-paga-la-mejor-tasa-y-cuanto-rinden-us10000-30-dias-n6335861",
-   "date": "2026-10-21T00:00:00+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -566,17 +578,6 @@
    ]
   },
   {
-   "source": "El Financiero",
-   "country": "MX",
-   "title": "¿Quieres ganar 30 mil dólares? Trump anuncia incentivo para denunciar fraudes al gobierno de EU",
-   "link": "https://www.elfinanciero.com.mx/mundo/2026/10/20/quieres-ganar-30-mil-dolares-trump-anuncia-incentivo-para-denunciar-fraudes-al-gobierno-de-eu/",
-   "date": "2026-10-20T21:11:37+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
    "source": "El Comercio",
    "country": "PE",
    "title": "Precio del dólar en Perú del martes 20 de octubre: cuál fue el cierre del tipo de cambio",
@@ -593,17 +594,6 @@
    "title": "El BCRA aceleró las compras y ya suma más de u$s1.100 millones en lo que va de octubre",
    "link": "https://www.iprofesional.com/economia/467060-el-bcra-acelero-las-compras-y-ya-suma-mas-de-1100-millones-dolares-en-lo-que-va-de-octubre",
    "date": "2026-10-20T21:03:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Financiero",
-   "country": "MX",
-   "title": "Tipo de cambio se ‘arrastró’ por movimientos: ¿Cuánto ganó el peso al dólar HOY?",
-   "link": "https://www.elfinanciero.com.mx/mercados/2026/10/20/peso-dolar-tipo-de-cambio-precio-hoy-20-de-octubre-de-2026/",
-   "date": "2026-10-20T20:38:12+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -662,6 +652,17 @@
    "category": "dólar",
    "tags": [
     "dólar"
+   ]
+  },
+  {
+   "source": "La Prensa Gráfica",
+   "country": "LatAm",
+   "title": "Más de 505,000 hogares reciben remesas en El Salvador",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT0o5SWt3WTMzY19EanotWnNHZHZwSl81U1VPRnZZUTlGUTd5STNXT0RpT3I5VVB3RUFIY2ctWWxyRU55bkFjMGppUl8xcDMtMERlRVU4NE5XVlFEOFdMVkUzcjZVOVlOaTZlYVVraldHZ255M1pVYXp6ZERCSUU5ZGRVcl9WUFluX3RSZFpOQU8yeDk4THluQ1ZLSkE1aUgtcURsSFdtYzFkQW1ONk83UnJ3?oc=5",
+   "date": "2026-10-20T16:52:00+00:00",
+   "category": "remesas",
+   "tags": [
+    "remesas"
    ]
   }
  ],
