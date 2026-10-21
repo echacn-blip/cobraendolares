@@ -1,24 +1,90 @@
 {
- "generated_at": "2026-10-21T19:00:58.836794+00:00",
+ "generated_at": "2026-10-21T20:57:24.791966+00:00",
  "count": 60,
  "items": [
   {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "Iberdrola aumenta un 10% sus ganancias y alcanza los 5816 millones de euros por el impulso de las redes eléctricas",
-   "link": "https://www.cronista.com/espana/economia-finanzas/iberdrola-aumenta-un-10-sus-ganancias-y-alcanza-los-5816-millones-de-euros-por-el-impulso-de-las-redes-electricas/",
-   "date": "2026-10-21T18:44:55+00:00",
-   "category": "impuestos",
+   "source": "El Financiero",
+   "country": "MX",
+   "title": "El peso, la moneda más depreciada del mundo ante el dólar: Tipo de cambio cierra en 18.67 unidades",
+   "link": "https://www.elfinanciero.com.mx/mercados/2026/10/21/peso-dolar-tipo-de-cambio-precio-hoy-21-de-octubre-de-2026/",
+   "date": "2026-10-21T20:46:13+00:00",
+   "category": "dólar",
    "tags": [
-    "impuestos"
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Financiero",
+   "country": "MX",
+   "title": "Ingresos de AT&T México crecen 13.2% en 3T26, previo a venta de activos a Televisa y Fintech Holdings",
+   "link": "https://www.elfinanciero.com.mx/empresas/2026/10/21/ingresos-de-att-mexico-crecen-132-en-3t26-previo-a-venta-de-activos-a-televisa-y-fintech-holdings/",
+   "date": "2026-10-21T19:50:47+00:00",
+   "category": "fintech",
+   "tags": [
+    "fintech"
+   ]
+  },
+  {
+   "source": "Gestión",
+   "country": "PE",
+   "title": "Fintech se alistan a diversificar oferta en Perú: ¿llegará unicornio?",
+   "link": "https://gestion.pe/economia/empresas/fintech-se-alistan-a-diversificar-oferta-en-peru-llegara-unicornio-noticia/",
+   "date": "2026-10-21T19:36:06+00:00",
+   "category": "fintech",
+   "tags": [
+    "fintech"
+   ]
+  },
+  {
+   "source": "La Tercera Pulso",
+   "country": "CL",
+   "title": "Ex presidentes del Banco Central advierten por impacto en la economía del alza en las bencinas",
+   "link": "https://www.latercera.com/pulso/noticia/ex-presidentes-del-banco-central-advierten-por-impacto-en-la-economia-del-alza-en-las-bencinas/",
+   "date": "2026-10-21T19:24:56+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
    ]
   },
   {
    "source": "Ámbito",
    "country": "AR",
-   "title": "Las pymes se financiaron a una TEA en pesos de casi 30% en septiembre y a una TNA en dólares del 7%",
-   "link": "https://www.ambito.com/finanzas/las-pymes-se-financiaron-una-tea-pesos-casi-30-septiembre-y-una-tna-dolares-del-7-n6336379",
-   "date": "2026-10-21T18:44:00+00:00",
+   "title": "Dólar hoy: a cuánto cerró este miércoles 21 de octubre",
+   "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-miercoles-21-octubre-n6336443",
+   "date": "2026-10-21T19:22:28+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Infobae",
+   "country": "AR",
+   "title": "El dólar subió por cuarto día consecutivo y marcó un nuevo récord nominal",
+   "link": "https://www.infobae.com/economia/2026/10/21/el-dolar-subio-por-cuarto-dia-consecutivo-y-marco-un-nuevo-record-nominal/",
+   "date": "2026-10-21T19:16:54+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Economista",
+   "country": "MX",
+   "title": "AT&T reconoce un deterioro de 2,600 millones de dólares por la venta de México",
+   "link": "https://www.eleconomista.com.mx/empresas/at-t-reconoce-deterioro-2-600-millones-dolares-venta-mexico-20261021-839783.html",
+   "date": "2026-10-21T19:15:20+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Gestión",
+   "country": "PE",
+   "title": "Dólar al alza: ¿en cuánto cerró el tipo de cambio este miércoles 21 de octubre?",
+   "link": "https://gestion.pe/economia/mercados/tipo-de-cambio-sube-hoy-en-peru-en-cuanto-cerro-el-dolar-este-miercoles-21-de-octubre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
+   "date": "2026-10-21T19:10:41+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -29,7 +95,18 @@
    "country": "AR",
    "title": "Dólar hoy y dólar blue hoy: cuál es la cotización del miércoles 21 de octubre minuto a minuto",
    "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-miercoles-21-de-octubre-minuto-a-minuto/",
-   "date": "2026-10-21T18:43:46+00:00",
+   "date": "2026-10-21T19:05:21+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Comercio",
+   "country": "PE",
+   "title": "Precio del dólar en Perú: cierre del tipo de cambio del miércoles 21 de octubre",
+   "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-del-miercoles-21-de-octubre-de-2026-apertura-del-tipo-de-cambio-de-hoy-lbposting-noticia/",
+   "date": "2026-10-21T19:02:28+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -38,12 +115,23 @@
   {
    "source": "Ámbito",
    "country": "AR",
-   "title": "Dólar hoy: a cuánto cotiza este miércoles 21 de octubre",
-   "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-21-octubre-n6336095",
-   "date": "2026-10-21T18:40:00+00:00",
+   "title": "Financiamiento pyme: en septiembre, las tasas subieron a casi 27% en pesos y bajaron al 7% en dólares",
+   "link": "https://www.ambito.com/finanzas/las-pymes-se-financiaron-una-tea-pesos-casi-30-septiembre-y-una-tna-dolares-del-7-n6336379",
+   "date": "2026-10-21T19:00:00+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "Iberdrola aumenta un 10% sus ganancias y alcanza los 5816 millones de euros por el impulso de las redes eléctricas",
+   "link": "https://www.cronista.com/espana/economia-finanzas/iberdrola-aumenta-un-10-sus-ganancias-y-alcanza-los-5816-millones-de-euros-por-el-impulso-de-las-redes-electricas/",
+   "date": "2026-10-21T18:44:55+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
    ]
   },
   {
@@ -146,17 +234,6 @@
    ]
   },
   {
-   "source": "El Financiero",
-   "country": "MX",
-   "title": "Cuando la ‘maldad’ del dólar acecha al peso: Se deprecia más de 1% este miércoles",
-   "link": "https://www.elfinanciero.com.mx/mercados/2026/10/21/peso-dolar-tipo-de-cambio-precio-hoy-21-de-octubre-de-2026/",
-   "date": "2026-10-21T17:06:02+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
    "source": "El Economista",
    "country": "MX",
    "title": "Impuestos por criptomonedas en México: cuándo y cuánto pagas",
@@ -166,17 +243,6 @@
    "tags": [
     "fintech",
     "impuestos"
-   ]
-  },
-  {
-   "source": "Gestión",
-   "country": "PE",
-   "title": "Fintech se alistan a diversificar oferta en Perú: ¿llegará unicornio?",
-   "link": "https://gestion.pe/economia/empresas/fintech-se-alistan-a-diversificar-oferta-en-peru-llegara-unicornio-noticia/",
-   "date": "2026-10-21T17:00:00+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
    ]
   },
   {
@@ -222,17 +288,6 @@
    "category": "impuestos",
    "tags": [
     "impuestos"
-   ]
-  },
-  {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "Precio del dólar en Perú: tipo de cambio hoy, miércoles 21 de octubre de 2026",
-   "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-del-miercoles-21-de-octubre-de-2026-apertura-del-tipo-de-cambio-de-hoy-lbposting-noticia/",
-   "date": "2026-10-21T15:50:36+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
    ]
   },
   {
@@ -512,17 +567,6 @@
    ]
   },
   {
-   "source": "El Financiero",
-   "country": "MX",
-   "title": "Ya está cerrada la ‘puerta negra’ del Banxico: Tasa de interés no tendrá cambios en 2026 ni 2027",
-   "link": "https://www.elfinanciero.com.mx/economia/2026/10/20/banxico-no-hara-cambios-a-tasa-en-2026-ni-en-2027-encuesta-citi/",
-   "date": "2026-10-20T22:30:50+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
    "source": "Vietnam.vn",
    "country": "LatAm",
    "title": "Remesas inesperadas transferidas a Ciudad Ho Chi Minh.",
@@ -619,50 +663,6 @@
    "category": "dólar",
    "tags": [
     "dólar"
-   ]
-  },
-  {
-   "source": "Infobae",
-   "country": "AR",
-   "title": "El dólar subió por tercer día consecutivo y alcanzó el nivel más alto de octubre",
-   "link": "https://www.infobae.com/economia/2026/10/20/el-dolar-subio-por-tercer-dia-consecutivo-y-alcanzo-el-nivel-mas-alto-de-octubre/",
-   "date": "2026-10-20T18:58:43+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "Economía crecerá 3,1% este año, según Citi, ¿qué espera de la inflación y el dólar?",
-   "link": "https://elcomercio.pe/economia/peru/economia-crecera-31-este-ano-segun-citi-que-espera-de-la-inflacion-y-el-dolar-crecimiento-economico-noticia/",
-   "date": "2026-10-20T18:01:24+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Cubita NOW",
-   "country": "LatAm",
-   "title": "Dólar alcanza los 815 pesos, euro cae y MLC pierde más de 22 pesos en mercado informal de divisas",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmg0dmdqS1hrbEZzREdwOElobWxGOGFUdnZiX2hZd1RVTW1oWGRGRzJCTHJqRVpxY3plZXVEaVB5N0dYZjRqTnV5N21HbTdxOFU0RnlFX3RqOFJWR1hfeHZaeHRqMXlEckJ0NWFQdDJ4Q2xnd1g2R1pXUmZQZFR3RXFjTnBCME9VR2FMYXRfZXRHOGF5UnZYcC1uYUZaZUhIT2lXWUtXQ2ZTMzQ5djk3d1p0b1plaThsUHZVNnh0WHVFSU1O0gHEAUFVX3lxTFAyaDR2Z2pLWGtsRnNER3A4SWhtbEY4YVR2dmJfaFl3VFVNbWhYZEZHMkJMcmpFWnFjemVldURpUHk3R1hmNGpOdXk3bUdtN3E4VTRGeUVfdGo4UlZHWF94dlp4dGoxeURyQnQ1YVB0MnhDbGd3WDZHWldSZlBkVHdFcWNOcEIwT1VHYUxhdF9ldEc4YXlSdlhwLW5hRlplSEhPaVdZS1dDZlMzNDl2OTd3WnRvWmVpOGxQdlU2eHRYdUVJTU4?oc=5",
-   "date": "2026-10-20T16:56:04+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "La Prensa Gráfica",
-   "country": "LatAm",
-   "title": "Más de 505,000 hogares reciben remesas en El Salvador",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT0o5SWt3WTMzY19EanotWnNHZHZwSl81U1VPRnZZUTlGUTd5STNXT0RpT3I5VVB3RUFIY2ctWWxyRU55bkFjMGppUl8xcDMtMERlRVU4NE5XVlFEOFdMVkUzcjZVOVlOaTZlYVVraldHZ255M1pVYXp6ZERCSUU5ZGRVcl9WUFluX3RSZFpOQU8yeDk4THluQ1ZLSkE1aUgtcURsSFdtYzFkQW1ONk83UnJ3?oc=5",
-   "date": "2026-10-20T16:52:00+00:00",
-   "category": "remesas",
-   "tags": [
-    "remesas"
    ]
   }
  ],
