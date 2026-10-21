@@ -1,15 +1,15 @@
 {
- "fetched_utc": "2026-10-21T00:56:35+00:00",
+ "fetched_utc": "2026-10-21T10:55:27+00:00",
  "mid": {
   "source": "currency-api (fawazahmed0)",
   "source_url": "https://github.com/fawazahmed0/exchange-api",
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "rates": {
-   "MXN": 18.42598002,
-   "COP": 3174.06966497,
-   "PEN": 3.42860091,
-   "CLP": 975.00736024,
-   "ARS": 1524.43757768
+   "MXN": 18.44014555,
+   "COP": 3174.78862795,
+   "PEN": 3.44039947,
+   "CLP": 975.58842978,
+   "ARS": 1524.88890382
   }
  },
  "ar": [
