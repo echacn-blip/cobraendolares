@@ -1,7 +1,84 @@
 {
- "generated_at": "2026-10-20T22:57:51.550511+00:00",
+ "generated_at": "2026-10-21T00:56:42.392307+00:00",
  "count": 60,
  "items": [
+  {
+   "source": "El Financiero",
+   "country": "MX",
+   "title": "‘Pesadilla’ para el tipo de cambio al cierre de 2026: ¿En cuánto cerrará el peso frente al dólar?",
+   "link": "https://www.elfinanciero.com.mx/economia/2026/10/20/pesadilla-para-el-tipo-de-cambio-al-cierre-de-2026-en-cuanto-cerrara-el-peso-frente-al-dolar/",
+   "date": "2026-10-21T00:50:39+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Bloomberg Línea",
+   "country": "LatAm",
+   "title": "Analistas prevén tasa de interés sin cambios aun con miembros de Banxico abiertos a recortes",
+   "link": "https://www.bloomberglinea.com/latinoamerica/mexico/analistas-preven-tasa-de-interes-sin-cambios-aun-con-miembros-de-banxico-abiertos-a-recortes/",
+   "date": "2026-10-21T00:41:08+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "Dólar hoy y dólar blue hoy: cuál es la cotización del martes 20 de octubre minuto a minuto",
+   "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-martes-20-de-octubre-minuto-a-minuto/",
+   "date": "2026-10-21T00:04:49+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "Dólar blue hoy: a cuánto cotiza el miércoles 21 de octubre con el MEP y el CCL",
+   "link": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-el-miercoles-21-de-octubre-con-el-mep-y-el-ccl/",
+   "date": "2026-10-21T00:04:21+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Caribe",
+   "country": "LatAm",
+   "title": "¿Por qué siguen aumentando las remesas? RD recibe US$9,489.8 millones",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWI0clk5VXpISHJlSGtXZ3dPVGNyenRsY0ZyQk5VRTJ3M1BiN2JpUC1pM1lUSkVJeGFkanBQM1E1RlgydWt6ZVZPbEZEdjV6dlFVYzUyQ0tLaFZEaVdfOG43b3dRVG9VZEROVFkyN0d2U01jQkh3dzB6S1dRT01icGpqT19WT3gxb3A0S3pSYUg4NUs5TDB5SlBSd0wzNFFNa0tYT1EzNDlHYjRWYUZZ?oc=5",
+   "date": "2026-10-20T23:32:31+00:00",
+   "category": "remesas",
+   "tags": [
+    "remesas"
+   ]
+  },
+  {
+   "source": "iProfesional",
+   "country": "AR",
+   "title": "Arriazu le echó la culpa al BCRA de frenar la economía con sus compras de dólares",
+   "link": "https://www.iprofesional.com/economia/467077-economista-arriazu-le-tira-dardos-al-bcra-y-lo-culpa-por-enfriar-la-economia",
+   "date": "2026-10-20T23:19:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Gestión",
+   "country": "PE",
+   "title": "SNP pide al Gobierno dar alivio tributario a pesqueras frente a “Mega Niño”: ¿qué buscan?",
+   "link": "https://gestion.pe/economia/snp-pide-al-gobierno-dar-alivio-tributario-a-pesqueras-frente-a-mega-el-nino-que-buscan-noticia/",
+   "date": "2026-10-20T23:00:00+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
   {
    "source": "Infobae",
    "country": "AR",
@@ -14,11 +91,11 @@
    ]
   },
   {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "Dólar hoy y dólar blue hoy: cuál es la cotización del martes 20 de octubre minuto a minuto",
-   "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-martes-20-de-octubre-minuto-a-minuto/",
-   "date": "2026-10-20T22:46:08+00:00",
+   "source": "El Economista",
+   "country": "MX",
+   "title": "Anthropic registró pérdidas superiores a 80,000 millones de dólares en el primer semestre de 2026",
+   "link": "https://www.eleconomista.com.mx/mercados/anthropic-registro-perdidas-superiores-80-000-millones-dolares-primer-semestre-20261020-839615.html",
+   "date": "2026-10-20T22:46:37+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -256,17 +333,6 @@
    ]
   },
   {
-   "source": "Gestión",
-   "country": "PE",
-   "title": "SNP pide al Gobierno dar alivio tributario a pesqueras frente a “Mega Niño”: ¿qué buscan?",
-   "link": "https://gestion.pe/economia/snp-pide-al-gobierno-dar-alivio-tributario-a-pesqueras-frente-a-mega-el-nino-que-buscan-noticia/",
-   "date": "2026-10-20T20:00:00+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
-   ]
-  },
-  {
    "source": "La Nación",
    "country": "AR",
    "title": "“Lo que era una restricción pasa a ser una abundancia”: el cambio estructural del país con el dólar, según Martín Vauthier",
@@ -316,17 +382,6 @@
    "title": "El dólar subió por tercer día consecutivo y alcanzó el nivel más alto de octubre",
    "link": "https://www.infobae.com/economia/2026/10/20/el-dolar-subio-por-tercer-dia-consecutivo-y-alcanzo-el-nivel-mas-alto-de-octubre/",
    "date": "2026-10-20T18:58:43+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "Demanda electoral: advierten que la dolarización puede duplicar los niveles habituales en 2027",
-   "link": "https://www.cronista.com/finanzas-mercados/demanda-electoral-advierten-que-la-dolarizacion-puede-duplicar-los-niveles-habituales-en-2027/",
-   "date": "2026-10-20T18:10:33+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -385,17 +440,6 @@
    "category": "dólar",
    "tags": [
     "dólar"
-   ]
-  },
-  {
-   "source": "El Tiempo",
-   "country": "CO",
-   "title": "¿Cómo participar en las subastas de la Dian y comprar joyas, carros y más? Paso a paso",
-   "link": "https://www.eltiempo.com/economia/finanzas-personales/como-participar-en-las-subastas-de-la-dian-y-comprar-joyas-carros-y-mas-paso-a-paso-3594860",
-   "date": "2026-10-20T15:06:53+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
    ]
   },
   {
@@ -460,17 +504,6 @@
    "title": "El precio del dólar cerró $7,27 por encima de la TRM, tras la aprobación del presupuesto",
    "link": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-20-de-octubre-4506774",
    "date": "2026-10-20T13:05:29+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Economista",
-   "country": "MX",
-   "title": "ByteDance, Alibaba y Tencent encargan chips de Nvidia por más de 35,000 millones de dólares",
-   "link": "https://www.eleconomista.com.mx/tecnologia/bytedance-alibaba-tencent-encargan-chips-nvidia-35-000-millones-dolares-20261020-839516.html",
-   "date": "2026-10-20T12:41:14+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -629,40 +662,6 @@
    "category": "fintech",
    "tags": [
     "fintech",
-    "dólar"
-   ]
-  },
-  {
-   "source": "Mi bolsillo",
-   "country": "LatAm",
-   "title": "El error oculto al enviar dólares a México: por qué puedes perder dinero en tus remesas",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHFTb2txN2JITTNDUDBBNmt1Slo2eFpvUWlHRHpTWjh6QTBjUlVyQlJYdGxSLVp1WlQ0UDFiM0Y3NzN5ZUFpalhZVkQwZG8wMld2bTVsQVN3RXNpbmlWUk1IMng4TDJtLUxuM2lhUUtJTEFDN1lLOVpEODdManF5eVBEMk9aOEsyUjZvc1h3bllMTWFZcVlHZy1CYnhFdFlSSDVOczBSZ1NFM0JSR1l6WjRUSXdLMVRNX2o4Vm5wSFJsZzFRMFZnN0hsQlg4MzVVbm04?oc=5",
-   "date": "2026-10-19T23:33:00+00:00",
-   "category": "remesas",
-   "tags": [
-    "remesas",
-    "dólar"
-   ]
-  },
-  {
-   "source": "Expansión",
-   "country": "MX",
-   "title": "¿El aguinaldo paga impuestos en 2026? Quiénes no le pagan al SAT y cómo calcularlo según tu sueldo",
-   "link": "https://expansion.mx/finanzas-personales/2026/10/19/aguinaldo-impuestos-2026-quienes-pagan-sat-calcularlo-sueldo",
-   "date": "2026-10-19T22:59:33+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
-   ]
-  },
-  {
-   "source": "iProfesional",
-   "country": "AR",
-   "title": "Los cambios que prepara el BCRA para impulsar el crédito a familias y empresas",
-   "link": "https://www.iprofesional.com/finanzas/466968-los-cambios-que-prepara-el-bcra-para-impulsar-el-credito-a-familias-y-empresas",
-   "date": "2026-10-19T22:57:00+00:00",
-   "category": "dólar",
-   "tags": [
     "dólar"
    ]
   }
