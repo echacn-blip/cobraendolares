@@ -251,5 +251,14 @@
   "title": "Cambió una página oficial de Wise",
   "detail": "El robot detectó un cambio en el texto. Pendiente de revisión humana antes de tocar los datos.",
   "reviewed": false
+ },
+ {
+  "date": "2026-10-26",
+  "type": "detectado",
+  "provider": "Littio",
+  "url": "https://littio.co/blog/como-traer-dolares-a-colombia",
+  "title": "Cambió una página oficial de Littio",
+  "detail": "El robot detectó un cambio en el texto. Pendiente de revisión humana antes de tocar los datos.",
+  "reviewed": false
  }
 ]
