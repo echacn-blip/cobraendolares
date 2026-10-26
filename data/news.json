@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-26T18:53:00.129605+00:00",
+ "generated_at": "2026-10-26T20:53:00.214804+00:00",
  "count": 60,
  "items": [
   {
-   "source": "El Cronista",
+   "source": "La Nación",
    "country": "AR",
-   "title": "Dólar hoy y dólar blue hoy: cuál es la cotización del lunes 26 de octubre minuto a minuto",
-   "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-lunes-26-de-octubre-minuto-a-minuto/",
-   "date": "2026-10-26T18:51:36+00:00",
+   "title": "El Banco Central no compró reservas y el Tesoro habría vendido dólares",
+   "link": "https://www.lanacion.com.ar/economia/el-banco-central-no-compro-reservas-y-el-tesoro-habria-vendido-dolares-nid26102026/",
+   "date": "2026-10-26T20:48:39+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -18,7 +18,161 @@
    "country": "PE",
    "title": "Elmer Cuba, ministro de Economía: “Mientras estemos en el ministerio no plantearemos cambiar ninguna tasa de impuestos, IGV o impuesto a la renta”",
    "link": "https://elcomercio.pe/economia/peru/elmer-cuba-ministro-de-economia-mientras-estemos-en-el-ministerio-no-plantearemos-cambiar-ninguna-tasa-de-impuestos-igv-o-impuesto-a-la-renta-noticia/",
-   "date": "2026-10-26T18:41:28+00:00",
+   "date": "2026-10-26T20:42:02+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "Infobae",
+   "country": "LatAm",
+   "title": "Dólar hoy en Colombia: cotización de cierre del 26 de octubre",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0hkbjFrS2pxODFWdFJVeGtyczJMMU1xbXo3MXVYd2JsbFFlbDRpUUV0UzJXUEZIRVZ0aFE0VGlFQ3JuRkEyS1QyZU0wSjNJR0hTblh0eFVDRW5Ma2o3ZGhnWTJORTJwc1l1MjE4MVRjSk5wZG5veE1fMFp1c3pmNkhDU29FazViZEhNQXFiR3ZLTmRsR2Y2SEtmeWVva29zWnF2VmdYX2_SAcMBQVVfeXFMUGxRaURfSW9DYnVVVHBHRXhwODhZdDVLN1JGOVU2X05UQWpGSG5HUFpyU2Y1ellaUS1QYmh0WFlUbG9JaEVHUFlVa0E5a2UxN2FGa1Q5eENnelEyZ3pWQUZRWWNvdE5sQ1BIMlJrdGRGaHYxT0hmM0g0OW5qaEJqRWlWUlJVRkVKQlRRNm1aR0NzLXlVWTNJZGdYejFteWI0Z0w4XzI2NU9Ya0RpV3QzLUpET0FEV0hONGczcktHNVNWeEln?oc=5",
+   "date": "2026-10-26T20:25:59+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Infobae",
+   "country": "AR",
+   "title": "El dólar se disparó en Brasil hasta 12% tras el triunfo de Lula en el balotaje",
+   "link": "https://www.infobae.com/economia/2026/10/26/el-dolar-se-disparo-en-brasil-hasta-12-tras-el-triunfo-de-lula-en-el-balotaje/",
+   "date": "2026-10-26T20:25:48+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Infobae",
+   "country": "AR",
+   "title": "El BCRA decidió no comprar reservas hoy ante la tensión cambiaria generada tras las elecciones en Brasil",
+   "link": "https://www.infobae.com/economia/2026/10/26/el-bcra-decidio-no-comprar-reservas-hoy-ante-la-tension-cambiaria-generada-tras-las-elecciones-en-brasil/",
+   "date": "2026-10-26T20:25:29+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 26 de octubre",
+   "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-26-octubre-n6337798",
+   "date": "2026-10-26T20:20:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "Dólar hoy y dólar blue hoy: cuál es la cotización del lunes 26 de octubre minuto a minuto",
+   "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-lunes-26-de-octubre-minuto-a-minuto/",
+   "date": "2026-10-26T20:17:22+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Infobae",
+   "country": "AR",
+   "title": "El dólar avanzó a precios récord en todas las franjas del mercado de cambios por la suba del real brasileño",
+   "link": "https://www.infobae.com/economia/2026/10/26/el-dolar-avanzo-a-precios-record-en-todas-las-franjas-del-mercado-de-cambios-por-la-suba-del-real-brasileno/",
+   "date": "2026-10-26T20:03:03+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Comercio",
+   "country": "PE",
+   "title": "Sunat adjudica contratos de seguridad a un consorcio vinculado con empresas deudoras por S/124 millones",
+   "link": "https://elcomercio.pe/economia/peru/sunat-adjudica-contratos-de-seguridad-a-un-consorcio-vinculado-con-empresas-deudoras-por-s124-millones-l-ultimas-noticia/",
+   "date": "2026-10-26T19:58:19+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "El dólar blue alcanzó un nuevo máximo nominal, en medio de la presión sobre monedas emergentes",
+   "link": "https://www.ambito.com/finanzas/el-dolar-blue-alcanzo-un-nuevo-maximo-nominal-medio-la-presion-monedas-emergentes-n6338082",
+   "date": "2026-10-26T19:57:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "Dólar blue hoy: a cuánto cerró este lunes 26 de octubre",
+   "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-cerro-este-lunes-26-octubre-n6338066",
+   "date": "2026-10-26T19:47:53+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "Deudas con ARBA: hasta cuándo hay tiempo de acceder a descuentos de hasta el 40% en impuestos provinciales",
+   "link": "https://www.cronista.com/informacion-gral/deudas-con-arba-hasta-cuando-hay-tiempo-de-acceder-a-descuentos-de-hasta-el-40-en-impuestos-provinciales/",
+   "date": "2026-10-26T19:39:55+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "Comercio y Justicia",
+   "country": "LatAm",
+   "title": "Takenos implementó solución de pagos para personal operativo de LATAM",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObW8tYUs0VkFQVXd4bUp2XzdMbVBtcEhXVDI0ZUM4WGw5R1I1eEpVNWhkSlVjNXdjaXB0WldUWEZLNHFrajdzVDhTcWlqNTV4ZTJCN0wxaVl3TldyU2ViTllhRXpETkpGSEdsLWpDS0NKODcxLWpaSl9wc25vVllWNVVkQ3lCWTZMd2h4UG9Hb0Myc0wtbnZRUzd1WkhWRGhhck1Kby1aRV9iXzJHYlFZ?oc=5",
+   "date": "2026-10-26T19:20:14+00:00",
+   "category": "fintech",
+   "tags": [
+    "fintech"
+   ]
+  },
+  {
+   "source": "Gestión",
+   "country": "PE",
+   "title": "Tipo de cambio hoy en Perú: ¿en cuánto cerró el dólar este lunes 26 de octubre?",
+   "link": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-lunes-26-de-octubre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
+   "date": "2026-10-26T19:18:45+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Comercio",
+   "country": "PE",
+   "title": "Precio del dólar en Perú: cierre del tipo de cambio del lunes 26 de octubre",
+   "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-lunes-26-de-agosto-en-cuanto-abrio-el-tipo-de-cambio-lbposting-noticia/",
+   "date": "2026-10-26T19:15:36+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "Por la Ley 27.826, ARCA reducirá el 50% de estas multas: quiénes podrán acceder",
+   "link": "https://www.cronista.com/economia-politica/por-la-ley-27826-arca-reducira-el-50-de-estas-multas-quienes-podran-acceder/",
+   "date": "2026-10-26T19:02:58+00:00",
    "category": "impuestos",
    "tags": [
     "impuestos"
@@ -47,21 +201,10 @@
    ]
   },
   {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "Dólar blue hoy: a cuánto opera este lunes 26 de octubre",
-   "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-26-octubre-n6337788",
-   "date": "2026-10-26T18:32:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
    "source": "iProfesional",
    "country": "AR",
-   "title": "El dólar mayorista trepó más de $10 y subieron los futuros tras el triunfo de Lula",
-   "link": "https://www.iprofesional.com/finanzas/467506-dolar-oficial-salto-alerta-mercado-resultado-brasil-octubre-2026",
+   "title": "El dólar mayorista trepó más de $10 y alcanzó un nuevo récord tras el triunfo de Lula",
+   "link": "https://www.iprofesional.com/finanzas/467506-el-dolar-mayorista-trepo-mas-de-10-y-alcanzo-un-nuevo-record-tras-el-triunfo-de-lula",
    "date": "2026-10-26T18:32:00+00:00",
    "category": "dólar",
    "tags": [
@@ -104,34 +247,12 @@
   {
    "source": "El Comercio",
    "country": "PE",
-   "title": "Precio del dólar en Perú: cierre del tipo de cambio hoy, lunes 26 de octubre",
-   "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-lunes-26-de-agosto-en-cuanto-abrio-el-tipo-de-cambio-lbposting-noticia/",
-   "date": "2026-10-26T18:05:24+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Comercio",
-   "country": "PE",
    "title": "El dólar retrocede a S/3,44 en Perú mientras mercados esperan decisión de la Fed",
    "link": "https://elcomercio.pe/economia/peru/el-dolar-retrocede-a-s344-en-peru-mientras-mercados-esperan-decision-de-la-fed-l-cotizacion-del-dolar-l-dolar-l-ultimas-noticia/",
    "date": "2026-10-26T18:02:27+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
-   ]
-  },
-  {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "ARCA: cuánto cuesta adherir a la declaración simplificada de Ganancias después del vencimiento y qué beneficios se pierden",
-   "link": "https://www.cronista.com/economia-politica/arca-cuanto-cuesta-adherir-a-la-declaracion-simplificada-de-ganancias-despues-del-vencimiento-y-que-beneficios-se-pierden/",
-   "date": "2026-10-26T17:53:53+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
    ]
   },
   {
@@ -162,28 +283,6 @@
    "title": "Transferencias bancarias con tu celular: qué cambia con las nuevas reglas de Banxico",
    "link": "https://www.eleconomista.com.mx/finanzaspersonales/transferencias-bancarias-celular-cambia-nuevas-reglas-banxico-20261026-839966.html",
    "date": "2026-10-26T16:55:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "www.laprensa.hn",
-   "country": "LatAm",
-   "title": "Precio del dólar este lunes 26 de octubre en Honduras: tipo de cambio",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORFRZWXBSaVV0bGdlQUcyMHU4a3p6UGItaGdWek1uRzByZ0swd1ctN3NQZnhES0s2TmNHamVSLWZsZ0RjeWlPdXAwTmFoMERGVFpRUGlhZEFMWVdUbFlqYmJMSTlWT3ZPdlNydVhMTFdUVXBnc0hKUFU5aHJ0UFJXTERVclQ2b0EyNWhpaWdORFV0MC1CVzBObEh3?oc=5",
-   "date": "2026-10-26T16:54:28+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "Este economista cercano a Milei aseguró que la dolarización aún sigue en pie: “No creo que Javier haya abandonado la idea”",
-   "link": "https://www.cronista.com/economia-politica/este-economista-cercano-a-milei-aseguro-que-la-dolarizacion-aun-sigue-en-pie-no-creo-que-javier-haya-abandonado-la-idea/",
-   "date": "2026-10-26T16:47:35+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -234,17 +333,6 @@
    ]
   },
   {
-   "source": "Gestión",
-   "country": "PE",
-   "title": "Tipo de cambio hoy en Perú: ¿cuánto está el dólar este lunes 26 de octubre?",
-   "link": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-lunes-26-de-octubre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
-   "date": "2026-10-26T15:48:20+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
    "source": "Infobae",
    "country": "LatAm",
    "title": "Las remesas en El Salvador superaron los USD 7,600 millones hasta septiembre de 2026",
@@ -253,28 +341,6 @@
    "category": "remesas",
    "tags": [
     "remesas"
-   ]
-  },
-  {
-   "source": "Infobae",
-   "country": "AR",
-   "title": "El dólar se disparó en Brasil hasta 12% tras el triunfo de Lula en el balotaje",
-   "link": "https://www.infobae.com/economia/2026/10/26/el-dolar-se-disparo-en-brasil-hasta-12-tras-el-triunfo-de-lula-en-el-balotaje/",
-   "date": "2026-10-26T15:10:26+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Infobae",
-   "country": "AR",
-   "title": "Efecto Brasil: las acciones argentinas se desploman hasta 11% en Wall Street y suben el dólar y el riesgo país",
-   "link": "https://www.infobae.com/economia/2026/10/26/efecto-brasil-las-acciones-argentinas-se-desploman-hasta-12-en-wall-street-y-suben-el-dolar-y-el-riesgo-pais/",
-   "date": "2026-10-26T15:00:53+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
    ]
   },
   {
@@ -333,17 +399,6 @@
    ]
   },
   {
-   "source": "Infobae",
-   "country": "AR",
-   "title": "ARCA reglamentó la postergación hasta diciembre del comienzo del FAL, el fondo para pagar indemnizaciones laborales",
-   "link": "https://www.infobae.com/economia/2026/10/26/arca-reglamento-la-postergacion-hasta-diciembre-del-comienzo-del-fal-el-fondo-para-pagar-indemnizaciones-laborales/",
-   "date": "2026-10-26T14:31:58+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
-   ]
-  },
-  {
    "source": "Portafolio",
    "country": "CO",
    "title": "Colombia prepara emisión de bonos en dólares con vencimiento en 2056 para financiarse en mercados internacionales",
@@ -360,6 +415,17 @@
    "title": "Euro hoy 26 de octubre en Colombia: así se cotiza la moneda europea frente al peso",
    "link": "https://www.portafolio.co/economia/finanzas/euro-hoy-26-de-octubre-en-colombia-asi-se-cotiza-la-moneda-europea-frente-al-peso-505124",
    "date": "2026-10-26T14:17:30+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "LaPrensa.hn",
+   "country": "LatAm",
+   "title": "Precio del dólar este lunes 26 de octubre en Honduras: tipo de cambio",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORFRZWXBSaVV0bGdlQUcyMHU4a3p6UGItaGdWek1uRzByZ0swd1ctN3NQZnhES0s2TmNHamVSLWZsZ0RjeWlPdXAwTmFoMERGVFpRUGlhZEFMWVdUbFlqYmJMSTlWT3ZPdlNydVhMTFdUVXBnc0hKUFU5aHJ0UFJXTERVclQ2b0EyNWhpaWdORFV0MC1CVzBObEh3?oc=5",
+   "date": "2026-10-26T14:14:00+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -446,7 +512,7 @@
   {
    "source": "La República",
    "country": "CO",
-   "title": "Dólar cerró a la baja a pesar de la caída del petróleo y los bonos de EE.UU.",
+   "title": "El precio del dólar cerró a la baja a pesar de la caída del petróleo y los bonos de Estados Unidos",
    "link": "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-26-de-octubre-de-2026-4511039",
    "date": "2026-10-26T13:12:37+00:00",
    "category": "dólar",
@@ -468,7 +534,7 @@
   {
    "source": "La Tercera Pulso",
    "country": "CL",
-   "title": "El dólar revierte su alza tras alcanzar casi los $1.000 y el real de Brasil se desploma tras la victoria de Lula",
+   "title": "El dólar revierte su alza tras alcanzar casi los $1.000 y el real de Brasil se desploma por la victoria de Lula",
    "link": "https://www.latercera.com/pulso/noticia/el-dolar-en-chile-el-valor-el-26-de-octubre-de-2026/",
    "date": "2026-10-26T13:02:38+00:00",
    "category": "dólar",
@@ -488,50 +554,6 @@
    ]
   },
   {
-   "source": "Portafolio",
-   "country": "CO",
-   "title": "Precio del dólar en Colombia: divisa inicia la semana cerca de los $3.150",
-   "link": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-en-colombia-divisa-inicia-la-semana-cerca-de-los-3-505113",
-   "date": "2026-10-26T12:12:46+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "ARCA aplicó cambios clave en el FAL: las empresas deberán esperar más para usar los fondos",
-   "link": "https://www.ambito.com/economia/arca-aplico-cambios-clave-el-fal-las-empresas-deberan-esperar-mas-usar-los-fondos-n6337840",
-   "date": "2026-10-26T12:12:00+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
-   ]
-  },
-  {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "El bitcoin se mantiene en los u$s80.000 con el foco puesto en la Fed y en la IA",
-   "link": "https://www.ambito.com/finanzas/bitcoin-cae-debajo-los-us82000-y-vuelve-los-niveles-la-semana-pasada-n6337191",
-   "date": "2026-10-26T12:02:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "eju.tv",
-   "country": "LatAm",
-   "title": "Takenos implementa una solución de pagos para el personal operativo de LATAM en cinco países de Latinoamérica",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeUpUWFlGbVpsUktldHA1SXR0LTFsYmlWMzFMUXRMS0NWcWFZQmgwU20yejhsOWc2Q2huc25rS0cxX0RtQXZUaXJHdWY2cjBWd3NpblNvdlRhMzhHeVh6U2FUQzFGc2ozeHUxdnI2anl3VVJudFhkVlhPOWtFdzhScjB2SWpMTV95VXlyY2doUk5UR2RMelRlZlhGQTl6NVVXOW5EWDc3a0FBQWs3VWh3blJ4VDI1OGNXUm1Vd1hPd1FXWXY1NXBHTGNoUG5LQQ?oc=5",
-   "date": "2026-10-26T12:00:35+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
-   ]
-  },
-  {
    "source": "Expansión",
    "country": "MX",
    "title": "Huachicol fiscal: la cifra oficial deja fuera miles de millones de pesos por evasión del IVA",
@@ -540,17 +562,6 @@
    "category": "impuestos",
    "tags": [
     "impuestos"
-   ]
-  },
-  {
-   "source": "Infobae",
-   "country": "AR",
-   "title": "El Banco Central aceleró el ritmo de compra de dólares: ¿por qué no se refleja en las reservas netas?",
-   "link": "https://www.infobae.com/economia/2026/10/26/el-banco-central-acelero-el-ritmo-de-compra-de-dolares-por-que-no-se-refleja-en-las-reservas-netas/",
-   "date": "2026-10-26T11:25:04+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
    ]
   },
   {
@@ -647,17 +658,6 @@
    "title": "Precio del dólar en Perú: compra y venta del domingo 25 de octubre",
    "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-a-cuanto-esta-el-dolar-este-domingo-25-de-octubre-2026-tipo-de-cambio-segun-bcrp-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
    "date": "2026-10-25T18:52:52+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Diario del Yaqui",
-   "country": "LatAm",
-   "title": "Dólar este domingo 25 de octubre: precios de compra y venta en los bancos de México",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUTk0WTNkVmNtSkZOdTZpNkJtWkJWNUpwZWRfM2U5UDlSWE40ZDB6TldueXdkVFhNZlhjVDJFSmhqeUhUblUtdzh3UmlBQ0VqQTFfX2RoaTAxLUpjc2wzajhDTDk2aGxLLVQwNTFydGkyOURBMFhsRXFMeFJPd3E3a3A3ZnNmbm5kVkJkQWlCSFdZS05OMFRyV2xuM21WbzA5WDBHc3oxd0Mxa1hDZ1hGaVBacGRwSnc0azNlRXo2YmFwdw?oc=5",
-   "date": "2026-10-25T14:55:00+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
