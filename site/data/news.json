@@ -1,13 +1,244 @@
 {
- "generated_at": "2026-10-26T10:51:16.081851+00:00",
+ "generated_at": "2026-10-26T13:01:21.382230+00:00",
  "count": 60,
  "items": [
+  {
+   "source": "El Economista",
+   "country": "MX",
+   "title": "Indicadores del 26 al 30 de octubre: Anuncio de la Fed y el BCE; PIB de EU y de México",
+   "link": "https://www.eleconomista.com.mx/mercados/indicadores-26-30-octubre-anuncio-fed-bce-pib-eu-mexico-20261026-840413.html",
+   "date": "2026-10-26T13:00:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "La Nación",
+   "country": "AR",
+   "title": "Real, dólar y vacaciones en Brasil: cuánto cuesta viajar este verano, precios de vuelos y formas de pago",
+   "link": "https://www.lanacion.com.ar/economia/real-dolar-y-vacaciones-en-brasil-cuanto-cuesta-viajar-este-verano-precios-de-vuelos-y-formas-de-nid26102026/",
+   "date": "2026-10-26T12:52:37+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
   {
    "source": "Ámbito",
    "country": "AR",
    "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 26 de octubre",
    "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-26-octubre-n6337798",
-   "date": "2026-10-26T10:38:00+00:00",
+   "date": "2026-10-26T12:49:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Economista",
+   "country": "MX",
+   "title": "Meta lanza oferta pública de acciones por 35,000 millones de dólares para financiar su expansión de IA",
+   "link": "https://www.eleconomista.com.mx/mercados/meta-lanza-oferta-publica-acciones-35-000-millones-dolares-financiar-expansion-ia-20261026-840478.html",
+   "date": "2026-10-26T12:40:42+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "Billeteras virtuales vs. plazo fijo: qué tasas pagan las cuentas remuneradas que más rinden",
+   "link": "https://www.cronista.com/infotechnology/finanzas-digitales/billeteras-virtuales-vs-plazo-fijo-que-tasas-pagan-las-cuentas-remuneradas-que-mas-rinden/",
+   "date": "2026-10-26T12:38:07+00:00",
+   "category": "fintech",
+   "tags": [
+    "fintech"
+   ]
+  },
+  {
+   "source": "Bloomberg Línea",
+   "country": "LatAm",
+   "title": "Dólar hoy en Brasil se dispara tras victora de Lula y el real es la moneda que más cae en el mundo",
+   "link": "https://www.bloomberglinea.com/mercados/dolar-hoy-en-brasil-se-dispara-tras-victora-de-lula-y-el-real-es-la-moneda-que-mas-cae-en-el-mundo/",
+   "date": "2026-10-26T12:34:28+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Economista",
+   "country": "MX",
+   "title": "Itaú acuerda comprar la empresa emergente de IA NeoSpace por 589 millones de dólares",
+   "link": "https://www.eleconomista.com.mx/sectorfinanciero/itau-acuerda-comprar-empresa-emergente-ia-neospace-589-millones-dolares-20261026-840476.html",
+   "date": "2026-10-26T12:32:15+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Economista",
+   "country": "MX",
+   "title": "Petróleo baja 2 dólares, pero sigue cerca de máximos de 6 meses tras ataques a Arabia Saudita",
+   "link": "https://www.eleconomista.com.mx/mercados/petroleo-baja-2-dolares-sigue-cerca-maximos-6-meses-ataques-arabia-saudita-20261026-840475.html",
+   "date": "2026-10-26T12:30:15+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Economista",
+   "country": "MX",
+   "title": "Precios del oro vuelven a superar los 4,000 dólares por caída del petróleo",
+   "link": "https://www.eleconomista.com.mx/mercados/precios-oro-vuelven-superar-4-000-dolares-caida-petroleo-20261026-840474.html",
+   "date": "2026-10-26T12:23:57+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "ARCA reglamentó Inocencia Fiscal II: los cambios clave en Ganancias con el régimen simplificado ampliado",
+   "link": "https://www.cronista.com/economia-politica/arca-reglamento-inocencia-fiscal-ii-los-cambios-clave-en-ganancias/",
+   "date": "2026-10-26T12:22:12+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "El Economista",
+   "country": "MX",
+   "title": "Cemex impulsa ganancias en 3T y continúa su reestructuración con venta de activos",
+   "link": "https://www.eleconomista.com.mx/mercados/cemex-impulsa-ganancias-3t-continua-reestructuracion-venta-activos-20261026-840473.html",
+   "date": "2026-10-26T12:19:34+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "Portafolio",
+   "country": "CO",
+   "title": "Precio del dólar en Colombia: divisa inicia la semana cerca de los $3.150",
+   "link": "https://www.portafolio.co/economia/finanzas/precio-del-dolar-en-colombia-divisa-inicia-la-semana-cerca-de-los-3-505113",
+   "date": "2026-10-26T12:12:46+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "ARCA aplicó cambios clave en el FAL: las empresas deberán esperar más para usar los fondos",
+   "link": "https://www.ambito.com/economia/arca-aplico-cambios-clave-el-fal-las-empresas-deberan-esperar-mas-usar-los-fondos-n6337840",
+   "date": "2026-10-26T12:12:00+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "El bitcoin se mantiene en los u$s80.000 con el foco puesto en la Fed y en la IA",
+   "link": "https://www.ambito.com/finanzas/bitcoin-cae-debajo-los-us82000-y-vuelve-los-niveles-la-semana-pasada-n6337191",
+   "date": "2026-10-26T12:02:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Comercio",
+   "country": "PE",
+   "title": "Precio del dólar en Perú: cotización en compra y venta del lunes 26 de octubre.",
+   "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-a-cuanto-esta-el-dolar-este-lunes-26-de-octubre-2026-tipo-de-cambio-segun-bcrp-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
+   "date": "2026-10-26T12:00:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "ARCA reglamentó Inocencia Fiscal II: quiénes pueden adherir y qué cambia desde ahora",
+   "link": "https://www.ambito.com/economia/arca-reglamento-inocencia-fiscal-ii-quienes-pueden-adherir-y-que-cambia-ahora-n6337796",
+   "date": "2026-10-26T11:59:00+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "Dólar: la city pone el foco en las reservas y el impacto de Brasil, luego de seis alzas consecutivas",
+   "link": "https://www.ambito.com/finanzas/dolar-la-city-pone-el-foco-las-reservas-y-el-impacto-brasil-luego-seis-alzas-consecutivas-n6337825",
+   "date": "2026-10-26T11:49:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "ARCA reglamentó la prórroga del FAL: las nuevas fechas y qué cambia para los fondos de despido",
+   "link": "https://www.cronista.com/economia-politica/arca-reglamento-la-prorroga-del-fal-las-nuevas-fechas-y-que-cambia/",
+   "date": "2026-10-26T11:40:39+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "Dólar hoy y dólar blue hoy: cuál es la cotización del lunes 26 de octubre minuto a minuto",
+   "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-lunes-26-de-octubre-minuto-a-minuto/",
+   "date": "2026-10-26T11:36:50+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Infobae",
+   "country": "AR",
+   "title": "El Banco Central aceleró el ritmo de compra de dólares: ¿por qué no se refleja en las reservas netas?",
+   "link": "https://www.infobae.com/economia/2026/10/26/el-banco-central-acelero-el-ritmo-de-compra-de-dolares-por-que-no-se-refleja-en-las-reservas-netas/",
+   "date": "2026-10-26T11:25:04+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Tiempo",
+   "country": "CO",
+   "title": "Navidad y vacaciones, con un dólar que podría subir en la recta final: estas son las fuerzas que moverán su precio",
+   "link": "https://www.eltiempo.com/economia/sector-financiero/navidad-y-vacaciones-con-un-dolar-que-podria-subir-en-la-recta-final-estas-son-las-fuerzas-que-moveran-su-precio-3596208",
+   "date": "2026-10-26T11:08:01+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "iProfesional",
+   "country": "AR",
+   "title": "Tarjeta y consumos en dólares: cómo pagar en octubre y evitar la percepción del 30%",
+   "link": "https://www.iprofesional.com/finanzas/467325-tarjeta-y-consumos-en-dolares-como-pagar-en-octubre-y-evitar-la-percepcion-del-30-por-ciento",
+   "date": "2026-10-26T10:47:00+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -19,17 +250,6 @@
    "title": "Derrumbe de la bolsa en Brasil sumará presión al riesgo país y al dólar en Argentina",
    "link": "https://www.iprofesional.com/finanzas/467436-alertan-por-mas-preson-al-riesgo-pais-y-al-dolar-en-argentina-por-brasil",
    "date": "2026-10-26T10:00:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "Dólar hoy y dólar blue hoy: cuál es la cotización del lunes 26 de octubre minuto a minuto",
-   "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-lunes-26-de-octubre-minuto-a-minuto/",
-   "date": "2026-10-26T09:00:12+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -91,66 +311,11 @@
    ]
   },
   {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "Precio del dólar en Perú: consulta la cotización en compra y venta del lunes 26 de octubre.",
-   "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-a-cuanto-esta-el-dolar-este-lunes-26-de-octubre-2026-tipo-de-cambio-segun-bcrp-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
-   "date": "2026-10-26T04:03:53+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Tiempo",
-   "country": "CO",
-   "title": "Navidad y vacaciones, con un dólar que podría subir en la recta final: estas son las fuerzas que moverán su precio",
-   "link": "https://www.eltiempo.com/economia/sector-financiero/navidad-y-vacaciones-con-un-dolar-que-podria-subir-en-la-recta-final-estas-son-las-fuerzas-que-moveran-su-precio-3596208",
-   "date": "2026-10-26T04:01:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Economista",
-   "country": "MX",
-   "title": "Esta semana, la Fed mantendrá las tasas sin cambios: analistas",
-   "link": "https://www.eleconomista.com.mx/sectorfinanciero/semana-fed-mantendra-tasas-cambios-analistas-20261025-840419.html",
-   "date": "2026-10-26T03:54:15+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Economista",
-   "country": "MX",
-   "title": "Peso se depreció 10.47% en siete semanas frente al dólar",
-   "link": "https://www.eleconomista.com.mx/mercados/peso-deprecio-10-47-siete-semanas-frente-dolar-20261025-840412.html",
-   "date": "2026-10-26T03:27:02+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
    "source": "Ámbito",
    "country": "AR",
    "title": "Dólar hoy: a cuánto cotiza este lunes 26 de octubre",
    "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-lunes-26-octubre-n6337787",
    "date": "2026-10-26T03:01:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "Dólar blue hoy: a cuánto opera este domingo 25 de octubre",
-   "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-domingo-25-octubre-n6337608",
-   "date": "2026-10-26T02:59:00+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -173,17 +338,6 @@
    "title": "A cuánto cotiza el dólar y el real al cierre del balotaje en Brasil",
    "link": "https://www.lanacion.com.ar/economia/a-cuanto-cotiza-el-dolar-y-el-real-al-cierre-del-balotaje-en-brasil-nid25102026/",
    "date": "2026-10-26T01:01:37+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Economista",
-   "country": "MX",
-   "title": "Peso mexicano se deprecia 0.50% en la apertura del mercado asiático",
-   "link": "https://www.eleconomista.com.mx/mercados/peso-mexicano-deprecia-0-50-apertura-mercado-asiatico-20261025-840387.html",
-   "date": "2026-10-26T00:08:21+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
@@ -220,28 +374,6 @@
    "category": "dólar",
    "tags": [
     "dólar"
-   ]
-  },
-  {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "Presión tributaria: las pymes argentinas enfrentan al menos 62 obligaciones entre impuestos, retenciones y trámites fiscales",
-   "link": "https://www.ambito.com/economia/presion-tributaria-las-pymes-argentinas-enfrentan-al-menos-62-obligaciones-impuestos-retenciones-y-tramites-fiscales-n6337677",
-   "date": "2026-10-25T17:31:00+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
-   ]
-  },
-  {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "Ricardo Salinas desconoció deudas con el SAT y defendió a la TV Azteca de las obligaciones fiscales: “Callaron porque no debemos nada”",
-   "link": "https://www.cronista.com/mexico/finanzas-economia/ricardo-salinas-desconocio-deudas-con-el-sat-y-defendio-a-la-tv-azteca-de-las-obligaciones-fiscales-callaron-porque-no-debemos-nada/",
-   "date": "2026-10-25T16:31:00+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
    ]
   },
   {
@@ -322,7 +454,7 @@
    ]
   },
   {
-   "source": "Milenio",
+   "source": "MILENIO",
    "country": "LatAm",
    "title": "¿Sube el dólar? Esto significa para tu bolsillo y la economía mexicana",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1A0M2hfZ2phdUdCbFNQUkJrZEMtVTRnYzZrUDB0VDRINDZta3dfS1JCOHh2cTVtWkRCa0xyWUNHSFdKa3N3OTNNc2hTWWExRjFNVTFuUjlWTDN0cjk5WlJpaEZjSTFCanVrdWl5bGQyY1AtVzVnU2xlVV9DSnBiYnJYRlgwUElzR0HSAYoBQVVfeXFMTkdVbVZidEtkOEI0aEVnMHVGWHZCVzdseFVWNlU4YzdXYXhxSXMzeTRJUjg0bk9DZ0x4RkNiQUxkcE42SFFlaWZBTHNqVjBhMnFONlpOX1NzRjF4RU4wWk8ybHdkZTBRNkd1VmViWGFtcmRzTlJJSWRlYlplU2RKVEtlQVNfeXJZYm9R?oc=5",
@@ -522,145 +654,11 @@
    ]
   },
   {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "¿Más presión para el dólar?: Caen los precios internacionales del agro y la colocación de deuda privada",
-   "link": "https://www.ambito.com/economia/mas-presion-el-dolar-caen-los-precios-internacionales-del-agro-y-la-colocacion-deuda-privada-n6337397",
-   "date": "2026-10-23T23:44:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "Cuentas remuneradas: el BCRA obliga a bancos y billeteras virtuales a informar rendimientos con una tasa unificada",
-   "link": "https://www.ambito.com/finanzas/cuentas-remuneradas-el-bcra-obliga-bancos-y-billeteras-virtuales-informar-rendimientos-una-tasa-unificada-n6337424",
-   "date": "2026-10-23T23:41:00+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech",
-    "dólar"
-   ]
-  },
-  {
    "source": "iProfesional",
    "country": "AR",
    "title": "El BCRA ya compró más de u$s1.200 millones en octubre y suma poder de fuego",
    "link": "https://www.iprofesional.com/finanzas/467363-el-bcra-ya-compro-mas-de-us1200-millones-en-octubre-y-suma-poder-de-fuego",
    "date": "2026-10-23T21:23:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "TradingView",
-   "country": "LatAm",
-   "title": "WISE HOLDINGS CO. LTD. Estimates – SWB:1Y0",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yMDZqaklTOVRyMTFRbnJNel9kTmstQmU2ZEhNU1ZMay1FZTRmTVJVdU5jeHBYNWJ5Mm1QNTA1dWlscmZGSFBBYnBsRkdLR3hfUEthOVVfTEhtUF9yVjAwaW1NcXdfTGwxNlZJaDRmN3dpUQ?oc=5",
-   "date": "2026-10-23T20:53:22+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
-   ]
-  },
-  {
-   "source": "Infobae",
-   "country": "AR",
-   "title": "El dólar terminó la semana con nuevo récord nominal tras seis alzas consecutivas",
-   "link": "https://www.infobae.com/economia/2026/10/23/el-dolar-termino-la-semana-con-nuevo-record-nominal-tras-seis-alzas-consecutivas/",
-   "date": "2026-10-23T20:27:42+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "iProfesional",
-   "country": "AR",
-   "title": "Milei recarga su \"bazuka de dólares\" y los economistas ven riesgo de crisis autogenerada",
-   "link": "https://www.iprofesional.com/economia/466509-milei-carga-bazooka-de-dolares-y-en-la-city-temen-efecto-bumeran",
-   "date": "2026-10-23T18:20:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "La Opinión",
-   "country": "LatAm",
-   "title": "Precio del dólar en México hoy, 23 de octubre del 2026: el billete verde es el gran ganador de la semana",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0xUYVhCTGVXSW1vTm9YNEpYS1dJbHVkcF9QOTFqaURpZVIyN2RmbUI2MFpTc2ZkUHVIYW5wRUZqWnR2N2hDZ2VKSGZrNkhqU2NZdWYyRUtBcXhmang0c3dWcXU5X05HVEt1NDlsTkI3dTBFUGZsS3k4eXV0QnNsVkVDWU1FaXI0bGxlSXh3ZU4?oc=5",
-   "date": "2026-10-23T16:44:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "La Nación",
-   "country": "LatAm",
-   "title": "For starters, it seems like everything changes (lineup-wise, anyway) in the NBA",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkZwVUZwbTZ3REt3R01VR1RLRmxFX3dJNFlQeXh5SmdWWmRqR2laVTlxcW0zbXhZcjI5VDVpOGt5YkZoUXUzdFBtUkVnVmNLdkQ3djY1TFJPc1FNbm5PLUMtMFAzTU9iNU5RRmZGazlTTGNGWnRfdWN6NHNoNzZGNS1mcXJJMi1TaXVZWnctSnhPWXFnR1ZUaktuQkhibmtqUFRNWTlZMng4S1FvRkV1ZFRCcVNCSXdxcVpPUg?oc=5",
-   "date": "2026-10-23T16:35:00+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
-   ]
-  },
-  {
-   "source": "Bloomberg Línea",
-   "country": "LatAm",
-   "title": "Ya no es solo el petróleo o la Fed: la IA ahora mueve al dólar y los bonos",
-   "link": "https://www.bloomberglinea.com/mercados/ya-no-es-solo-el-petroleo-o-la-fed-la-ia-ahora-mueve-al-dolar-y-los-bonos/",
-   "date": "2026-10-23T16:16:12+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Expansión",
-   "country": "MX",
-   "title": "El peso toma un respiro, pero se encamina a siete semanas de pérdidas",
-   "link": "https://expansion.mx/mercados/2026/10/23/dolar-hoy-23-octubre-2026-peso-mexicano-bolsa-mexicana",
-   "date": "2026-10-23T15:27:26+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Congresista",
-   "country": "LatAm",
-   "title": "El dólar en México se cotiza hoy a 18.71 pesos, afectando remesas y comercio",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ab296N2tNZ1N1aUdJM19EVzZCdVVjaVFOVWhTazRrTElfOFNVcEk4WG02NVlTcHJXWWtKVHRBZDk4UDlrcF9RcG9Yenh4Ylp4UF9NZ09VbkNGUFBLWWJsTEpuUERsUjBuR3c2M2t2ZnJXdERadGwyRg?oc=5",
-   "date": "2026-10-23T14:49:10+00:00",
-   "category": "remesas",
-   "tags": [
-    "remesas",
-    "dólar"
-   ]
-  },
-  {
-   "source": "Bloomberg Línea",
-   "country": "LatAm",
-   "title": "Dólar hoy: ¿cuánto puede subir o bajar el real brasileño si gana Lula o Bolsonaro?",
-   "link": "https://www.bloomberglinea.com/mercados/dolar-hoy-cuanto-puede-subir-o-bajar-el-real-brasileno-si-gana-lula-o-bolsonaro/",
-   "date": "2026-10-23T14:19:47+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Proyecto Puente",
-   "country": "LatAm",
-   "title": "Precio del dólar HOY 23 de octubre: ¿a cuánto se compra y se vende en México?",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDkyUlpmaVNUclZZVnkxUlZXaUxfTHF3aGRJRWUwMm44dXB0WTNOYXppWVBGbzlseExDZXJ6THQ5V3hUbGNoVEdTTGpuR0VhSWw2aDdfSTVRVC0tczdsNzR6YWp5aURwSlhiR1NSZEh3OWJhRDNkeDhqQ1lCeTFDTndYZ05ZRExWUTVtZ0JpVkQ3ZTdBay15NTJiWUVxOHJUSzRmcjBYY01ycVdUR2NEb19WZDVXaTg?oc=5",
-   "date": "2026-10-23T14:11:38+00:00",
    "category": "dólar",
    "tags": [
     "dólar"
