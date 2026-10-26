@@ -1,97 +1,97 @@
 {
  "payoneer_pricing": {
   "hash": "203834586e013039d934c8f9f91c5bb3ca45a9645900053fac5e08a40af7eefe",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://www.payoneer.com/about/pricing/"
  },
  "wise_hold": {
-  "hash": "1f5c06fa6fde4c9e8d6697e756a8989a404fcd8dcb3f289f13d1bcd0424f2705",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "hash": "61b8211603022b5a42a691f62f00ef34cd50f1fd47aeb227912d4054fb1f2553",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://wise.com/help/articles/2813542/where-do-i-need-to-live-to-hold-money-with-wise"
  },
  "wise_receive": {
   "hash": "18c10144e6705ccff4d93e9cebd832943c5f57101b0681a1df4f6e4d751dcf94",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://wise.com/us/pricing/receive"
  },
  "g66_co_pdf": {
   "hash": "7f663b7f19b587d653308378444ab5bbb30f9b14f3047ac983e3731ab1ffe962",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://bases.global66.com/wp-content/uploads/2026/02/Tarifario-Global66-SEDPE-B2C-04-02-v2.pdf"
  },
  "takenos_countries": {
   "hash": "700f44b82179cbc592115c0694c8c7b95b1e956dddbf7397088d3e503adb10d0",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://help.takenos.com/en/articles/9745376-en-que-paises-esta-disponible-takenos"
  },
  "takenos_receive": {
   "hash": "36393eeea5e12284dbab904a7be398ed8e9eba7601507548a9e2d86cff2add00",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://help.takenos.com/en/articles/9981728-en-que-monedas-puedo-recibir-dinero-en-takenos"
  },
  "takenos_mx": {
   "hash": "c817a058f73ae44641d6888b33b3fceb72b5511c41c5fe72c96cd1bc24b29378",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://help.takenos.com/en/articles/9714053-como-puedo-enviar-pesos-mexicanos-en-mexico"
  },
  "takenos_send": {
   "hash": "5c4a2bf476bbdce74322e6aab87a27b9025d9d9f07c0096d80ea51187ed5b51e",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://help.takenos.com/en/articles/9820507-cuanto-cuesta-enviar-fondos-en-takenos"
  },
  "takenos_blog_paises": {
   "hash": "c317e3d79c33e4a823c52ee67ce0be267fb27f7b52eda0853908a20b963240d9",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://takenos.com/blog/blog-takenos-paises-habilitados"
  },
  "littio_us": {
   "hash": "4669e929bacd819cfa745f8acc7e222fd1bf7a35c4509ad258ff286175a9f2ad",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://intercom.help/littio/es/articles/9161786-como-solicito-los-datos-de-mi-cuenta-ee-uu"
  },
  "littio_blog": {
   "hash": "e6aeedaa92815ac4d683dc8e6fce6cb4a5fcf73fcce3e8c19b471908b7e298df",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://littio.co/blog/como-traer-dolares-a-colombia"
  },
  "littio_landing": {
   "hash": "6006a86344a9a82c46398978c473e054a47fcab237a2b1e7ff2bf3a64963faac",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://littio.co/cuenta-en-dolares"
  },
  "littio_withdraw": {
   "hash": "94527c4a3af65597065efdc022ba8473fe31ed9b4813573ae5c0f88904287a14",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://intercom.help/littio/es/articles/6443593-cuales-son-las-comisiones-por-retirar-o-transferir-desde-mi-cuenta-littio"
  },
  "deel_withdraw": {
   "hash": "e4834be7dd4fb95d8e0d0280e39ce498a55e768263b43d6c04a06e8bddf7af47",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://help.letsdeel.com/hc/en-gb/articles/14391381019537-About-Withdrawal-Fees-and-Withdrawal-Minimums"
  },
  "deel_cost": {
   "hash": "5e388a0eeb2d6b37ab210cc0907db700b8b0aa021489d902813e0114bb5e3444",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://help.letsdeel.com/hc/en-gb/articles/4407737725201-How-Much-Does-Deel-Cost"
  },
  "deel_how": {
   "hash": "fb199064728c3f8fa8311429c0b9338c364f3832ca244ef86cde7d4e762ced94",
-  "checked": "2026-10-26T10:51:10+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://help.letsdeel.com/hc/en-gb/articles/7338494928913-How-Contractors-Can-Withdraw-Money-From-Deel"
  },
  "deel_breb": {
   "hash": "cf5d49959728d4f7892ed87360bb6b02a6a5991e47149e77f804b5fd860fdefc",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://help.letsdeel.com/hc/en-gb/articles/43892925141905-Instant-Withdrawals-in-Colombia-with-Bre-B"
  },
  "airtm_direct": {
   "hash": "229cf78139ea4927a635b8eff6942cbc810d742ede28de372de16f6a75653ccd",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://help.airtm.com/es-LA/support/solutions/articles/47001198154--c%C3%B3mo-puedo-retirar-directamente-no-p2p-de-mi-cuenta-airtm-a-un-banco-"
  },
  "airtm_ach": {
   "hash": "d15dfd6183f2a6fb5ea5fc41093646414470ba19a947d271b0a4d49d14313c94",
-  "checked": "2026-10-26T13:01:15+00:00",
+  "checked": "2026-10-26T15:01:49+00:00",
   "url": "https://help.airtm.com/es-LA/support/solutions/articles/47001265604-c%C3%B3mo-recibir-fondos-en-tu-cuenta-virtual-usa"
  },
  "g66_receive": {
