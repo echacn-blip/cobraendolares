@@ -260,5 +260,32 @@
   "title": "Cambió una página oficial de Littio",
   "detail": "El robot detectó un cambio en el texto. Pendiente de revisión humana antes de tocar los datos.",
   "reviewed": false
+ },
+ {
+  "date": "2026-10-27",
+  "type": "detectado",
+  "provider": "Takenos",
+  "url": "https://help.takenos.com/en/articles/9981728-en-que-monedas-puedo-recibir-dinero-en-takenos",
+  "title": "Cambió una página oficial de Takenos",
+  "detail": "El robot detectó un cambio en el texto. Pendiente de revisión humana antes de tocar los datos.",
+  "reviewed": false
+ },
+ {
+  "date": "2026-10-27",
+  "type": "detectado",
+  "provider": "Takenos",
+  "url": "https://help.takenos.com/en/articles/9820507-cuanto-cuesta-enviar-fondos-en-takenos",
+  "title": "Cambió una página oficial de Takenos",
+  "detail": "El robot detectó un cambio en el texto. Pendiente de revisión humana antes de tocar los datos.",
+  "reviewed": false
+ },
+ {
+  "date": "2026-10-27",
+  "type": "detectado",
+  "provider": "Littio",
+  "url": "https://littio.co/blog/como-traer-dolares-a-colombia",
+  "title": "Cambió una página oficial de Littio",
+  "detail": "El robot detectó un cambio en el texto. Pendiente de revisión humana antes de tocar los datos.",
+  "reviewed": false
  }
 ]
