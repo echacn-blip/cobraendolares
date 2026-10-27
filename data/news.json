@@ -1,11 +1,23 @@
 {
- "generated_utc": "2026-10-27T17:11:19+00:00",
+ "generated_utc": "2026-10-27T19:01:18+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "La empresa de IA creadora de Claude definió su salida a cotización en Wall Street y espera marcar un hito histórico",
+   "source": "Infobae",
+   "date": "2026-10-27T17:11:50+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/27/la-empresa-de-ia-creadora-de-claude-definio-su-salida-a-cotizacion-en-wall-street-y-espera-marcar-un-hito-historico/"
+  },
+  {
+   "title": "Las acciones brasileñas retoman las pérdidas y el real recupera terreno frente al dólar",
+   "source": "Infobae",
+   "date": "2026-10-27T17:09:31+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/27/las-acciones-brasilenas-rebotan-tras-el-colapso-post-electoral-y-el-real-recupera-terreno-frente-al-dolar/"
+  },
   {
    "title": "Plazo fijo en dólares: cuánto rinde invertir u$d1.500 a 30 días en cada banco",
    "source": "Ámbito",
@@ -17,12 +29,6 @@
    "source": "Ámbito",
    "date": "2026-10-27T15:34:00+00:00",
    "link": "https://www.ambito.com/economia/la-soja-cae-su-nivel-mas-dos-meses-las-expectativas-mayores-exportaciones-brasil-china-n6338380"
-  },
-  {
-   "title": "Las acciones brasileñas rebotan tras el colapso post electoral y el real recupera terreno frente al dólar",
-   "source": "Infobae",
-   "date": "2026-10-27T14:04:00+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/27/las-acciones-brasilenas-rebotan-tras-el-colapso-post-electoral-y-el-real-recupera-terreno-frente-al-dolar/"
   },
   {
    "title": "Efecto Lula: los dólares financieros se acercan a los $1.700 y la brecha cambiaria subió a 7,5 por ciento",
@@ -83,12 +89,6 @@
    "source": "Ámbito",
    "date": "2026-10-26T13:32:00+00:00",
    "link": "https://www.ambito.com/economia/impuesto-las-ganancias-simplificado-arca-dio-un-paso-clave-pero-faltan-otras-reglamentaciones-el-dolar-colchon-n6337802"
-  },
-  {
-   "title": "El Banco Central aceleró el ritmo de compra de dólares: ¿por qué no se refleja en las reservas netas?",
-   "source": "Infobae",
-   "date": "2026-10-26T11:25:04+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/26/el-banco-central-acelero-el-ritmo-de-compra-de-dolares-por-que-no-se-refleja-en-las-reservas-netas/"
   }
  ]
 }
