@@ -1,669 +1,94 @@
 {
- "generated_at": "2026-10-27T14:57:52.733101+00:00",
- "count": 60,
+ "generated_utc": "2026-10-27T17:11:19+00:00",
+ "sources": [
+  "Ámbito (RSS Economía)",
+  "Infobae (RSS Economía)",
+  "iProfesional (RSS Economía)"
+ ],
  "items": [
   {
-   "source": "Forbes Centroamérica",
-   "country": "LatAm",
-   "title": "El Salvador recibe hasta septiembre más de 7,600 mdd en remesas",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYTVGQkQ3Q1JPSlpyQVZvVDlic29uNXJaRHFUTmRFTVdMY3djTU1Lcm44NVNPT2FFQWJ5cHNBcHFvMUtubTdiS3lQYWhXZ1QtZTgxNnloUC1sQXBHdFpkTTdCWkIzb3hMLWJGQWMyLTgxc3RoNkJSM2hJbl9WaDFfSHprcEtaVjN5ckZ4WnFrcEJNcHJoWUZzNGpvMDRteno3MlJGZzJZbjRVQQ?oc=5",
-   "date": "2026-10-27T14:42:28+00:00",
-   "category": "remesas",
-   "tags": [
-    "remesas"
-   ]
-  },
-  {
+   "title": "Plazo fijo en dólares: cuánto rinde invertir u$d1.500 a 30 días en cada banco",
    "source": "Ámbito",
-   "country": "AR",
-   "title": "Dólar hoy: a cuánto cotiza este martes 27 de octubre",
-   "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-27-octubre-n6338213",
-   "date": "2026-10-27T14:34:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
+   "date": "2026-10-27T16:00:00+00:00",
+   "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-rinde-invertir-ud1500-30-dias-cada-banco-n6338305"
   },
   {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "Precio del dólar hoy: A cuánto abrió el tipo de cambio del martes 27 de octubre",
-   "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-a-cuanto-el-tipo-de-cambio-del-martes-27-de-octubre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
-   "date": "2026-10-27T14:28:09+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "El Banco Central creó una Unidad de Salud Financiera para mejorar la forma en que los uruguayos manejan su economía",
-   "link": "https://www.cronista.com/uruguay/economia-uy/el-banco-central-creo-una-unidad-de-salud-financiera-para-mejorar-la-forma-en-que-los-uruguayos-manejan-su-economia/",
-   "date": "2026-10-27T14:26:35+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "Dólar hoy y dólar blue hoy: cuál es la cotización del martes 27 de octubre minuto a minuto",
-   "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-martes-27-de-octubre-minuto-a-minuto-2/",
-   "date": "2026-10-27T14:23:03+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
+   "title": "La soja cae a su nivel más bajo en dos meses ante las expectativas de mayores exportaciones de Brasil a China",
    "source": "Ámbito",
-   "country": "AR",
-   "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este martes 27 de octubre",
-   "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-martes-27-octubre-n6338233",
-   "date": "2026-10-27T14:22:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
+   "date": "2026-10-27T15:34:00+00:00",
+   "link": "https://www.ambito.com/economia/la-soja-cae-su-nivel-mas-dos-meses-las-expectativas-mayores-exportaciones-brasil-china-n6338380"
   },
   {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "El dólar cae desde máximos históricos mientras el mercado se pregunta si el BCRA sale a intervenir",
-   "link": "https://www.ambito.com/finanzas/dolar-la-devaluacion-del-real-sumo-presion-argentina-y-el-bcra-corto-una-racha-19-jornadas-compras-n6338237",
-   "date": "2026-10-27T14:19:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Diario del Yaqui",
-   "country": "LatAm",
-   "title": "Precio del dólar y euro hoy en México; cotizaciones bancos y envío de remesas 27 de octubre 2026",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS29yTzQwdDBSd1h5Mm4tLWVmd2d2N2tBSTNPTlJIRkFOUHI0NGp4NnFEcmNOMnlzcU5nR0F6NTRQVmUyTUJja0hkWlZHVTRNcjJOTWlMQ3NpczFXX013S2VCRnR6Z3dhRGNYbU9hV0RPazlVdlZySDdRWjZ6ZTRnN2NwakNwV2x1c01ZZ0tPM2MzektXRFV5QW1HSlRsaHdmaFBpQnhPQU9oZ3RPeGZwejdLVWdFSXZJWkZkT0U3c2lHajFDS194bnFPaVN1M1NuNXM0?oc=5",
-   "date": "2026-10-27T14:04:37+00:00",
-   "category": "remesas",
-   "tags": [
-    "remesas",
-    "dólar"
-   ]
-  },
-  {
-   "source": "Infobae",
-   "country": "AR",
    "title": "Las acciones brasileñas rebotan tras el colapso post electoral y el real recupera terreno frente al dólar",
-   "link": "https://www.infobae.com/economia/2026/10/27/las-acciones-brasilenas-rebotan-tras-el-colapso-post-electoral-y-el-real-recupera-terreno-frente-al-dolar/",
+   "source": "Infobae",
    "date": "2026-10-27T14:04:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
+   "link": "https://www.infobae.com/economia/2026/10/27/las-acciones-brasilenas-rebotan-tras-el-colapso-post-electoral-y-el-real-recupera-terreno-frente-al-dolar/"
   },
   {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "Inocencia Fiscal II: lo que cambió de la “discrepancia significativa” que hace saltar las alarmas de ARCA",
-   "link": "https://www.cronista.com/economia-politica/inocencia-fiscal-ii-lo-que-cambio-de-la-discrepancia-significativa-que-hace-saltar-las-alarmas-de-arca/",
-   "date": "2026-10-27T13:15:05+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
-   ]
-  },
-  {
-   "source": "La República",
-   "country": "CO",
-   "title": "Dólar se cotiza a la baja ante futuras decisiones de política monetaria",
-   "link": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-27-de-octubre-de-2026-4511869",
-   "date": "2026-10-27T13:06:45+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "Bitcoin cae por debajo de los u$s80.000 antes de la decisión de la Fed y la pausa en las compras de Strategy",
-   "link": "https://www.ambito.com/finanzas/bitcoin-cae-debajo-los-us80000-antes-la-decision-la-fed-y-la-pausa-las-compras-strategy-n6338281",
-   "date": "2026-10-27T12:38:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "DiarioBitcoin",
-   "country": "LatAm",
-   "title": "Majority habilita remesas en USDC hacia Latinoamérica con infraestructura de zerohash",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNG42bk5TcFBfQ1ZWRTdwT2RLSlBELWRLVHgxV2pmTTFrV0JjcmlfZi01RlN3Tkh2VnVlOV9keFU1Q0VsWnhqSzg0YXlnbFUyMEk0MEVYM0dqNzVRTjlvOVlSajdLS2JXbHE1V2JTbW9jUnJQRFBqT0ZvTjFQV0tiaGtQVG9LN1VHX3ZENFpqNmlhSUQ5enlfaU1oUFBiVml0YU5iSWs4WkhZa1ZUWDlsVmpQSGlEeXBmUHU4SnVMRnYtRVlTUkxadzdIZVNyTF9veWxPaVVWNXlPUQ?oc=5",
-   "date": "2026-10-27T12:22:30+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech",
-    "remesas"
-   ]
-  },
-  {
-   "source": "El Economista",
-   "country": "MX",
-   "title": "El oro cae por fortaleza del dólar, mientras operadores esperan decisión de la Fed",
-   "link": "https://www.eleconomista.com.mx/mercados/oro-cae-fortaleza-dolar-operadores-esperan-decision-fed-20261027-840689.html",
-   "date": "2026-10-27T12:22:20+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Economista",
-   "country": "MX",
-   "title": "Nvidia invertirá 3,000 millones de dólares en Meta y reforzará su colaboración en IA",
-   "link": "https://www.eleconomista.com.mx/tecnologia/nvidia-invertira-3-000-millones-dolares-meta-reforzara-colaboracion-ia-20261027-840688.html",
-   "date": "2026-10-27T12:18:08+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Infobae",
-   "country": "AR",
    "title": "Efecto Lula: los dólares financieros se acercan a los $1.700 y la brecha cambiaria subió a 7,5 por ciento",
-   "link": "https://www.infobae.com/economia/2026/10/27/efecto-lula-los-dolares-financieros-se-acercan-a-los-1700-y-la-brecha-cambiaria-subio-a-75-por-ciento/",
+   "source": "Infobae",
    "date": "2026-10-27T12:17:20+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
+   "link": "https://www.infobae.com/economia/2026/10/27/efecto-lula-los-dolares-financieros-se-acercan-a-los-1700-y-la-brecha-cambiaria-subio-a-75-por-ciento/"
   },
   {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "Cinépolis obtiene financiamiento por 380 millones de dólares para expandirse y modernizar sus cines",
-   "link": "https://www.cronista.com/mexico/finanzas-economia/cinepolis-obtiene-financiamiento-por-380-millones-de-dolares-para-expandirse-y-modernizar-sus-cines/",
-   "date": "2026-10-27T12:00:01+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Expansión",
-   "country": "MX",
-   "title": "Los topes a deducciones y condonación de multas del SAT a grandes empresas llegan al pleno del Senado",
-   "link": "https://expansion.mx/economia/2026/10/27/deducciones-condonacion-multas-empresas-senado",
-   "date": "2026-10-27T11:55:58+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
-   ]
-  },
-  {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "Ganancias: quiénes podrán usar la nueva declaración simplificada y qué cambia con ARCA",
-   "link": "https://www.cronista.com/podcast/ganancias-quienes-podran-usar-la-nueva-declaracion-simplificada-y-que-cambia-con-arca/",
-   "date": "2026-10-27T11:43:43+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
-   ]
-  },
-  {
-   "source": "Bloomberg Línea",
-   "country": "LatAm",
-   "title": "¿Subirá o bajará el dólar? La Fed se reúne y estas son las expectativas para las monedas de América Latina",
-   "link": "https://www.bloomberglinea.com/mercados/subira-o-bajara-el-dolar-la-fed-se-reune-y-estas-son-las-expectativas-para-las-monedas-de-america-latina/",
-   "date": "2026-10-27T11:00:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Bloomberg Línea",
-   "country": "LatAm",
-   "title": "Dólar en Colombia: Proyecciones de bancos y brokers para el primer trimestre 2027",
-   "link": "https://www.bloomberglinea.com/latinoamerica/colombia/dolar-en-colombia-proyecciones-de-bancos-y-brokers-para-el-primer-trimestre-2027/",
-   "date": "2026-10-27T10:00:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Cronista",
-   "country": "AR",
-   "title": "La “inflación del 30% en dólares” de la industria, tasas y las rutas en estado “calamitoso”",
-   "link": "https://www.cronista.com/economia-politica/la-inflacion-del-30-en-dolares-de-la-industria-tasas-y-las-rutas-en-estado-calamitoso/",
-   "date": "2026-10-27T09:00:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Gestión",
-   "country": "PE",
-   "title": "Sunat apuntará a deudores tributarios por IGV: traza meta de reducir monto a la mitad al 2030",
-   "link": "https://gestion.pe/economia/incumplimiento-tributario-de-peru-es-9-del-pbi-asi-la-sunat-planea-reducirlo-a-nivel-latam-noticia/",
-   "date": "2026-10-27T06:00:00+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
-   ]
-  },
-  {
+   "title": "A cuánto llegará el índice de inflación de octubre según las consultoras privadas",
    "source": "Infobae",
-   "country": "AR",
+   "date": "2026-10-27T11:26:50+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/27/a-cuanto-llegara-el-indice-de-inflacion-de-octubre-segun-las-consultoras-privadas/"
+  },
+  {
    "title": "El “colchón” de dólares del Banco Central y qué pasó con una de las principales fuentes para la compra de reservas",
-   "link": "https://www.infobae.com/economia/2026/10/27/el-colchon-de-dolares-del-banco-central-y-que-paso-con-una-de-las-principales-fuentes-para-la-compra-de-reservas/",
+   "source": "Infobae",
    "date": "2026-10-27T05:45:59+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
+   "link": "https://www.infobae.com/economia/2026/10/27/el-colchon-de-dolares-del-banco-central-y-que-paso-con-una-de-las-principales-fuentes-para-la-compra-de-reservas/"
   },
   {
-   "source": "El Economista",
-   "country": "MX",
-   "title": "Principales banqueros brasileños pierden más de 10,000 millones de dólares",
-   "link": "https://www.eleconomista.com.mx/sectorfinanciero/principales-banqueros-brasilenos-pierden-10-000-millones-dolares-20261026-840656.html",
-   "date": "2026-10-27T05:23:45+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Economista",
-   "country": "MX",
-   "title": "Pausa de la Fed en octubre abre compás de espera para Banco de México",
-   "link": "https://www.eleconomista.com.mx/sectorfinanciero/pausa-fed-octubre-abre-compas-espera-banco-mexico-20261026-840653.html",
-   "date": "2026-10-27T05:00:17+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Aviación News",
-   "country": "LatAm",
-   "title": "LATAM implementa la plataforma de Takenos para automatizar el pago de viáticos a sus tripulaciones en la región",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NZVJLTlNXX1ZxUFg2bUdjV3M1bjQwT0pmdm5UNEtZb2F6ZS1xdWtlQ2dscU9fZE9EQ2xzS3I0eDdWNGtrQ1cxX01JaGpmMUJRcThaNzNpMVdTVmxNc3pZbk9xSER3OHktSmV3MllMOA?oc=5",
-   "date": "2026-10-27T01:11:03+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
-   ]
-  },
-  {
-   "source": "Expansión",
-   "country": "MX",
-   "title": "Brasil golpea a Coca-Cola FEMSA y arrastra a la BMV; el peso avanza",
-   "link": "https://expansion.mx/mercados/2026/10/26/brasil-golpea-a-coca-cola-femsa-y-arrastra-a-la-bmv-el-peso-avanza",
-   "date": "2026-10-27T00:37:33+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Expansión",
-   "country": "MX",
-   "title": "Millones de vistas, criptomonedas y estafas: el negocio detrás de los influencers de IA",
-   "link": "https://expansion.mx/tecnologia/2026/10/26/influencers-inteligencia-artificial-criptomonedas-estafas",
-   "date": "2026-10-27T00:30:47+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
-   ]
-  },
-  {
-   "source": "www.abc.com.py",
-   "country": "LatAm",
-   "title": "Las remesas familiares enviadas a El Salvador crecen un 3,5 % hasta septiembre de 2026",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNV2NlSXBDMVpnYmZoVGk2cGx5QmRpNnZSV0RJWGU4U3M4djU4UUI2MmFiMVVwZ1gwcndnWUhfQVNmYm8xQlhiQzVCRkUwUXZISmxNdVN2Wk51VnF2UmU4MzZKY3lhQVFrbFpjWWpDUXRzV0MtbE41Q3hFNmpUT0dfOXZFLVQwMjVaU0ZlZHVCN2dIUEpyUFZvcFdCdHFabUJZUnJSYjhGeVhhcTY0WE1nVzJnX0dOZ3NySklYMGhPczlmZE0xWXBFSDVNN1pBdDZTSE5Za3QxakJndzRpemY0NVZZYw?oc=5",
-   "date": "2026-10-26T23:55:00+00:00",
-   "category": "remesas",
-   "tags": [
-    "remesas"
-   ]
-  },
-  {
-   "source": "iProfesional",
-   "country": "AR",
-   "title": "El BCRA cortó racha de compras y el Tesoro vendió u$s100 millones para contener el dólar",
-   "link": "https://www.iprofesional.com/finanzas/467534-el-bcra-corto-racha-de-compras-y-el-tesoro-vendio-100-millones-dolares-para-contener-el-dolar",
-   "date": "2026-10-26T23:45:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "Elmer Cuba, ministro de Economía: “Mientras estemos en el ministerio no plantearemos cambiar ninguna tasa de impuestos, IGV o impuesto a la renta”",
-   "link": "https://elcomercio.pe/economia/peru/elmer-cuba-ministro-de-economia-mientras-estemos-en-el-ministerio-no-plantearemos-cambiar-ninguna-tasa-de-impuestos-igv-o-impuesto-a-la-renta-noticia/",
-   "date": "2026-10-26T23:18:07+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
-   ]
-  },
-  {
-   "source": "Infobae",
-   "country": "AR",
    "title": "El dólar avanzó a precios récord en todas las franjas del mercado de cambios",
-   "link": "https://www.infobae.com/economia/2026/10/26/el-dolar-avanzo-a-precios-record-en-todas-las-franjas-del-mercado-de-cambios-por-la-suba-del-real-brasileno/",
+   "source": "Infobae",
    "date": "2026-10-26T23:16:25+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
+   "link": "https://www.infobae.com/economia/2026/10/26/el-dolar-avanzo-a-precios-record-en-todas-las-franjas-del-mercado-de-cambios-por-la-suba-del-real-brasileno/"
   },
   {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "Efecto Brasil: el BCRA cortó una racha de 19 ruedas con compras ante la mayor presión cambiaria",
-   "link": "https://www.ambito.com/finanzas/efecto-brasil-el-bcra-corto-una-racha-19-ruedas-compras-la-mayor-presion-cambiaria-n6338113",
-   "date": "2026-10-26T22:27:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "El dólar cierra en S/3,44 y sol peruano gana terreno antes de decisión de la Fed",
-   "link": "https://elcomercio.pe/economia/peru/el-dolar-cierra-en-s344-y-sol-peruano-gana-terreno-antes-de-decision-de-la-fed-l-dolar-l-tipo-de-cambio-l-ultimas-noticia/",
-   "date": "2026-10-26T22:16:05+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "iProfesional",
-   "country": "AR",
    "title": "Brasil sacude a la City y hace saltar la brecha entre dólar oficial y el que usan empresas",
-   "link": "https://www.iprofesional.com/finanzas/467526-brecha-dolar-ccl-salto-brasil-alerta-oficial-octubre-2026",
+   "source": "iProfesional",
    "date": "2026-10-26T22:15:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
+   "link": "https://www.iprofesional.com/finanzas/467526-brecha-dolar-ccl-salto-brasil-alerta-oficial-octubre-2026"
   },
   {
-   "source": "Ámbito",
-   "country": "AR",
-   "title": "El bitcoin lucha por mantener los u$s80.000 con el foco puesto en la Fed y en la IA",
-   "link": "https://www.ambito.com/finanzas/bitcoin-cae-debajo-los-us82000-y-vuelve-los-niveles-la-semana-pasada-n6337191",
-   "date": "2026-10-26T21:51:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "iProfesional",
-   "country": "AR",
-   "title": "Obligaciones negociables de empresas para invertir en dólares y cobrar hasta 7,7% anual",
-   "link": "https://www.iprofesional.com/finanzas/467405-5-obligaciones-negociables-para-ganar-mas-del-5-por-ciento-en-dolares-al-ano",
-   "date": "2026-10-26T21:25:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Infobae",
-   "country": "AR",
    "title": "Dólar, riesgo país y acciones: uno por uno, cuáles fueron los efectos del ballotage de Brasil en el mercado financiero argentino",
-   "link": "https://www.infobae.com/economia/2026/10/26/dolar-riesgo-pais-y-acciones-uno-por-uno-cuales-fueron-los-efectos-del-ballotage-de-brasil-en-el-mercado-financiero-argentino/",
-   "date": "2026-10-26T21:09:23+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Bloomberg Línea",
-   "country": "LatAm",
-   "title": "Dólar hoy en Brasil se disparó tras victoria de Lula y el real fue la moneda que más cayó en el mundo",
-   "link": "https://www.bloomberglinea.com/mercados/dolar-hoy-en-brasil-se-dispara-tras-victora-de-lula-y-el-real-es-la-moneda-que-mas-cae-en-el-mundo/",
-   "date": "2026-10-26T21:05:21+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Financiero",
-   "country": "MX",
-   "title": "Peso ‘exorciza’ las pérdidas ante el dólar: ¿Cuánto ganó este lunes 26 de octubre?",
-   "link": "https://www.elfinanciero.com.mx/mercados/2026/10/26/peso-dolar-tipo-de-cambio-precio-hoy-26-de-octubre-de-2026/",
-   "date": "2026-10-26T20:48:41+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "La Nación",
-   "country": "AR",
-   "title": "El Banco Central no compró reservas y el Tesoro habría vendido dólares",
-   "link": "https://www.lanacion.com.ar/economia/el-banco-central-no-compro-reservas-y-el-tesoro-habria-vendido-dolares-nid26102026/",
-   "date": "2026-10-26T20:48:39+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
    "source": "Infobae",
-   "country": "AR",
+   "date": "2026-10-26T21:09:23+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/26/dolar-riesgo-pais-y-acciones-uno-por-uno-cuales-fueron-los-efectos-del-ballotage-de-brasil-en-el-mercado-financiero-argentino/"
+  },
+  {
    "title": "El dólar se disparó en Brasil hasta 12% tras el triunfo de Lula en el balotaje",
-   "link": "https://www.infobae.com/economia/2026/10/26/el-dolar-se-disparo-en-brasil-hasta-12-tras-el-triunfo-de-lula-en-el-balotaje/",
+   "source": "Infobae",
    "date": "2026-10-26T20:25:48+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
+   "link": "https://www.infobae.com/economia/2026/10/26/el-dolar-se-disparo-en-brasil-hasta-12-tras-el-triunfo-de-lula-en-el-balotaje/"
   },
   {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "Sunat adjudica contratos de seguridad a un consorcio vinculado con empresas deudoras por S/124 millones",
-   "link": "https://elcomercio.pe/economia/peru/sunat-adjudica-contratos-de-seguridad-a-un-consorcio-vinculado-con-empresas-deudoras-por-s124-millones-l-ultimas-noticia/",
-   "date": "2026-10-26T19:58:19+00:00",
-   "category": "impuestos",
-   "tags": [
-    "impuestos"
-   ]
+   "title": "El BCRA decidió no comprar reservas hoy ante la tensión cambiaria generada tras las elecciones en Brasil",
+   "source": "Infobae",
+   "date": "2026-10-26T20:25:29+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/26/el-bcra-decidio-no-comprar-reservas-hoy-ante-la-tension-cambiaria-generada-tras-las-elecciones-en-brasil/"
   },
   {
-   "source": "Gestión",
-   "country": "PE",
-   "title": "Tipo de cambio hoy en Perú: ¿en cuánto cerró el dólar este lunes 26 de octubre?",
-   "link": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-lunes-26-de-octubre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
-   "date": "2026-10-26T19:18:45+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
+   "title": "El Gobierno reglamentó Inocencia Fiscal II: qué dicen los expertos sobre el uso de los dólares del colchón",
+   "source": "Infobae",
+   "date": "2026-10-26T16:57:31+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/26/el-gobierno-reglamento-inocencia-fiscal-ii-que-dicen-los-expertos-sobre-el-uso-de-los-dolares-del-colchon/"
   },
   {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "Precio del dólar en Perú: cierre del tipo de cambio del lunes 26 de octubre",
-   "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-lunes-26-de-agosto-en-cuanto-abrio-el-tipo-de-cambio-lbposting-noticia/",
-   "date": "2026-10-26T19:15:36+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
+   "title": "Impuesto a las Ganancias Simplificado: ARCA dio un paso clave, pero faltan otras reglamentaciones para el \"dólar colchón\"",
+   "source": "Ámbito",
+   "date": "2026-10-26T13:32:00+00:00",
+   "link": "https://www.ambito.com/economia/impuesto-las-ganancias-simplificado-arca-dio-un-paso-clave-pero-faltan-otras-reglamentaciones-el-dolar-colchon-n6337802"
   },
   {
-   "source": "iProfesional",
-   "country": "AR",
-   "title": "El dólar mayorista trepó más de $10 y alcanzó un nuevo récord tras el triunfo de Lula",
-   "link": "https://www.iprofesional.com/finanzas/467506-el-dolar-mayorista-trepo-mas-de-10-y-alcanzo-un-nuevo-record-tras-el-triunfo-de-lula",
-   "date": "2026-10-26T18:32:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Comercio",
-   "country": "PE",
-   "title": "El dólar retrocede a S/3,44 en Perú mientras mercados esperan decisión de la Fed",
-   "link": "https://elcomercio.pe/economia/peru/el-dolar-retrocede-a-s344-en-peru-mientras-mercados-esperan-decision-de-la-fed-l-cotizacion-del-dolar-l-dolar-l-ultimas-noticia/",
-   "date": "2026-10-26T18:02:27+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Bloomberg Línea",
-   "country": "LatAm",
-   "title": "Lula obliga a Wall Street a revisar apuestas por Brasil: qué esperar para bolsa, dólar y bonos",
-   "link": "https://www.bloomberglinea.com/mercados/lula-obliga-a-wall-street-a-revisar-apuestas-por-brasil-que-esperar-para-bolsa-dolar-y-bonos/",
-   "date": "2026-10-26T16:17:15+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Economy",
-   "country": "LatAm",
-   "title": "Takenos hace historia en Bolivia: es la primera fintech constituida bajo la nueva regulación de la ASFI",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQXzZ3SzRXNWtWLXVfdVdYXzhIcXc1TWVqOTVwZXZoNV9YUUk1dldreDlCRWRFYkZnZW5aREYwdUxnWkx1allXZnNjYWJFeFhtMkF3TVdHanFfTTNsa3l3N01RME9GbU9rNndIV0hiNFZGZmYwUE5uUWROWUpUc19QQ3ZXX3JtQm9XYWxGVk96Vm5admNQc29DSGdhQlVJY1hibUNqNnVPYzQ0WjR4MDYxdi1faWR3MnZRMFEzaVhmS0tHREJtc0VLR0o3Ui10ZFpsRXBvdGFkc3FQNEJwTjI3aUdVbHZUbF93QldYejYxaHbSAfYBQVVfeXFMT05LMEpxRmxWSk51TDI1YzgzSHNEQkdhQ01FdVo0NEVSOGx1MG1yLWlWTkpxa0JVZE9fQ3pTd0Znbk5lazM4X0VRNnNGcmIwOEFvbjhBeGU2N0xBcHpnV2Q1LWVOek1iUnhkSmxBdDh2R3VKbGZfYURuS05KSlFNYzBpUjJmX2JRYW4tLUNCVTg0aDZmZjBLemdIR1ZyNHozTTI3V09xOGV0TDN6dlFiQkpoN3RXWVJJTHV1MDN6c2pCWmY3SHlZZ25PNDEzQ2ppdTItbGRMRkFSV19rd0k1cUtCWWJ3WVpHT0VIVEVQMHRjMS1OSTdB?oc=5",
-   "date": "2026-10-26T16:08:30+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
-   ]
-  },
-  {
-   "source": "iProfesional",
-   "country": "AR",
-   "title": "Se dispara el dólar en Brasil y Caputo enfrenta un dilema sobre el tipo de cambio en Argentina",
-   "link": "https://www.iprofesional.com/finanzas/467483-el-triunfo-de-lula-en-brasil-pone-a-prueba-el-plan-cambiario-de-caputo",
-   "date": "2026-10-26T14:54:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "Expansión",
-   "country": "MX",
-   "title": "Real brasileño se hunde tras triunfo de Lula; peso mexicano se mantiene bajo los 18.62 por dólar",
-   "link": "https://expansion.mx/mercados/2026/10/26/real-brasileno-se-hunde-tras-triunfo-de-lula-da-silva",
-   "date": "2026-10-26T14:36:42+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "www.laprensa.hn",
-   "country": "LatAm",
-   "title": "Precio del dólar este lunes 26 de octubre en Honduras: tipo de cambio",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORFRZWXBSaVV0bGdlQUcyMHU4a3p6UGItaGdWek1uRzByZ0swd1ctN3NQZnhES0s2TmNHamVSLWZsZ0RjeWlPdXAwTmFoMERGVFpRUGlhZEFMWVdUbFlqYmJMSTlWT3ZPdlNydVhMTFdUVXBnc0hKUFU5aHJ0UFJXTERVclQ2b0EyNWhpaWdORFV0MC1CVzBObEh3?oc=5",
-   "date": "2026-10-26T14:14:00+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "La Nación",
-   "country": "AR",
-   "title": "Real, dólar y vacaciones en Brasil: cuánto cuesta viajar este verano",
-   "link": "https://www.lanacion.com.ar/economia/real-dolar-y-vacaciones-en-brasil-cuanto-cuesta-viajar-este-verano-nid26102026/",
-   "date": "2026-10-26T14:09:34+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "El Deber",
-   "country": "LatAm",
-   "title": "Takenos implementa una solución de pagos para el personal operativo de LATAM en cinco países de Latinoamérica",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVzl5RnFXTjFsYXk4VnZuRld4alRTOWRyZ2VneWc2QmdJOS1NUmdNT2dDcF94T1ZPcmR1b3ctT2JDMlBRMGFrVkd6UnhBdGZoM1BCbjAtSS0zTW1ZOE9TSTV5ZjVjNUsxRzRJU1JZeklLQWpveHgyWWhpdm1IU3pqTEZtdkpMZndiZVZ3LUUwWjNMbzRMaTFpRUZPU3Nzb2RBVmsyM3liRS1QWjFZMXVTVS1aWkJlVnl2WFpUN1dudzNzM2tDSWxQRDV1ckVuaGgzMWhvZA?oc=5",
-   "date": "2026-10-26T13:52:30+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
-   ]
-  },
-  {
-   "source": "La República",
-   "country": "CO",
-   "title": "La fintech Cobre fue premiada en la categoría Payments por llevar Bre-B a las empresas",
-   "link": "https://www.larepublica.co/finanzas/la-fintech-cobre-fue-premiada-en-la-categoria-payments-por-llevar-bre-b-a-las-empresas-4510936",
-   "date": "2026-10-26T13:48:44+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
-   ]
-  },
-  {
-   "source": "Aviacionline",
-   "country": "LatAm",
-   "title": "LATAM Airlines replaces cash with Argentine platform Takenos to pay crew per diems in five countries",
-   "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQMHpvT0dZTi1zYzdSU2wyTll3WDdFU3JuYk05emJOWWl0b2VNd2JJQ0VlZEZxSmYzLTZHLTFSb09IbjhIalZ6VUtGVWxDdktXR2FYaEEyZWZ2X2MwSzNMWFh0UW0zTi1ZdEh1Tzg2Um1NYlRwRHRFVmQ5Wlh2V2ZhOU14ck9pZ3kyUjBxRFI2VkRJZVpJQmNUUXp5c3hvNWY0WWJnU2FZSy1kb3Y1b0I3MzlXWVI1amtBQWtCQ1Iyd0NEVkxyLTVIYlFieDFHVkdiWjJpRGU1VzJPbHp5czlFU09WX2pYS1dzLVR3NnlMdmREY0Njdnc2TmVENmdpaEYtUWlWSk1vSjlXQW5XeDR1VFFNSVl3SXlnaHFFSWxBU2dMMFkxaThBYWJIYWFodHBnUUY3MU41dFZ4M0UxdWc?oc=5",
-   "date": "2026-10-26T13:35:46+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
-   ]
-  },
-  {
-   "source": "Aviacionline",
-   "country": "LatAm",
-   "title": "LATAM Airlines reemplaza el efectivo para viáticos de tripulantes en cinco países con la plataforma argentina Takenos",
-   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxObzZ1bkFtdjlLWUZIdzlIYlFRMDJHeVlaY1lUNWV5MDNlQW5SNTdjX055bkJ4bVhTZTRJbmV6WUpNSjd6VURCOE05bW5CcEdrYVEyQTlyaDcxZU40UzdEYWoyQTBQakRjdDVMYmpNZ0NKanhXLWhTMjB5aDNYdk9DX0ZXa3F3NVdnYkRfZW1SdjZkcTdRaEY4emdsNlhNS2x3bTRnVHFyODRCUHBnYWZhd19acXJwMnBjNnNtRUZIUFoySHRwZ0p0eVBmeUpWSG5Sd0dVS0ctZlRMX09uWFVDbmlBamRHU25aSF8wMUFpMmRvamVTMXNTVHNBbndBLTlhT3ZvYUZUd2k0d005REk1Z0ZvVEVIanluSlpxRVJoOWt2RXJhamRoelNKMU1vVE9UWFRBMU5ueVNfQ2t1azFaeEhXRTNydUlUZ050WUNmd1c?oc=5",
-   "date": "2026-10-26T13:35:46+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
-   ]
-  },
-  {
-   "source": "La República",
-   "country": "CO",
-   "title": "El precio del dólar cerró a la baja a pesar de la caída del petróleo y los bonos de Estados Unidos",
-   "link": "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-26-de-octubre-de-2026-4511039",
-   "date": "2026-10-26T13:12:37+00:00",
-   "category": "dólar",
-   "tags": [
-    "dólar"
-   ]
-  },
-  {
-   "source": "La Nación",
-   "country": "AR",
-   "title": "Las criptomonedas buscan integrarse a las finanzas",
-   "link": "https://www.lanacion.com.ar/economia/negocios/las-criptomonedas-buscan-integrarse-a-las-finanzas-nid26102026/",
-   "date": "2026-10-26T13:02:59+00:00",
-   "category": "fintech",
-   "tags": [
-    "fintech"
-   ]
+   "title": "El Banco Central aceleró el ritmo de compra de dólares: ¿por qué no se refleja en las reservas netas?",
+   "source": "Infobae",
+   "date": "2026-10-26T11:25:04+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/26/el-banco-central-acelero-el-ritmo-de-compra-de-dolares-por-que-no-se-refleja-en-las-reservas-netas/"
   }
- ],
- "notice": "Titulares y enlaces a las fuentes originales; el contenido pertenece a cada medio."
+ ]
 }
