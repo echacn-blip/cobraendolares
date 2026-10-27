@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T19:01:18+00:00",
+ "generated_utc": "2026-10-27T20:59:42+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
@@ -7,16 +7,34 @@
  ],
  "items": [
   {
+   "title": "El BCRA no compró dólares por segunda rueda consecutiva, aunque las reservas volvieron a subir",
+   "source": "Ámbito",
+   "date": "2026-10-27T20:44:00+00:00",
+   "link": "https://www.ambito.com/economia/el-bcra-no-compro-dolares-segunda-rueda-consecutiva-aunque-las-reservas-volvieron-subir-n6338558"
+  },
+  {
+   "title": "El dólar bajó y cortó una racha de siete sesiones consecutiva de avances",
+   "source": "Infobae",
+   "date": "2026-10-27T20:42:55+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/27/el-dolar-bajo-y-corto-una-racha-de-siete-sesiones-consecutiva-de-avances/"
+  },
+  {
+   "title": "Por primera vez en el año, el BCRA no compró divisas por dos ruedas consecutivas",
+   "source": "Infobae",
+   "date": "2026-10-27T20:12:19+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/27/por-primera-vez-en-el-ano-el-bcra-no-compro-divisas-por-dos-ruedas-consecutivas/"
+  },
+  {
+   "title": "Las acciones brasileñas retomaron las pérdidas y el real recuperó terreno frente al dólar",
+   "source": "Infobae",
+   "date": "2026-10-27T20:05:25+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/27/las-acciones-brasilenas-rebotan-tras-el-colapso-post-electoral-y-el-real-recupera-terreno-frente-al-dolar/"
+  },
+  {
    "title": "La empresa de IA creadora de Claude definió su salida a cotización en Wall Street y espera marcar un hito histórico",
    "source": "Infobae",
    "date": "2026-10-27T17:11:50+00:00",
    "link": "https://www.infobae.com/economia/2026/10/27/la-empresa-de-ia-creadora-de-claude-definio-su-salida-a-cotizacion-en-wall-street-y-espera-marcar-un-hito-historico/"
-  },
-  {
-   "title": "Las acciones brasileñas retoman las pérdidas y el real recupera terreno frente al dólar",
-   "source": "Infobae",
-   "date": "2026-10-27T17:09:31+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/27/las-acciones-brasilenas-rebotan-tras-el-colapso-post-electoral-y-el-real-recupera-terreno-frente-al-dolar/"
   },
   {
    "title": "Plazo fijo en dólares: cuánto rinde invertir u$d1.500 a 30 días en cada banco",
@@ -55,12 +73,6 @@
    "link": "https://www.infobae.com/economia/2026/10/26/el-dolar-avanzo-a-precios-record-en-todas-las-franjas-del-mercado-de-cambios-por-la-suba-del-real-brasileno/"
   },
   {
-   "title": "Brasil sacude a la City y hace saltar la brecha entre dólar oficial y el que usan empresas",
-   "source": "iProfesional",
-   "date": "2026-10-26T22:15:00+00:00",
-   "link": "https://www.iprofesional.com/finanzas/467526-brecha-dolar-ccl-salto-brasil-alerta-oficial-octubre-2026"
-  },
-  {
    "title": "Dólar, riesgo país y acciones: uno por uno, cuáles fueron los efectos del ballotage de Brasil en el mercado financiero argentino",
    "source": "Infobae",
    "date": "2026-10-26T21:09:23+00:00",
@@ -71,24 +83,6 @@
    "source": "Infobae",
    "date": "2026-10-26T20:25:48+00:00",
    "link": "https://www.infobae.com/economia/2026/10/26/el-dolar-se-disparo-en-brasil-hasta-12-tras-el-triunfo-de-lula-en-el-balotaje/"
-  },
-  {
-   "title": "El BCRA decidió no comprar reservas hoy ante la tensión cambiaria generada tras las elecciones en Brasil",
-   "source": "Infobae",
-   "date": "2026-10-26T20:25:29+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/26/el-bcra-decidio-no-comprar-reservas-hoy-ante-la-tension-cambiaria-generada-tras-las-elecciones-en-brasil/"
-  },
-  {
-   "title": "El Gobierno reglamentó Inocencia Fiscal II: qué dicen los expertos sobre el uso de los dólares del colchón",
-   "source": "Infobae",
-   "date": "2026-10-26T16:57:31+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/26/el-gobierno-reglamento-inocencia-fiscal-ii-que-dicen-los-expertos-sobre-el-uso-de-los-dolares-del-colchon/"
-  },
-  {
-   "title": "Impuesto a las Ganancias Simplificado: ARCA dio un paso clave, pero faltan otras reglamentaciones para el \"dólar colchón\"",
-   "source": "Ámbito",
-   "date": "2026-10-26T13:32:00+00:00",
-   "link": "https://www.ambito.com/economia/impuesto-las-ganancias-simplificado-arca-dio-un-paso-clave-pero-faltan-otras-reglamentaciones-el-dolar-colchon-n6337802"
   }
  ]
 }
