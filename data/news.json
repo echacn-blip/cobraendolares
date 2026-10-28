@@ -1,11 +1,41 @@
 {
- "generated_utc": "2026-10-28T15:00:57+00:00",
+ "generated_utc": "2026-10-28T17:00:01+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "Domingo Cavallo lanzó fuertes críticas y comparó al gobierno de Javier Milei con el kirchnerismo: \"Manejan el dólar como lo hacía Moreno\"",
+   "source": "Ámbito",
+   "date": "2026-10-28T16:41:00+00:00",
+   "link": "https://www.ambito.com/economia/cavallo-lanzo-fuertes-criticas-y-comparo-al-gobierno-javier-milei-el-kirchnerismo-manejan-el-dolar-como-lo-moreno-n6338886"
+  },
+  {
+   "title": "\"Manejan el dólar como Moreno\": la crítica de Cavallo al Gobierno de Milei",
+   "source": "iProfesional",
+   "date": "2026-10-28T15:29:00+00:00",
+   "link": "https://www.iprofesional.com/economia/467703-cavallo-cuestiono-milei-dolar-comparo-guillermo-moreno"
+  },
+  {
+   "title": "Cuánto vale un Patacón: piden hasta USD 350 por ejemplares de la cuasimoneda bonaerense que marcó la crisis de 2001",
+   "source": "Infobae",
+   "date": "2026-10-28T15:12:59+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/28/cuanto-vale-un-patacon-piden-hasta-usd-350-por-ejemplares-de-la-cuasimoneda-bonaerense-que-marco-la-crisis-de-2001/"
+  },
+  {
+   "title": "Tras más de dos décadas de actividad, cierra una marca argentina de zapatos de tango que llegó a exportar a EEUU y Japón",
+   "source": "Infobae",
+   "date": "2026-10-28T15:03:36+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/28/tras-mas-de-dos-decadas-de-actividad-cierra-una-marca-argentina-de-zapatos-de-tango-que-llego-a-exportar-a-eeuu-y-japon/"
+  },
+  {
+   "title": "Plazo fijo en dólares: ¿cuánto rinde invertir u$d5.000 a 30 días en los principales bancos?",
+   "source": "Ámbito",
+   "date": "2026-10-28T15:00:00+00:00",
+   "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-rinde-invertir-ud5000-30-dias-los-principales-bancos-n6338719"
+  },
   {
    "title": "Cavallo cuestionó al Gobierno y su intervención sobre el dólar: “Manejan el tipo de cambio como lo hacía Moreno”",
    "source": "Infobae",
@@ -71,18 +101,6 @@
    "source": "Infobae",
    "date": "2026-10-27T17:11:50+00:00",
    "link": "https://www.infobae.com/economia/2026/10/27/la-empresa-de-ia-creadora-de-claude-definio-su-salida-a-cotizacion-en-wall-street-y-espera-marcar-un-hito-historico/"
-  },
-  {
-   "title": "Efecto Lula: los dólares financieros se acercan a los $1.700 y la brecha cambiaria subió a 7,5 por ciento",
-   "source": "Infobae",
-   "date": "2026-10-27T12:17:20+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/27/efecto-lula-los-dolares-financieros-se-acercan-a-los-1700-y-la-brecha-cambiaria-subio-a-75-por-ciento/"
-  },
-  {
-   "title": "A cuánto llegará el índice de inflación de octubre según las consultoras privadas",
-   "source": "Infobae",
-   "date": "2026-10-27T11:26:50+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/27/a-cuanto-llegara-el-indice-de-inflacion-de-octubre-segun-las-consultoras-privadas/"
   }
  ]
 }
