@@ -1,11 +1,41 @@
 {
- "generated_utc": "2026-10-28T18:55:54+00:00",
+ "generated_utc": "2026-10-28T22:52:51+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "En medio de la tensión que genera Brasil, Economía renovó vencimientos y retiró pesos del mercado: efectos sobre la tasa y el dólar",
+   "source": "Infobae",
+   "date": "2026-10-28T22:06:38+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/28/en-medio-de-la-tension-que-genera-brasil-economia-renovo-vencimientos-y-retiro-pesos-del-mercado-efectos-sobre-la-tasa-y-el-dolar/"
+  },
+  {
+   "title": "Caputo absorbió pesos por el equivalente a u$s490 millones para sacar presión al dólar",
+   "source": "iProfesional",
+   "date": "2026-10-28T21:40:00+00:00",
+   "link": "https://www.iprofesional.com/economia/467749-caputo-absorbio-el-equivalente-a-490-millones-para-sacar-presion-al-dolar"
+  },
+  {
+   "title": "Efecto Brasil: por tercer día consecutivo, el Banco Central no compró reservas en el mercado de cambios",
+   "source": "Infobae",
+   "date": "2026-10-28T20:15:37+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/28/efecto-brasil-por-tercer-dia-consecutivo-el-banco-central-no-compro-reservas-en-el-mercado-de-cambios/"
+  },
+  {
+   "title": "El dólar subió y alcanzó un nuevo máximo, con la influencia de la devaluación del real",
+   "source": "Infobae",
+   "date": "2026-10-28T19:55:04+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/28/el-dolar-subio-y-alcanzo-un-nuevo-maximo-con-la-influencia-de-la-devaluacion-del-real/"
+  },
+  {
+   "title": "La Fed sigue preocupada por la inflación y el mercado palpita suba de tasas en diciembre",
+   "source": "iProfesional",
+   "date": "2026-10-28T19:29:00+00:00",
+   "link": "https://www.iprofesional.com/economia/467726-por-que-el-mercado-palpita-una-suba-de-tasas-de-la-fed-antes-de-fin-de-ano"
+  },
   {
    "title": "La Fed mantuvo las tasas de interés, pero anticipó que la inflación sigue elevada",
    "source": "iProfesional",
@@ -77,30 +107,6 @@
    "source": "Ámbito",
    "date": "2026-10-27T23:50:00+00:00",
    "link": "https://www.ambito.com/economia/domingo-cavallo-critico-javier-milei-y-pidio-liberar-la-compra-y-venta-dolares-n6338608"
-  },
-  {
-   "title": "El BCRA no compró dólares por segunda rueda consecutiva, aunque las reservas volvieron a subir",
-   "source": "Ámbito",
-   "date": "2026-10-27T20:44:00+00:00",
-   "link": "https://www.ambito.com/economia/el-bcra-no-compro-dolares-segunda-rueda-consecutiva-aunque-las-reservas-volvieron-subir-n6338558"
-  },
-  {
-   "title": "El dólar bajó y cortó una racha de siete sesiones consecutiva de avances",
-   "source": "Infobae",
-   "date": "2026-10-27T20:42:55+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/27/el-dolar-bajo-y-corto-una-racha-de-siete-sesiones-consecutiva-de-avances/"
-  },
-  {
-   "title": "Por primera vez en el año, el BCRA no compró divisas por dos ruedas consecutivas",
-   "source": "Infobae",
-   "date": "2026-10-27T20:12:19+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/27/por-primera-vez-en-el-ano-el-bcra-no-compro-divisas-por-dos-ruedas-consecutivas/"
-  },
-  {
-   "title": "Las acciones brasileñas retomaron las pérdidas y el real recuperó terreno frente al dólar",
-   "source": "Infobae",
-   "date": "2026-10-27T20:05:25+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/27/las-acciones-brasilenas-rebotan-tras-el-colapso-post-electoral-y-el-real-recupera-terreno-frente-al-dolar/"
   }
  ]
 }
