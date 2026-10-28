@@ -332,5 +332,14 @@
   "title": "Cambió una página oficial de Littio",
   "detail": "El robot detectó un cambio en el texto. Pendiente de revisión humana antes de tocar los datos.",
   "reviewed": false
+ },
+ {
+  "date": "2026-10-28",
+  "type": "detectado",
+  "provider": "Global66",
+  "url": "https://ayuda.global66.com/docs/primeros-pasos/recibe-dinero-directamente-a-tu-cuenta-en-usd-eur-y-gbp-con-global66/",
+  "title": "Cambió una página oficial de Global66",
+  "detail": "El robot detectó un cambio en el texto. Pendiente de revisión humana antes de tocar los datos.",
+  "reviewed": false
  }
 ]
