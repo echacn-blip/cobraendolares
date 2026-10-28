@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-28T17:00:01+00:00",
+ "generated_utc": "2026-10-28T18:55:54+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
@@ -7,7 +7,19 @@
  ],
  "items": [
   {
-   "title": "Domingo Cavallo lanzó fuertes críticas y comparó al gobierno de Javier Milei con el kirchnerismo: \"Manejan el dólar como lo hacía Moreno\"",
+   "title": "La Fed mantuvo las tasas de interés, pero anticipó que la inflación sigue elevada",
+   "source": "iProfesional",
+   "date": "2026-10-28T18:13:00+00:00",
+   "link": "https://www.iprofesional.com/economia/467717-la-fed-mantuvo-las-tasas-de-interes-pero-anticipo-que-la-inflacion-sigue-elevada"
+  },
+  {
+   "title": "Girard cuestionó la política económica de Milei por la inflación y la caída salarial",
+   "source": "Infobae",
+   "date": "2026-10-28T17:58:58+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/28/girard-cuestiono-la-politica-economica-de-milei-por-la-inflacion-y-la-caida-salarial/"
+  },
+  {
+   "title": "Domingo Cavallo comparó al gobierno de Javier Milei con el kirchnerismo: \"Manejan el dólar como lo hacía Moreno\"",
    "source": "Ámbito",
    "date": "2026-10-28T16:41:00+00:00",
    "link": "https://www.ambito.com/economia/cavallo-lanzo-fuertes-criticas-y-comparo-al-gobierno-javier-milei-el-kirchnerismo-manejan-el-dolar-como-lo-moreno-n6338886"
@@ -67,12 +79,6 @@
    "link": "https://www.ambito.com/economia/domingo-cavallo-critico-javier-milei-y-pidio-liberar-la-compra-y-venta-dolares-n6338608"
   },
   {
-   "title": "El dólar sube pero nunca estuvo tan barato en términos reales en la última década",
-   "source": "iProfesional",
-   "date": "2026-10-27T21:17:00+00:00",
-   "link": "https://www.iprofesional.com/finanzas/467618-el-dolar-sigue-al-alza-pero-esta-en-el-nivel-mas-bajo-en-10-anos"
-  },
-  {
    "title": "El BCRA no compró dólares por segunda rueda consecutiva, aunque las reservas volvieron a subir",
    "source": "Ámbito",
    "date": "2026-10-27T20:44:00+00:00",
@@ -95,12 +101,6 @@
    "source": "Infobae",
    "date": "2026-10-27T20:05:25+00:00",
    "link": "https://www.infobae.com/economia/2026/10/27/las-acciones-brasilenas-rebotan-tras-el-colapso-post-electoral-y-el-real-recupera-terreno-frente-al-dolar/"
-  },
-  {
-   "title": "La empresa de IA creadora de Claude definió su salida a cotización en Wall Street y espera marcar un hito histórico",
-   "source": "Infobae",
-   "date": "2026-10-27T17:11:50+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/27/la-empresa-de-ia-creadora-de-claude-definio-su-salida-a-cotizacion-en-wall-street-y-espera-marcar-un-hito-historico/"
   }
  ]
 }
