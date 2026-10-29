@@ -1,11 +1,29 @@
 {
- "generated_utc": "2026-10-29T16:52:15+00:00",
+ "generated_utc": "2026-10-29T18:56:00+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "El BCRA anticipa presiones sobre la inflación en el último trimestre: cuáles son los tres rubros que pueden empujar los precios",
+   "source": "Infobae",
+   "date": "2026-10-29T18:28:20+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/29/el-bcra-anticipa-presiones-sobre-la-inflacion-en-el-ultimo-trimestre-cuales-son-los-tres-rubros-que-pueden-empujar-los-precios/"
+  },
+  {
+   "title": "Martín Redrado: \"En 2027 vamos a tener tensión con el dólar y hay que estar preparados\"",
+   "source": "Infobae",
+   "date": "2026-10-29T17:54:29+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/29/martin-redrado-en-2027-vamos-a-tener-tension-con-el-dolar-y-hay-que-estar-preparados/"
+  },
+  {
+   "title": "Polémica por el oro del BCRA: la entidad respondió a las críticas de la AGN y defendió lo que considera una ganancia “inédita”",
+   "source": "Infobae",
+   "date": "2026-10-29T17:23:16+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/29/polemica-por-el-oro-del-bcra-la-entidad-respondio-a-las-criticas-de-la-agn-y-defendio-lo-que-considera-una-ganancia-inedita/"
+  },
   {
    "title": "El BCRA lleva 3 días sin comprar dólares y el mercado identificó 4 factores",
    "source": "iProfesional",
@@ -97,12 +115,6 @@
    "link": "https://www.infobae.com/economia/2026/10/28/girard-cuestiono-la-politica-economica-de-milei-por-la-inflacion-y-la-caida-salarial/"
   },
   {
-   "title": "Domingo Cavallo comparó al gobierno de Javier Milei con el kirchnerismo: \"Manejan el dólar como lo hacía Moreno\"",
-   "source": "Ámbito",
-   "date": "2026-10-28T16:41:00+00:00",
-   "link": "https://www.ambito.com/economia/cavallo-lanzo-fuertes-criticas-y-comparo-al-gobierno-javier-milei-el-kirchnerismo-manejan-el-dolar-como-lo-moreno-n6338886"
-  },
-  {
    "title": "Cuánto vale un Patacón: piden hasta USD 350 por ejemplares de la cuasimoneda bonaerense que marcó la crisis de 2001",
    "source": "Infobae",
    "date": "2026-10-28T15:12:59+00:00",
@@ -113,24 +125,6 @@
    "source": "Infobae",
    "date": "2026-10-28T15:03:36+00:00",
    "link": "https://www.infobae.com/economia/2026/10/28/tras-mas-de-dos-decadas-de-actividad-cierra-una-marca-argentina-de-zapatos-de-tango-que-llego-a-exportar-a-eeuu-y-japon/"
-  },
-  {
-   "title": "Cavallo cuestionó al Gobierno y su intervención sobre el dólar: “Manejan el tipo de cambio como lo hacía Moreno”",
-   "source": "Infobae",
-   "date": "2026-10-28T11:33:09+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/28/cavallo-cuestiono-al-gobierno-y-su-intervencion-sobre-el-dolar-manejan-el-tipo-de-cambio-como-lo-hacia-moreno/"
-  },
-  {
-   "title": "Bajaron los dólares financieros y el riesgo país, pero la cotización de los bonos despierta incertidumbre rumbo a 2027",
-   "source": "Infobae",
-   "date": "2026-10-28T10:44:47+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/28/bajaron-los-dolares-financieros-y-el-riesgo-pais-pero-los-bonos-todavia-marcan-solo-un-50-de-chances-de-reeleccion-de-milei/"
-  },
-  {
-   "title": "El Gobierno debe afrontar un pago de USD 800 millones al FMI y analiza dos caminos: usar dólares propios o comprarlos al BCRA",
-   "source": "Infobae",
-   "date": "2026-10-28T04:48:16+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/28/el-gobierno-debe-afrontar-un-pago-de-usd-800-millones-al-fmi-y-analiza-dos-caminos-usar-dolares-propios-o-comprarlos-al-bcra/"
   }
  ]
 }
