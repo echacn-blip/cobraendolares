@@ -1,11 +1,29 @@
 {
- "generated_utc": "2026-10-29T10:53:29+00:00",
+ "generated_utc": "2026-10-29T12:54:09+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "Inflación de octubre: cuánto esperan las consultoras y qué pasa con los precios de los alimentos",
+   "source": "iProfesional",
+   "date": "2026-10-29T11:54:00+00:00",
+   "link": "https://www.iprofesional.com/economia/467770-inflacion-de-octubre-cuanto-esperan-las-consultoras-y-que-pasa-con-los-alimentos"
+  },
+  {
+   "title": "Plazo fijo en dólares: qué banco paga más y cuánto rinde u$s1.500 según el plazo",
+   "source": "iProfesional",
+   "date": "2026-10-29T11:54:00+00:00",
+   "link": "https://www.iprofesional.com/finanzas/467773-plazo-fijo-en-dolares-que-banco-paga-mas-y-cuanto-rinde-us1-500-segun-el-plazo"
+  },
+  {
+   "title": "Christine Lagarde renuncia a la presidencia del Banco Central Europeo y dejará su cargo en febrero",
+   "source": "Ámbito",
+   "date": "2026-10-29T11:22:00+00:00",
+   "link": "https://www.ambito.com/economia/christine-lagarde-renuncia-la-presidencia-del-banco-central-europeo-y-dejara-su-cargo-febrero-n6339167"
+  },
   {
    "title": "Presión sobre bonos argentinos, riesgo país y dólar, lo que viene tras medida de la Fed",
    "source": "iProfesional",
@@ -107,12 +125,6 @@
    "source": "Infobae",
    "date": "2026-10-28T04:48:16+00:00",
    "link": "https://www.infobae.com/economia/2026/10/28/el-gobierno-debe-afrontar-un-pago-de-usd-800-millones-al-fmi-y-analiza-dos-caminos-usar-dolares-propios-o-comprarlos-al-bcra/"
-  },
-  {
-   "title": "Domingo Cavallo criticó a Javier Milei y pidió liberar la compra y venta de dólares",
-   "source": "Ámbito",
-   "date": "2026-10-27T23:50:00+00:00",
-   "link": "https://www.ambito.com/economia/domingo-cavallo-critico-javier-milei-y-pidio-liberar-la-compra-y-venta-dolares-n6338608"
   }
  ]
 }

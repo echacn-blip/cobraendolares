@@ -395,5 +395,14 @@
   "title": "Cambió una página oficial de Wise",
   "detail": "El robot detectó un cambio en el texto. Pendiente de revisión humana antes de tocar los datos.",
   "reviewed": false
+ },
+ {
+  "date": "2026-10-29",
+  "type": "detectado",
+  "provider": "Wise",
+  "url": "https://wise.com/help/articles/2813542/where-do-i-need-to-live-to-hold-money-with-wise",
+  "title": "Cambió una página oficial de Wise",
+  "detail": "El robot detectó un cambio en el texto. Pendiente de revisión humana antes de tocar los datos.",
+  "reviewed": false
  }
 ]
