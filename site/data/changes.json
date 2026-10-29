@@ -413,5 +413,23 @@
   "title": "Cambió una página oficial de Wise",
   "detail": "El robot detectó un cambio en el texto. Pendiente de revisión humana antes de tocar los datos.",
   "reviewed": false
+ },
+ {
+  "date": "2026-10-29",
+  "type": "detectado",
+  "provider": "Wise",
+  "url": "https://wise.com/us/pricing/receive",
+  "title": "Cambió una página oficial de Wise",
+  "detail": "El robot detectó un cambio en el texto. Pendiente de revisión humana antes de tocar los datos.",
+  "reviewed": false
+ },
+ {
+  "date": "2026-10-29",
+  "type": "detectado",
+  "provider": "Takenos",
+  "url": "https://help.takenos.com/en/articles/9820507-cuanto-cuesta-enviar-fondos-en-takenos",
+  "title": "Cambió una página oficial de Takenos",
+  "detail": "El robot detectó un cambio en el texto. Pendiente de revisión humana antes de tocar los datos.",
+  "reviewed": false
  }
 ]
