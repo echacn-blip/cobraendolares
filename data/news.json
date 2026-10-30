@@ -1,11 +1,35 @@
 {
- "generated_utc": "2026-10-30T20:57:56+00:00",
+ "generated_utc": "2026-10-30T22:54:11+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "Los argentinos compraron casi USD 2.900 millones cash y el acumulado desde la salida del cepo superó los USD 50.000 millones",
+   "source": "Infobae",
+   "date": "2026-10-30T22:50:17+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/30/los-argentinos-compraron-casi-usd-2900-millones-cash-y-el-acumulado-desde-la-salida-del-cepo-supero-los-usd-50000-millones/"
+  },
+  {
+   "title": "En plena \"batalla\" fintech, Cocos vende dólares más baratos para captar más clientes",
+   "source": "iProfesional",
+   "date": "2026-10-30T21:31:00+00:00",
+   "link": "https://www.iprofesional.com/finanzas/467845-en-plena-batalla-fintech-cocos-vende-dolares-mas-baratos-para-captar-mas-clientes"
+  },
+  {
+   "title": "Ahorristas le \"sacan\" al BCRA u$s2.500 millones y calientan motores en la previa electoral",
+   "source": "iProfesional",
+   "date": "2026-10-30T21:20:00+00:00",
+   "link": "https://www.iprofesional.com/finanzas/467963-ahorristas-le-arrebataron-al-bcra-casi-2500-millones-de-dolares"
+  },
+  {
+   "title": "El BCRA volvió a comprar y en octubre sumó casi tres veces más dólares que el mes pasado",
+   "source": "iProfesional",
+   "date": "2026-10-30T20:22:00+00:00",
+   "link": "https://www.iprofesional.com/economia/467957-bcra-volvio-a-comprar-y-en-octubre-sumo-casi-tres-veces-mas-de-dolares-que-en-septiembre"
+  },
   {
    "title": "Presión sobre bonos argentinos, riesgo país y dólar, lo que viene tras medida de la Fed",
    "source": "iProfesional",
@@ -35,12 +59,6 @@
    "source": "iProfesional",
    "date": "2026-10-30T12:51:00+00:00",
    "link": "https://www.iprofesional.com/economia/467906-precios-de-alimentos-la-suba-mensual-se-desacelero-en-octubre"
-  },
-  {
-   "title": "Crece el cuentapropismo y se amplía la brecha de ingresos con el empleo formal",
-   "source": "iProfesional",
-   "date": "2026-10-30T12:08:00+00:00",
-   "link": "https://www.iprofesional.com/economia/467769-crece-el-cuentapropismo-y-se-amplia-la-brecha-de-ingresos-con-el-empleo-formal"
   },
   {
    "title": "El mercado de criptomonedas cayó tras el informe de Binance sobre el hackeo a la plataforma: bitcoin y BNB se deprecian",
@@ -89,12 +107,6 @@
    "source": "Infobae",
    "date": "2026-10-29T20:48:33+00:00",
    "link": "https://www.infobae.com/economia/2026/10/29/el-dolar-bajo-en-el-mercado-local-mientras-que-en-brasil-volvio-a-subir-frente-al-real/"
-  },
-  {
-   "title": "Mercado Pago, a un paso de convertirse en banco: el BCRA dio aprobación técnica a la licencia pedida por la empresa de Marcos Galperin",
-   "source": "Infobae",
-   "date": "2026-10-29T20:13:35+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/29/mercado-pago-a-un-paso-de-convertirse-en-banco-el-bcra-dio-aprobacion-tecnica-a-la-licencia-pedida-por-la-empresa-de-marcos-galperin/"
   },
   {
    "title": "El BCRA prevé un \"aumento significativo\" de la actividad económica para fin de año y una mayor demanda de pesos",
