@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-29T22:51:54+00:00",
+ "generated_utc": "2026-10-30T00:58:46+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
@@ -7,13 +7,19 @@
  ],
  "items": [
   {
+   "title": "Dólares del colchón: ARCA postergó por sexta vez la presentación de la DD.JJ. de Ganancias",
+   "source": "Ámbito",
+   "date": "2026-10-29T23:09:00+00:00",
+   "link": "https://www.ambito.com/economia/dolares-del-colchon-arca-postergo-sexta-vez-la-presentacion-la-ddjj-ganancias-n6339476"
+  },
+  {
    "title": "El presidente del BCRA explicó como podría usar los swap con China y EEUU en 2027 y volvió a hablar del oro: “No tenemos nada en Inglaterra”",
    "source": "Infobae",
    "date": "2026-10-29T22:04:05+00:00",
    "link": "https://www.infobae.com/economia/2026/10/29/el-presidente-del-bcra-explico-como-podria-usar-los-swap-con-china-y-eeuu-y-volvio-a-hablar-del-oro-no-tenemos-nada-en-inglaterra/"
   },
   {
-   "title": "Bausili dio detalles de la operatoria del BCRA con el oro de las reservas",
+   "title": "Bausili dijo que no tiene una \"proyección de corrida\" para 2027 y habló del oro del BCRA",
    "source": "iProfesional",
    "date": "2026-10-29T21:45:00+00:00",
    "link": "https://www.iprofesional.com/economia/467847-bausili-dio-detalles-de-la-operatoria-con-el-oro-de-las-reservas-del-bcra"
@@ -103,12 +109,6 @@
    "link": "https://www.ambito.com/economia/christine-lagarde-renuncia-la-presidencia-del-banco-central-europeo-y-dejara-su-cargo-febrero-n6339167"
   },
   {
-   "title": "Presión sobre bonos argentinos, riesgo país y dólar, lo que viene tras medida de la Fed",
-   "source": "iProfesional",
-   "date": "2026-10-29T10:00:00+00:00",
-   "link": "https://www.iprofesional.com/finanzas/467747-presion-sobre-bonos-riesgo-pais-y-dolar-lo-que-viene-tras-medida-de-la-fed"
-  },
-  {
    "title": "El “efecto Lula” sigue pegando en Argentina: los bonos sintieron el impacto, pero el tipo de cambio aguantó",
    "source": "Infobae",
    "date": "2026-10-29T05:38:45+00:00",
@@ -131,6 +131,24 @@
    "source": "Infobae",
    "date": "2026-10-28T19:55:04+00:00",
    "link": "https://www.infobae.com/economia/2026/10/28/el-dolar-subio-y-alcanzo-un-nuevo-maximo-con-la-influencia-de-la-devaluacion-del-real/"
+  },
+  {
+   "title": "Domingo Cavallo comparó al gobierno de Javier Milei con el kirchnerismo: \"Manejan el dólar como lo hacía Moreno\"",
+   "source": "Ámbito",
+   "date": "2026-10-28T16:41:00+00:00",
+   "link": "https://www.ambito.com/economia/cavallo-lanzo-fuertes-criticas-y-comparo-al-gobierno-javier-milei-el-kirchnerismo-manejan-el-dolar-como-lo-moreno-n6338886"
+  },
+  {
+   "title": "Plazo fijo en dólares: ¿cuánto rinde invertir u$d5.000 a 30 días en los principales bancos?",
+   "source": "Ámbito",
+   "date": "2026-10-28T15:00:00+00:00",
+   "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-rinde-invertir-ud5000-30-dias-los-principales-bancos-n6338719"
+  },
+  {
+   "title": "Domingo Cavallo criticó a Javier Milei y pidió liberar la compra y venta de dólares",
+   "source": "Ámbito",
+   "date": "2026-10-27T23:50:00+00:00",
+   "link": "https://www.ambito.com/economia/domingo-cavallo-critico-javier-milei-y-pidio-liberar-la-compra-y-venta-dolares-n6338608"
   }
  ]
 }
