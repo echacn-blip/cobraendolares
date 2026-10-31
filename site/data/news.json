@@ -1,11 +1,23 @@
 {
- "generated_utc": "2026-10-31T10:52:47+00:00",
+ "generated_utc": "2026-10-31T12:52:46+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "Lluvia de dólares crece con el comercio exterior pero no alcanza para bajar riesgo país",
+   "source": "iProfesional",
+   "date": "2026-10-31T11:01:00+00:00",
+   "link": "https://www.iprofesional.com/economia/466973-lluvia-de-dolares-no-alcanza-para-bajar-riesgo-pais"
+  },
+  {
+   "title": "Por qué la caída del real brasileño frente al dólar no va a castigar al mercado argentino",
+   "source": "iProfesional",
+   "date": "2026-10-31T10:55:00+00:00",
+   "link": "https://www.iprofesional.com/finanzas/467941-por-que-caida-del-real-brasileno-frente-al-dolar-no-condenara-a-la-argentina"
+  },
   {
    "title": "Por qué la frase de Horacio Marín sobre la inflación sorprendió a Wall Street, mientras YPF sostiene el buffer de precios",
    "source": "Infobae",
