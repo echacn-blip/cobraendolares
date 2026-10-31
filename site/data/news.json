@@ -1,11 +1,17 @@
 {
- "generated_utc": "2026-10-31T14:54:05+00:00",
+ "generated_utc": "2026-10-31T16:58:33+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "El Banco Central compró USD 1.395 millones en octubre y reforzó las reservas",
+   "source": "Infobae",
+   "date": "2026-10-31T15:24:42+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/31/el-banco-central-compro-usd-1395-millones-en-octubre-y-reforzo-las-reservas/"
+  },
   {
    "title": "Lluvia de dólares crece con el comercio exterior pero no alcanza para bajar riesgo país",
    "source": "iProfesional",
@@ -73,12 +79,6 @@
    "link": "https://www.infobae.com/america/mundo/2026/10/30/el-robo-de-usd-6000-millones-a-binance-sacude-el-mundo-de-las-criptomonedas-y-atrae-la-atencion-del-fbi/"
   },
   {
-   "title": "BCRA asegura que ya no hay freno monetario para la economía, pero la reactivación no llega",
-   "source": "iProfesional",
-   "date": "2026-10-30T17:40:00+00:00",
-   "link": "https://www.iprofesional.com/economia/467939-banco-central-elimina-freno-monetario-cuando-se-notara-economia-octubre-2026"
-  },
-  {
    "title": "La inflación en Italia subió al 5,4% en octubre y el PBI no creció en el tercer trimestre",
    "source": "Infobae",
    "date": "2026-10-30T15:34:33+00:00",
@@ -107,12 +107,6 @@
    "source": "Infobae",
    "date": "2026-10-30T04:47:48+00:00",
    "link": "https://www.infobae.com/economia/2026/10/30/cuantas-onzas-hay-donde-estan-y-la-estrategia-zero-cost-collar-20-frases-de-santiago-bausili-sobre-el-polemico-oro-del-bcra/"
-  },
-  {
-   "title": "La consultora que más sigue la City porteña alertó por el esquema cambiario: la contradicción entre el dólar bajo y el riesgo país alto",
-   "source": "Infobae",
-   "date": "2026-10-30T04:47:38+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/30/la-consultora-que-mas-sigue-la-city-portena-alerto-por-el-esquema-cambiario-la-contradiccion-entre-el-dolar-bajo-y-el-riesgo-pais-alto/"
   },
   {
    "title": "Dólares del colchón: ARCA postergó por sexta vez la presentación de la DD.JJ. de Ganancias",
