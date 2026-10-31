@@ -1,11 +1,23 @@
 {
- "generated_utc": "2026-10-30T22:54:11+00:00",
+ "generated_utc": "2026-10-31T00:55:01+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "YPF pidió un RIGI para el norte de Vaca Muerta: invertirá USD 8.700 millones y prevé exportar USD 25.000 millones entre 2027 y 2055",
+   "source": "Infobae",
+   "date": "2026-10-30T23:18:58+00:00",
+   "link": "https://www.infobae.com/economia/2026/10/30/ypf-pidio-un-rigi-para-el-norte-de-vaca-muerta-invertira-usd-8700-millones-y-preve-exportar-usd-25000-millones-entre-2027-y-2055/"
+  },
+  {
+   "title": "La compra de dólar ahorro se mantuvo casi estable en septiembre, cerca de los u$s3.000 millones",
+   "source": "Ámbito",
+   "date": "2026-10-30T22:52:00+00:00",
+   "link": "https://www.ambito.com/economia/la-compra-dolar-ahorro-se-mantuvo-casi-estable-septiembre-cerca-los-us3000-millones-n6339969"
+  },
   {
    "title": "Los argentinos compraron casi USD 2.900 millones cash y el acumulado desde la salida del cepo superó los USD 50.000 millones",
    "source": "Infobae",
@@ -19,7 +31,7 @@
    "link": "https://www.iprofesional.com/finanzas/467845-en-plena-batalla-fintech-cocos-vende-dolares-mas-baratos-para-captar-mas-clientes"
   },
   {
-   "title": "Ahorristas le \"sacan\" al BCRA u$s2.500 millones y calientan motores en la previa electoral",
+   "title": "La demanda de dólar ahorro sigue elevada y las compras llegaron a los u$s2.500 millones",
    "source": "iProfesional",
    "date": "2026-10-30T21:20:00+00:00",
    "link": "https://www.iprofesional.com/finanzas/467963-ahorristas-le-arrebataron-al-bcra-casi-2500-millones-de-dolares"
@@ -53,12 +65,6 @@
    "source": "Infobae",
    "date": "2026-10-30T15:34:33+00:00",
    "link": "https://www.infobae.com/america/mundo/2026/10/30/la-inflacion-en-italia-subio-al-54-en-octubre-y-el-pbi-no-crecio-en-el-tercer-trimestre/"
-  },
-  {
-   "title": "La suba de alimentos continúa en octubre, pero la inflación mensual se desaceleró al 2,7%",
-   "source": "iProfesional",
-   "date": "2026-10-30T12:51:00+00:00",
-   "link": "https://www.iprofesional.com/economia/467906-precios-de-alimentos-la-suba-mensual-se-desacelero-en-octubre"
   },
   {
    "title": "El mercado de criptomonedas cayó tras el informe de Binance sobre el hackeo a la plataforma: bitcoin y BNB se deprecian",
@@ -101,12 +107,6 @@
    "source": "Infobae",
    "date": "2026-10-29T22:04:05+00:00",
    "link": "https://www.infobae.com/economia/2026/10/29/el-presidente-del-bcra-explico-como-podria-usar-los-swap-con-china-y-eeuu-y-volvio-a-hablar-del-oro-no-tenemos-nada-en-inglaterra/"
-  },
-  {
-   "title": "El dólar bajó en el mercado local, mientras que en Brasil volvió a subir frente al real",
-   "source": "Infobae",
-   "date": "2026-10-29T20:48:33+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/29/el-dolar-bajo-en-el-mercado-local-mientras-que-en-brasil-volvio-a-subir-frente-al-real/"
   },
   {
    "title": "El BCRA prevé un \"aumento significativo\" de la actividad económica para fin de año y una mayor demanda de pesos",
