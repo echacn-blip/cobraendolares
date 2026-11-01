@@ -1,11 +1,17 @@
 {
- "generated_utc": "2026-10-31T20:57:09+00:00",
+ "generated_utc": "2026-11-01T00:55:51+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "La City alerta que el Gobierno tiene menos dólares de lo que dice para frenar una corrida",
+   "source": "iProfesional",
+   "date": "2026-10-31T21:20:00+00:00",
+   "link": "https://www.iprofesional.com/finanzas/467976-bancos-alertan-por-los-dolares-que-tiene-el-gobierno-para-frenar-corrida"
+  },
   {
    "title": "Mercado Pago, a un paso de convertirse en banco: el BCRA dio aprobación técnica a la licencia pedida por la empresa de Marcos Galperin",
    "source": "Infobae",
@@ -71,12 +77,6 @@
    "source": "iProfesional",
    "date": "2026-10-30T20:22:00+00:00",
    "link": "https://www.iprofesional.com/economia/467957-bcra-volvio-a-comprar-y-en-octubre-sumo-casi-tres-veces-mas-de-dolares-que-en-septiembre"
-  },
-  {
-   "title": "Presión sobre bonos argentinos, riesgo país y dólar, lo que viene tras medida de la Fed",
-   "source": "iProfesional",
-   "date": "2026-10-30T18:40:00+00:00",
-   "link": "https://www.iprofesional.com/finanzas/467747-presion-sobre-bonos-riesgo-pais-y-dolar-lo-que-viene-tras-medida-de-la-fed"
   },
   {
    "title": "El robo de USD 6.000 millones a Binance sacude el mundo de las criptomonedas y atrae la atención del FBI",
