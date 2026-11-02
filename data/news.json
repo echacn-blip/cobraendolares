@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-02T17:58:41+00:00",
+ "generated_utc": "2026-11-02T19:52:53+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
@@ -7,9 +7,33 @@
  ],
  "items": [
   {
+   "title": "El mercado calcula nuevo techo para el riesgo país y advierte por un contagio en el dólar",
+   "source": "iProfesional",
+   "date": "2026-11-02T19:45:00+00:00",
+   "link": "https://www.iprofesional.com/finanzas/468027-el-nuevo-techo-que-puede-alcanzar-el-riesgo-pais-y-su-impacto-en-dolar"
+  },
+  {
+   "title": "El dólar volvió a subir y la cotización en el Banco Nación alcanzó un nuevo máximo histórico",
+   "source": "Infobae",
+   "date": "2026-11-02T19:36:30+00:00",
+   "link": "https://www.infobae.com/economia/2026/11/02/el-dolar-volvio-a-subir-y-la-cotizacion-en-el-banco-nacion-alcanzo-un-nuevo-maximo-historico/"
+  },
+  {
+   "title": "La UIF aprobó una norma clave de Inocencia Fiscal II: desde qué monto se pueden pedir más datos por sacar los dólares del colchón",
+   "source": "Infobae",
+   "date": "2026-11-02T19:16:59+00:00",
+   "link": "https://www.infobae.com/economia/2026/11/02/la-uif-aprobo-una-norma-clave-de-inocencia-fiscal-ii-desde-que-monto-se-pueden-pedir-mas-datos-por-sacar-los-dolares-del-colchon/"
+  },
+  {
+   "title": "La inflación se consolidó por debajo del 2% en octubre, aunque advierten presiones por el lado de la vivienda",
+   "source": "Ámbito",
+   "date": "2026-11-02T19:01:00+00:00",
+   "link": "https://www.ambito.com/economia/la-inflacion-se-consolido-debajo-del-2-octubre-aunque-advierten-presiones-el-lado-la-vivienda-n6340511"
+  },
+  {
    "title": "Oro del BCRA: el abogado Gregorio Dalbón llevó al regulador del mercado de EEUU el caso por operaciones con reservas del metal",
    "source": "Infobae",
-   "date": "2026-11-02T17:48:59+00:00",
+   "date": "2026-11-02T18:23:38+00:00",
    "link": "https://www.infobae.com/economia/2026/11/02/oro-del-bcra-el-abogado-gregorio-dalbon-llevo-al-regulador-del-mercado-de-eeuu-el-caso-por-operaciones-con-reservas-del-metal/"
   },
   {
@@ -61,12 +85,6 @@
    "link": "https://www.iprofesional.com/economia/468028-empleados-bancarios-cobraran-super-bono-esta-semana-que-se-actualizaran-con-la-inflacion"
   },
   {
-   "title": "El mercado calcula nuevo techo para el riesgo país y advierte por un contagio en el dólar",
-   "source": "iProfesional",
-   "date": "2026-11-02T09:00:00+00:00",
-   "link": "https://www.iprofesional.com/finanzas/468027-el-nuevo-techo-que-puede-alcanzar-el-riesgo-pais-y-su-impacto-en-dolar"
-  },
-  {
    "title": "Qué esperan las consultoras privadas para el dato de inflación de octubre",
    "source": "Infobae",
    "date": "2026-11-02T05:40:31+00:00",
@@ -79,16 +97,16 @@
    "link": "https://www.ambito.com/economia/la-caida-la-industria-baja-demanda-interna-y-sueldos-dolares-altos-n6340338"
   },
   {
-   "title": "Las exportaciones de carne crecieron casi 37% en lo que va de 2026 por la mejora en los precios",
-   "source": "Ámbito",
-   "date": "2026-11-01T18:50:08+00:00",
-   "link": "https://www.ambito.com/economia/las-exportaciones-carne-crecieron-casi-37-lo-que-va-2026-la-mejora-los-precios-n6340272"
-  },
-  {
    "title": "El debate sobre el atraso cambiario: las exportaciones crecieron mientras caía el tipo de cambio real",
    "source": "Infobae",
    "date": "2026-11-01T18:36:13+00:00",
    "link": "https://www.infobae.com/economia/2026/11/01/el-debate-sobre-el-atraso-cambiario-las-exportaciones-crecieron-mientras-caia-el-tipo-de-cambio-real/"
+  },
+  {
+   "title": "Las exportaciones de carne crecieron casi 37% en lo que va de 2026 por la mejora en los precios",
+   "source": "Ámbito",
+   "date": "2026-11-01T18:31:49+00:00",
+   "link": "https://www.ambito.com/economia/las-exportaciones-carne-crecieron-casi-37-lo-que-va-2026-la-mejora-los-precios-n6340272"
   },
   {
    "title": "Plazo fijo en dólares: cuánto debés depositar para ganar u$s100",
@@ -101,18 +119,6 @@
    "source": "Infobae",
    "date": "2026-11-01T04:27:11+00:00",
    "link": "https://www.infobae.com/economia/2026/11/01/devaluacion-del-real-es-una-senal-de-alerta-para-el-peso-argentino/"
-  },
-  {
-   "title": "Rodolfo Santangelo: \"Estamos subsidiando la demanda de dólares y gravando el consumo local\"",
-   "source": "Ámbito",
-   "date": "2026-11-01T03:00:00+00:00",
-   "link": "https://www.ambito.com/economia/rodolfo-santangelo-estamos-subsidiando-la-demanda-dolares-y-gravando-el-consumo-local-n6340145"
-  },
-  {
-   "title": "Dólar, embargos y recesión: Luis Caputo va a la UIA con muchos problemas y pocas herramientas",
-   "source": "Ámbito",
-   "date": "2026-11-01T03:00:00+00:00",
-   "link": "https://www.ambito.com/economia/dolar-embargos-y-recesion-luis-caputo-va-la-uia-muchos-problemas-y-pocas-herramientas-n6340082"
   },
   {
    "title": "Mercado Pago, a un paso de convertirse en banco: el BCRA dio aprobación técnica a la licencia pedida por la empresa de Marcos Galperin",
@@ -131,24 +137,6 @@
    "source": "Infobae",
    "date": "2026-10-31T03:07:57+00:00",
    "link": "https://www.infobae.com/economia/2026/10/31/por-que-la-frase-de-horacio-marin-sobre-la-inflacion-sorprendio-a-wall-street-mientras-ypf-sostiene-el-buffer-de-precios/"
-  },
-  {
-   "title": "YPF pidió un RIGI para el norte de Vaca Muerta: invertirá USD 8.700 millones y prevé exportar USD 25.000 millones entre 2027 y 2055",
-   "source": "Infobae",
-   "date": "2026-10-30T23:18:58+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/30/ypf-pidio-un-rigi-para-el-norte-de-vaca-muerta-invertira-usd-8700-millones-y-preve-exportar-usd-25000-millones-entre-2027-y-2055/"
-  },
-  {
-   "title": "La compra de dólar ahorro se mantuvo casi estable en septiembre, cerca de los u$s3.000 millones",
-   "source": "Ámbito",
-   "date": "2026-10-30T22:52:00+00:00",
-   "link": "https://www.ambito.com/economia/la-compra-dolar-ahorro-se-mantuvo-casi-estable-septiembre-cerca-los-us3000-millones-n6339969"
-  },
-  {
-   "title": "Los argentinos compraron casi USD 2.900 millones cash y el acumulado desde la salida del cepo superó los USD 50.000 millones",
-   "source": "Infobae",
-   "date": "2026-10-30T22:50:17+00:00",
-   "link": "https://www.infobae.com/economia/2026/10/30/los-argentinos-compraron-casi-usd-2900-millones-cash-y-el-acumulado-desde-la-salida-del-cepo-supero-los-usd-50000-millones/"
   }
  ]
 }
