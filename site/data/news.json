@@ -1,11 +1,23 @@
 {
- "generated_utc": "2026-11-02T14:00:10+00:00",
+ "generated_utc": "2026-11-02T15:56:03+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "El superávit energético se duplicó en septiembre y junto con el agro ayudan al Gobierno a \"blindar\" el dólar",
+   "source": "Ámbito",
+   "date": "2026-11-02T15:48:00+00:00",
+   "link": "https://www.ambito.com/economia/el-superavit-energetico-se-duplico-septiembre-y-junto-el-agro-ayudan-al-gobierno-blindar-el-dolar-n6340463"
+  },
+  {
+   "title": "Nuevos datos de compra de dólares confirman que la demanda encontró un piso más elevado",
+   "source": "iProfesional",
+   "date": "2026-11-02T14:30:00+00:00",
+   "link": "https://www.iprofesional.com/finanzas/468026-que-revelan-los-nuevos-datos-de-compra-de-dolares-rumbo-a-las-elecciones"
+  },
   {
    "title": "El carry trade no cede: amplía la ganancia frente al dólar y vuelve a tentar a inversores",
    "source": "iProfesional",
@@ -83,18 +95,6 @@
    "source": "Infobae",
    "date": "2026-11-01T04:27:11+00:00",
    "link": "https://www.infobae.com/economia/2026/11/01/devaluacion-del-real-es-una-senal-de-alerta-para-el-peso-argentino/"
-  },
-  {
-   "title": "Dólar, embargos y recesión: Luis Caputo va a la UIA con muchos problemas y pocas herramientas",
-   "source": "Ámbito",
-   "date": "2026-11-01T03:00:00+00:00",
-   "link": "https://www.ambito.com/economia/dolar-embargos-y-recesion-luis-caputo-va-la-uia-muchos-problemas-y-pocas-herramientas-n6340082"
-  },
-  {
-   "title": "Rodolfo Santangelo: \"Estamos subsidiando la demanda de dólares y gravando el consumo local\"",
-   "source": "Ámbito",
-   "date": "2026-11-01T03:00:00+00:00",
-   "link": "https://www.ambito.com/economia/rodolfo-santangelo-estamos-subsidiando-la-demanda-dolares-y-gravando-el-consumo-local-n6340145"
   },
   {
    "title": "Mercado Pago, a un paso de convertirse en banco: el BCRA dio aprobación técnica a la licencia pedida por la empresa de Marcos Galperin",
