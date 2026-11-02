@@ -1,11 +1,23 @@
 {
- "generated_utc": "2026-11-02T21:57:35+00:00",
+ "generated_utc": "2026-11-02T23:53:07+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "El BCRA no compró dólares y Caputo corre a contrarreloj para cumplir con FMI e inversores",
+   "source": "iProfesional",
+   "date": "2026-11-02T23:06:00+00:00",
+   "link": "https://www.iprofesional.com/economia/468139-el-bcra-no-compro-dolares-y-caputo-corre-a-contrarreloj-para-cumplir-con-fmi-e-inversores"
+  },
+  {
+   "title": "Elecciones en EE.UU. amenazan con meter más presión al dólar y al riesgo país en Argentina",
+   "source": "iProfesional",
+   "date": "2026-11-02T21:51:00+00:00",
+   "link": "https://www.iprofesional.com/finanzas/468122-elecciones-en-estados-unidos-pueden-presionar-al-dolar-y-riesgo-pais-en-argentina"
+  },
   {
    "title": "Las acciones argentinas cayeron por sexta rueda seguida, el riesgo país superó los 800 puntos y el BCRA no compró reservas",
    "source": "Infobae",
@@ -43,7 +55,7 @@
    "link": "https://www.infobae.com/economia/2026/11/02/la-uif-aprobo-una-norma-clave-de-inocencia-fiscal-ii-desde-que-monto-se-pueden-pedir-mas-datos-por-sacar-los-dolares-del-colchon/"
   },
   {
-   "title": "La inflación se consolidó por debajo del 2% en octubre, aunque advierten presiones por el lado de la vivienda",
+   "title": "Estiman que la inflación se consolidó por debajo del 2% en octubre, aunque vivienda suma presión sobre los precios",
    "source": "Ámbito",
    "date": "2026-11-02T19:01:00+00:00",
    "link": "https://www.ambito.com/economia/la-inflacion-se-consolido-debajo-del-2-octubre-aunque-advierten-presiones-el-lado-la-vivienda-n6340511"
@@ -95,12 +107,6 @@
    "source": "iProfesional",
    "date": "2026-11-02T10:58:00+00:00",
    "link": "https://www.iprofesional.com/finanzas/467923-plazo-fijo-uva-cuanto-rindio-y-que-resigna-el-ahorrista-para-ganarle-a-la-inflacion"
-  },
-  {
-   "title": "Empleados bancarios cobrarán super bono esta semana, que se actualizarán con la inflación",
-   "source": "iProfesional",
-   "date": "2026-11-02T09:45:00+00:00",
-   "link": "https://www.iprofesional.com/economia/468028-empleados-bancarios-cobraran-super-bono-esta-semana-que-se-actualizaran-con-la-inflacion"
   },
   {
    "title": "Qué esperan las consultoras privadas para el dato de inflación de octubre",
