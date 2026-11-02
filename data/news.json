@@ -1,11 +1,23 @@
 {
- "generated_utc": "2026-11-02T11:57:13+00:00",
+ "generated_utc": "2026-11-02T14:00:10+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "El carry trade no cede: amplía la ganancia frente al dólar y vuelve a tentar a inversores",
+   "source": "iProfesional",
+   "date": "2026-11-02T13:20:00+00:00",
+   "link": "https://www.iprofesional.com/finanzas/468020-el-carry-trade-no-cede-amplia-la-ganancia-frente-al-dolar-y-vuelve-a-tentar-a-inversores"
+  },
+  {
+   "title": "Inflación: consultoras anticipan un dato que podría complicar los planes de Milei",
+   "source": "iProfesional",
+   "date": "2026-11-02T11:57:00+00:00",
+   "link": "https://www.iprofesional.com/economia/468052-inflacion-consultoras-anticipan-un-dato-que-podria-complicar-los-planes-de-milei"
+  },
   {
    "title": "Dólar, plazo fijo, acciones o cripto: cuál fue la mejor inversión en octubre",
    "source": "Infobae",
@@ -49,16 +61,16 @@
    "link": "https://www.iprofesional.com/finanzas/467365-la-city-anticipa-un-verano-mas-caliente-para-el-precio-de-dolar"
   },
   {
-   "title": "Las exportaciones de carne crecieron casi 37% en lo que va de 2026 por la mejora en los precios",
-   "source": "Ámbito",
-   "date": "2026-11-01T18:50:08+00:00",
-   "link": "https://www.ambito.com/economia/las-exportaciones-carne-crecieron-casi-37-lo-que-va-2026-la-mejora-los-precios-n6340272"
-  },
-  {
    "title": "El debate sobre el atraso cambiario: las exportaciones crecieron mientras caía el tipo de cambio real",
    "source": "Infobae",
    "date": "2026-11-01T18:36:13+00:00",
    "link": "https://www.infobae.com/economia/2026/11/01/el-debate-sobre-el-atraso-cambiario-las-exportaciones-crecieron-mientras-caia-el-tipo-de-cambio-real/"
+  },
+  {
+   "title": "Las exportaciones de carne crecieron casi 37% en lo que va de 2026 por la mejora en los precios",
+   "source": "Ámbito",
+   "date": "2026-11-01T18:31:49+00:00",
+   "link": "https://www.ambito.com/economia/las-exportaciones-carne-crecieron-casi-37-lo-que-va-2026-la-mejora-los-precios-n6340272"
   },
   {
    "title": "Plazo fijo en dólares: cuánto debés depositar para ganar u$s100",
@@ -67,22 +79,10 @@
    "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-debes-depositar-ganar-us100-n6339766"
   },
   {
-   "title": "Se enciende el debate sobre el cepo y amenaza con fogonear la dolarización preelectoral",
-   "source": "iProfesional",
-   "date": "2026-11-01T11:00:00+00:00",
-   "link": "https://www.iprofesional.com/economia/467859-debate-sobre-el-cepo-acelera-la-dolarizacion-preelectoral"
-  },
-  {
    "title": "Devaluación del real: ¿es una señal de alerta para el peso argentino?",
    "source": "Infobae",
    "date": "2026-11-01T04:27:11+00:00",
    "link": "https://www.infobae.com/economia/2026/11/01/devaluacion-del-real-es-una-senal-de-alerta-para-el-peso-argentino/"
-  },
-  {
-   "title": "Rodolfo Santangelo: \"Estamos subsidiando la demanda de dólares y gravando el consumo local\"",
-   "source": "Ámbito",
-   "date": "2026-11-01T03:00:00+00:00",
-   "link": "https://www.ambito.com/economia/rodolfo-santangelo-estamos-subsidiando-la-demanda-dolares-y-gravando-el-consumo-local-n6340145"
   },
   {
    "title": "Dólar, embargos y recesión: Luis Caputo va a la UIA con muchos problemas y pocas herramientas",
@@ -91,10 +91,10 @@
    "link": "https://www.ambito.com/economia/dolar-embargos-y-recesion-luis-caputo-va-la-uia-muchos-problemas-y-pocas-herramientas-n6340082"
   },
   {
-   "title": "La City alerta que el Gobierno tiene menos dólares de lo que dice para frenar una corrida",
-   "source": "iProfesional",
-   "date": "2026-10-31T21:20:00+00:00",
-   "link": "https://www.iprofesional.com/finanzas/467976-bancos-alertan-por-los-dolares-que-tiene-el-gobierno-para-frenar-corrida"
+   "title": "Rodolfo Santangelo: \"Estamos subsidiando la demanda de dólares y gravando el consumo local\"",
+   "source": "Ámbito",
+   "date": "2026-11-01T03:00:00+00:00",
+   "link": "https://www.ambito.com/economia/rodolfo-santangelo-estamos-subsidiando-la-demanda-dolares-y-gravando-el-consumo-local-n6340145"
   },
   {
    "title": "Mercado Pago, a un paso de convertirse en banco: el BCRA dio aprobación técnica a la licencia pedida por la empresa de Marcos Galperin",
@@ -121,12 +121,6 @@
    "link": "https://www.infobae.com/economia/2026/10/30/ypf-pidio-un-rigi-para-el-norte-de-vaca-muerta-invertira-usd-8700-millones-y-preve-exportar-usd-25000-millones-entre-2027-y-2055/"
   },
   {
-   "title": "La compra de dólar ahorro se mantuvo casi estable en septiembre, cerca de los u$s3.000 millones",
-   "source": "Ámbito",
-   "date": "2026-10-30T22:52:00+00:00",
-   "link": "https://www.ambito.com/economia/la-compra-dolar-ahorro-se-mantuvo-casi-estable-septiembre-cerca-los-us3000-millones-n6339969"
-  },
-  {
    "title": "Los argentinos compraron casi USD 2.900 millones cash y el acumulado desde la salida del cepo superó los USD 50.000 millones",
    "source": "Infobae",
    "date": "2026-10-30T22:50:17+00:00",
@@ -137,18 +131,6 @@
    "source": "Infobae",
    "date": "2026-10-30T18:39:32+00:00",
    "link": "https://www.infobae.com/america/mundo/2026/10/30/el-robo-de-usd-6000-millones-a-binance-sacude-el-mundo-de-las-criptomonedas-y-atrae-la-atencion-del-fbi/"
-  },
-  {
-   "title": "Dólares del colchón: ARCA postergó por sexta vez la presentación de la DD.JJ. de Ganancias",
-   "source": "Ámbito",
-   "date": "2026-10-29T23:09:00+00:00",
-   "link": "https://www.ambito.com/economia/dolares-del-colchon-arca-postergo-sexta-vez-la-presentacion-la-ddjj-ganancias-n6339476"
-  },
-  {
-   "title": "El BCRA prevé un \"aumento significativo\" de la actividad económica para fin de año y una mayor demanda de pesos",
-   "source": "Ámbito",
-   "date": "2026-10-29T19:45:00+00:00",
-   "link": "https://www.ambito.com/economia/el-bcra-preve-un-aumento-significativo-la-actividad-economica-fin-ano-y-una-mayor-demanda-pesos-n6339369"
   }
  ]
 }
