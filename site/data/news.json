@@ -1,11 +1,29 @@
 {
- "generated_utc": "2026-11-03T19:55:55+00:00",
+ "generated_utc": "2026-11-03T21:53:54+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "Precios de exportaciones récord y menos importaciones impulsan el superávit comercial",
+   "source": "iProfesional",
+   "date": "2026-11-03T21:02:00+00:00",
+   "link": "https://www.iprofesional.com/comex/468234-precios-exportacion-record-y-menos-importaciones-impulsan-superavit-comercial-2026"
+  },
+  {
+   "title": "El BCRA sumó la quinta rueda en 7 jornadas sin comprar reservas y el dólar volvió a subir",
+   "source": "iProfesional",
+   "date": "2026-11-03T20:02:00+00:00",
+   "link": "https://www.iprofesional.com/economia/468228-el-bcra-sumo-la-quinta-rueda-en-siete-dias-sin-comprar-reservas-y-el-dolar-volvio-a-subir"
+  },
+  {
+   "title": "Plazo fijo en dólares: cuánto ganás al invertir u$d1.000 en 30 días",
+   "source": "Ámbito",
+   "date": "2026-11-03T20:00:00+00:00",
+   "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-ganas-al-invertir-ud1000-30-dias-n6341032"
+  },
   {
    "title": "El dólar subió por segundo día y volvió a marcar un récord nominal",
    "source": "Infobae",
@@ -77,12 +95,6 @@
    "source": "Ámbito",
    "date": "2026-11-03T10:00:00+00:00",
    "link": "https://www.ambito.com/economia/reservas-del-bcra-subio-el-deficit-servicios-septiembre-n6340739"
-  },
-  {
-   "title": "El mercado espera impacto sobre bonos argentinos en dólares tras la elección en EE.UU.",
-   "source": "iProfesional",
-   "date": "2026-11-03T10:00:00+00:00",
-   "link": "https://www.iprofesional.com/finanzas/468145-bonos-acciones-argentinas-pueden-desplomarse-trump-pierde-estados-unidos-noviembre-2026"
   },
   {
    "title": "Por la suba del riesgo país las acciones de un sector clave acumulan caídas de hasta 46% y cotizan en mínimos del año",
