@@ -1,11 +1,23 @@
 {
- "generated_utc": "2026-11-03T11:59:53+00:00",
+ "generated_utc": "2026-11-03T13:59:24+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "El banco central de Australia aumentó las tasas de interés hasta su nivel más alto en 18 años",
+   "source": "Ámbito",
+   "date": "2026-11-03T13:32:00+00:00",
+   "link": "https://www.ambito.com/economia/el-banco-central-australia-aumento-las-tasas-interes-su-nivel-mas-alto-18-anos-n6340872"
+  },
+  {
+   "title": "Caputo respondió a los pedidos para inyectar pesos y reactivar el crédito en 2027: “Los bancos no prestan por incertidumbre”",
+   "source": "Infobae",
+   "date": "2026-11-03T13:27:18+00:00",
+   "link": "https://www.infobae.com/economia/2026/11/03/caputo-respondio-a-los-pedidos-para-inyectar-pesos-y-reactivar-el-credito-en-2027-los-bancos-no-prestan-por-incertidumbre/"
+  },
   {
    "title": "La UIF flexibiliza los controles para quienes depositen dólares en efectivo y estén en el régimen simplificado de Impuesto a las Ganancias",
    "source": "Ámbito",
@@ -121,22 +133,10 @@
    "link": "https://www.ambito.com/economia/el-superavit-energetico-se-duplico-septiembre-y-junto-el-agro-ayudan-al-gobierno-blindar-el-dolar-n6340463"
   },
   {
-   "title": "Nuevos datos de compra de dólares confirman que la demanda encontró un piso más elevado",
-   "source": "iProfesional",
-   "date": "2026-11-02T14:30:00+00:00",
-   "link": "https://www.iprofesional.com/finanzas/468026-que-revelan-los-nuevos-datos-de-compra-de-dolares-rumbo-a-las-elecciones"
-  },
-  {
    "title": "Dólar, plazo fijo, acciones o cripto: cuál fue la mejor inversión en octubre",
    "source": "Infobae",
    "date": "2026-11-02T10:59:24+00:00",
    "link": "https://www.infobae.com/economia/2026/11/02/dolar-plazo-fijo-acciones-o-cripto-cual-fue-la-mejor-inversion-en-octubre/"
-  },
-  {
-   "title": "Qué esperan las consultoras privadas para el dato de inflación de octubre",
-   "source": "Infobae",
-   "date": "2026-11-02T05:40:31+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/02/que-esperan-las-consultoras-privadas-para-el-dato-de-inflacion-de-octubre/"
   }
  ]
 }
