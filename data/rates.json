@@ -1,15 +1,15 @@
 {
- "fetched_utc": "2026-11-03T15:58:45+00:00",
+ "fetched_utc": "2026-11-03T17:54:19+00:00",
  "mid": {
   "source": "currency-api (fawazahmed0)",
   "source_url": "https://github.com/fawazahmed0/exchange-api",
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "rates": {
-   "MXN": 18.76817647,
-   "COP": 3212.38186048,
-   "PEN": 3.4703247,
-   "CLP": 993.78040579,
-   "ARS": 1532.39452727
+   "MXN": 18.58239732,
+   "COP": 3220.89887496,
+   "PEN": 3.4652654,
+   "CLP": 977.64006575,
+   "ARS": 1545.37768426
   }
  },
  "ar": [
@@ -18,28 +18,28 @@
    "nombre": "Oficial",
    "compra": 1520,
    "venta": 1570,
-   "t": "2026-11-03T12:00:00.000Z"
+   "t": "2026-11-03T13:00:00.000Z"
   },
   {
    "casa": "blue",
    "nombre": "Blue",
    "compra": 1545,
    "venta": 1565,
-   "t": "2026-11-03T14:57:00.000Z"
+   "t": "2026-11-03T15:57:00.000Z"
   },
   {
    "casa": "bolsa",
    "nombre": "Bolsa",
-   "compra": 1568.5,
-   "venta": 1570.9,
-   "t": "2026-11-03T14:57:00.000Z"
+   "compra": 1568.7,
+   "venta": 1571.1,
+   "t": "2026-11-03T15:57:00.000Z"
   },
   {
    "casa": "contadoconliqui",
    "nombre": "Contado con liquidación",
-   "compra": 1657.9,
-   "venta": 1658.7,
-   "t": "2026-11-03T14:57:00.000Z"
+   "compra": 1658.7,
+   "venta": 1659.8,
+   "t": "2026-11-03T15:57:00.000Z"
   },
   {
    "casa": "mayorista",
@@ -51,16 +51,16 @@
   {
    "casa": "cripto",
    "nombre": "Cripto",
-   "compra": 1653.91,
-   "venta": 1657.54,
-   "t": "2026-11-03T14:57:00.000Z"
+   "compra": 1655.55,
+   "venta": 1658.93,
+   "t": "2026-11-03T15:57:00.000Z"
   },
   {
    "casa": "tarjeta",
    "nombre": "Tarjeta",
    "compra": 1976,
    "venta": 2041,
-   "t": "2026-11-03T12:00:00.000Z"
+   "t": "2026-11-03T13:00:00.000Z"
   }
  ],
  "local": {
