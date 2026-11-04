@@ -1,11 +1,29 @@
 {
- "generated_utc": "2026-11-04T19:55:06+00:00",
+ "generated_utc": "2026-11-04T21:54:00+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "El riesgo país superó los 850 puntos, el dólar cayó y las acciones argentinas se hundieron hasta 8% en Wall Street",
+   "source": "Infobae",
+   "date": "2026-11-04T21:35:59+00:00",
+   "link": "https://www.infobae.com/economia/2026/11/04/el-riesgo-pais-supero-los-850-puntos-el-dolar-cayo-y-las-acciones-argentinas-se-hundieron-hasta-8-en-wall-street/"
+  },
+  {
+   "title": "El BCRA retomó la compra de reservas tras dos días sin intervenir y bajó el dólar oficial",
+   "source": "iProfesional",
+   "date": "2026-11-04T21:30:00+00:00",
+   "link": "https://www.iprofesional.com/finanzas/468359-el-bcra-volvio-a-comprar-dolares-tras-dos-dias-de-correrse-del-mercado"
+  },
+  {
+   "title": "Tras dos días sin sumar divisas, el Banco Central volvió a comprar dólares",
+   "source": "Infobae",
+   "date": "2026-11-04T21:28:55+00:00",
+   "link": "https://www.infobae.com/economia/2026/11/04/tras-dos-dias-sin-sumar-divisas-el-banco-central-volvio-a-comprar-dolares/"
+  },
   {
    "title": "El salario empató con la inflación, pero el poder de compra del argentino se frenó",
    "source": "iProfesional",
@@ -47,12 +65,6 @@
    "source": "Ámbito",
    "date": "2026-11-04T11:59:00+00:00",
    "link": "https://www.ambito.com/economia/la-inflacion-la-zona-euro-se-acelero-octubre-al-4-interanual-impulso-la-energia-n6341315"
-  },
-  {
-   "title": "Por qué con un Trump más débil el precio de la soja podría caer y llegarán menos dólares",
-   "source": "iProfesional",
-   "date": "2026-11-04T10:01:00+00:00",
-   "link": "https://www.iprofesional.com/economia/468251-el-campo-argentino-ante-posible-baja-de-precios-por-efecto-trump"
   },
   {
    "title": "El dólar volvió a trepar en Brasil, contagió al mercado argentino y el riesgo país se despegó de los 800 puntos",
@@ -103,12 +115,6 @@
    "link": "https://www.ambito.com/economia/inflacion-eeuu-la-fed-san-francisco-advierte-que-el-nino-representa-un-riesgo-significativo-n6340984"
   },
   {
-   "title": "Las expectativas también se ajustan: el salario pretendido aumentó 2,2% en el tercer trimestre, por debajo de la inflación",
-   "source": "Ámbito",
-   "date": "2026-11-03T16:33:00+00:00",
-   "link": "https://www.ambito.com/economia/las-expectativas-tambien-se-ajustan-el-salario-pretendido-aumento-22-el-tercer-trimestre-debajo-la-inflacion-n6340983"
-  },
-  {
    "title": "Caputo respondió a los pedidos para inyectar pesos y reactivar el crédito en 2027: “Los bancos no prestan por incertidumbre”",
    "source": "Infobae",
    "date": "2026-11-03T13:27:18+00:00",
@@ -131,18 +137,6 @@
    "source": "Infobae",
    "date": "2026-11-03T05:58:47+00:00",
    "link": "https://www.infobae.com/economia/2026/11/03/paritarias-con-tope-que-impacto-pueden-tener-sobre-la-recuperacion-de-la-actividad-y-la-desaceleracion-de-la-inflacion/"
-  },
-  {
-   "title": "Las acciones argentinas cayeron por sexta rueda seguida, el riesgo país superó los 800 puntos y el BCRA no compró reservas",
-   "source": "Infobae",
-   "date": "2026-11-02T21:40:53+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/02/las-acciones-argentinas-cayeron-por-sexta-rueda-seguida-el-riesgo-pais-supero-los-800-puntos-y-el-bcra-no-compro-reservas/"
-  },
-  {
-   "title": "La recaudación tributaria creció por segundo mes consecutivo por encima de la inflación en octubre",
-   "source": "Infobae",
-   "date": "2026-11-02T21:32:21+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/02/la-recaudacion-tributaria-crecio-por-segundo-mes-consecutivo-por-encima-de-la-inflacion-en-octubre/"
   }
  ]
 }
