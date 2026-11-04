@@ -1,11 +1,23 @@
 {
- "generated_utc": "2026-11-03T21:53:54+00:00",
+ "generated_utc": "2026-11-04T00:00:00+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "El dólar y el riesgo país se recalientan a horas de los primeros resultados en EE.UU.",
+   "source": "iProfesional",
+   "date": "2026-11-03T22:28:00+00:00",
+   "link": "https://www.iprofesional.com/finanzas/468240-dolar-y-riesgo-pais-se-recalientan-en-la-previa-de-las-elecciones-en-ee-uu-"
+  },
+  {
+   "title": "El riesgo país trepó a un máximo desde las elecciones de 2025 y el dólar anotó una nueva suba",
+   "source": "Infobae",
+   "date": "2026-11-03T21:52:38+00:00",
+   "link": "https://www.infobae.com/economia/2026/11/03/el-riesgo-pais-trepo-a-un-maximo-desde-las-elecciones-de-2025-y-el-dolar-anoto-una-nueva-suba/"
+  },
   {
    "title": "Precios de exportaciones récord y menos importaciones impulsan el superávit comercial",
    "source": "iProfesional",
@@ -131,12 +143,6 @@
    "source": "Infobae",
    "date": "2026-11-02T19:16:59+00:00",
    "link": "https://www.infobae.com/economia/2026/11/02/la-uif-aprobo-una-norma-clave-de-inocencia-fiscal-ii-desde-que-monto-se-pueden-pedir-mas-datos-por-sacar-los-dolares-del-colchon/"
-  },
-  {
-   "title": "Oro del BCRA: el abogado Gregorio Dalbón llevó al regulador del mercado de EEUU el caso por operaciones con reservas del metal",
-   "source": "Infobae",
-   "date": "2026-11-02T18:23:38+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/02/oro-del-bcra-el-abogado-gregorio-dalbon-llevo-al-regulador-del-mercado-de-eeuu-el-caso-por-operaciones-con-reservas-del-metal/"
   }
  ]
 }
