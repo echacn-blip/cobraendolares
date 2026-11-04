@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-04T00:00:00+00:00",
+ "generated_utc": "2026-11-04T01:58:14+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
@@ -7,10 +7,10 @@
  ],
  "items": [
   {
-   "title": "El dólar y el riesgo país se recalientan a horas de los primeros resultados en EE.UU.",
+   "title": "El dólar y el riesgo país se recalientan, en la previa de las elecciones en EE.UU.",
    "source": "iProfesional",
-   "date": "2026-11-03T22:28:00+00:00",
-   "link": "https://www.iprofesional.com/finanzas/468240-dolar-y-riesgo-pais-se-recalientan-en-la-previa-de-las-elecciones-en-ee-uu-"
+   "date": "2026-11-04T00:28:00+00:00",
+   "link": "https://www.iprofesional.com/finanzas/468240-dolar-y-riesgo-pais-se-recalientan-en-la-previa-de-las-elecciones-en-eeuu"
   },
   {
    "title": "El riesgo país trepó a un máximo desde las elecciones de 2025 y el dólar anotó una nueva suba",
@@ -43,7 +43,7 @@
    "link": "https://www.infobae.com/economia/2026/11/03/el-dolar-subio-por-segundo-dia-y-volvio-a-marcar-un-record-nominal/"
   },
   {
-   "title": "El dólar mayorista superó los $1.550, con el mercado atento al potencial impacto de las elecciones en EEUU",
+   "title": "El dólar mayorista superó por primera vez los $1.550 y quebró un nuevo máximo nominal",
    "source": "Ámbito",
    "date": "2026-11-03T19:09:00+00:00",
    "link": "https://www.ambito.com/economia/dolar-su-record-nominal-el-mercado-sigue-atencion-las-elecciones-eeuu-y-las-reservas-del-bcra-n6340809"
@@ -143,6 +143,12 @@
    "source": "Infobae",
    "date": "2026-11-02T19:16:59+00:00",
    "link": "https://www.infobae.com/economia/2026/11/02/la-uif-aprobo-una-norma-clave-de-inocencia-fiscal-ii-desde-que-monto-se-pueden-pedir-mas-datos-por-sacar-los-dolares-del-colchon/"
+  },
+  {
+   "title": "Estiman que la inflación se consolidó por debajo del 2% en octubre, aunque vivienda suma presión sobre los precios",
+   "source": "Ámbito",
+   "date": "2026-11-02T19:01:00+00:00",
+   "link": "https://www.ambito.com/economia/la-inflacion-se-consolido-debajo-del-2-octubre-aunque-advierten-presiones-el-lado-la-vivienda-n6340511"
   }
  ]
 }
