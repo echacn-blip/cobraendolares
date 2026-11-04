@@ -1,11 +1,29 @@
 {
- "generated_utc": "2026-11-04T21:54:00+00:00",
+ "generated_utc": "2026-11-04T23:53:57+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "Uno de los gurúes preferidos de Milei recomienda a Caputo un plan B para conseguir dólares",
+   "source": "iProfesional",
+   "date": "2026-11-04T23:20:00+00:00",
+   "link": "https://www.iprofesional.com/finanzas/468367-uno-de-los-gurues-financieros-de-milei-alerta-a-caputo-por-la-canilla-de-dolares"
+  },
+  {
+   "title": "Se frenó el repunte de la actividad automotriz: la producción y las exportaciones volvieron a caer en octubre",
+   "source": "Infobae",
+   "date": "2026-11-04T23:15:34+00:00",
+   "link": "https://www.infobae.com/economia/2026/11/04/se-freno-el-repunte-de-la-actividad-automotriz-la-produccion-y-las-exportaciones-volvieron-a-caer-en-octubre/"
+  },
+  {
+   "title": "Tras dos días sin sumar divisas, el Banco Central volvió a comprar dólares",
+   "source": "Infobae",
+   "date": "2026-11-04T21:52:12+00:00",
+   "link": "https://www.infobae.com/economia/2026/11/04/tras-dos-dias-sin-sumar-divisas-el-banco-central-volvio-a-comprar-dolares/"
+  },
   {
    "title": "El riesgo país superó los 850 puntos, el dólar cayó y las acciones argentinas se hundieron hasta 8% en Wall Street",
    "source": "Infobae",
@@ -17,12 +35,6 @@
    "source": "iProfesional",
    "date": "2026-11-04T21:30:00+00:00",
    "link": "https://www.iprofesional.com/finanzas/468359-el-bcra-volvio-a-comprar-dolares-tras-dos-dias-de-correrse-del-mercado"
-  },
-  {
-   "title": "Tras dos días sin sumar divisas, el Banco Central volvió a comprar dólares",
-   "source": "Infobae",
-   "date": "2026-11-04T21:28:55+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/04/tras-dos-dias-sin-sumar-divisas-el-banco-central-volvio-a-comprar-dolares/"
   },
   {
    "title": "El salario empató con la inflación, pero el poder de compra del argentino se frenó",
@@ -53,12 +65,6 @@
    "source": "Infobae",
    "date": "2026-11-04T16:50:47+00:00",
    "link": "https://www.infobae.com/america/america-latina/2026/11/04/santiago-pena-anuncio-cambios-en-el-banco-central-y-una-ley-de-emergencia-para-devolver-los-ahorros-del-ueno-bank/"
-  },
-  {
-   "title": "Las 8 señales de alarma para Caputo tras la derrota de Trump y la suba del dólar en Brasil",
-   "source": "iProfesional",
-   "date": "2026-11-04T14:00:00+00:00",
-   "link": "https://www.iprofesional.com/finanzas/468281-ocho-indicadores-que-revelan-el-deterioro-financiero-que-enfrenta-caputo-en-solo-4-meses"
   },
   {
    "title": "La inflación de la zona euro se aceleró en octubre al 4% interanual con impulso de la energía",
@@ -103,18 +109,6 @@
    "link": "https://www.ambito.com/economia/clave-el-dolar-menos-importaciones-la-industria-aporto-el-grueso-la-mejora-la-cuenta-corriente-2026-n6340979"
   },
   {
-   "title": "El Niño hizo subir la inflación en EEUU, aunque también podría aumentar el nivel de empleo",
-   "source": "Ámbito",
-   "date": "2026-11-03T17:34:00+00:00",
-   "link": "https://www.ambito.com/economia/el-nino-hizo-subir-la-inflacion-eeuu-aunque-tambien-podria-aumentar-el-nivel-empleo-n6341024"
-  },
-  {
-   "title": "Inflación de EEUU: la Fed de San Francisco advierte que El Niño representa un \"riesgo significativo\"",
-   "source": "Ámbito",
-   "date": "2026-11-03T17:27:00+00:00",
-   "link": "https://www.ambito.com/economia/inflacion-eeuu-la-fed-san-francisco-advierte-que-el-nino-representa-un-riesgo-significativo-n6340984"
-  },
-  {
    "title": "Caputo respondió a los pedidos para inyectar pesos y reactivar el crédito en 2027: “Los bancos no prestan por incertidumbre”",
    "source": "Infobae",
    "date": "2026-11-03T13:27:18+00:00",
@@ -131,12 +125,6 @@
    "source": "Infobae",
    "date": "2026-11-03T05:59:16+00:00",
    "link": "https://www.infobae.com/economia/2026/11/03/por-la-suba-del-riesgo-pais-las-acciones-de-un-sector-clave-acumulan-caidas-de-hasta-46-y-cotizan-en-minimos-del-ano/"
-  },
-  {
-   "title": "Paritarias con tope: qué impacto pueden tener sobre la recuperación de la actividad y la desaceleración de la inflación",
-   "source": "Infobae",
-   "date": "2026-11-03T05:58:47+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/03/paritarias-con-tope-que-impacto-pueden-tener-sobre-la-recuperacion-de-la-actividad-y-la-desaceleracion-de-la-inflacion/"
   }
  ]
 }
