@@ -1,11 +1,35 @@
 {
- "generated_utc": "2026-11-04T15:59:58+00:00",
+ "generated_utc": "2026-11-04T18:00:28+00:00",
  "sources": [
   "Ámbito (RSS Economía)",
   "Infobae (RSS Economía)",
   "iProfesional (RSS Economía)"
  ],
  "items": [
+  {
+   "title": "Luis Caputo volvió a descartar una devaluación, pero tiene un valor del dólar como referencia",
+   "source": "Ámbito",
+   "date": "2026-11-04T17:31:00+00:00",
+   "link": "https://www.ambito.com/economia/luis-caputo-volvio-descartar-una-devaluacion-pero-tiene-un-valor-del-dolar-como-referencia-n6341442"
+  },
+  {
+   "title": "A través de Lula, la fábrica de aviones FADEA obtiene otro negocio y exporta más a Embraer",
+   "source": "iProfesional",
+   "date": "2026-11-04T17:27:00+00:00",
+   "link": "https://www.iprofesional.com/negocios/468312-a-traves-de-lula-fabrica-de-aviones-fadea-exporta-mas-a-embraer"
+  },
+  {
+   "title": "La letra chica del seguro del hogar que permite ahorrar muchos pesos y sacarte de un apuro",
+   "source": "iProfesional",
+   "date": "2026-11-04T17:20:00+00:00",
+   "link": "https://www.iprofesional.com/actualidad/468322-seguros-de-hogar-que-asistencias-cubren-y-cuanto-cuestan-por-mes"
+  },
+  {
+   "title": "Santiago Peña anunció cambios en el Banco Central y una ley de emergencia para devolver los ahorros del Ueno Bank",
+   "source": "Infobae",
+   "date": "2026-11-04T16:50:47+00:00",
+   "link": "https://www.infobae.com/america/america-latina/2026/11/04/santiago-pena-anuncio-cambios-en-el-banco-central-y-una-ley-de-emergencia-para-devolver-los-ahorros-del-ueno-bank/"
+  },
   {
    "title": "Las 8 señales de alarma para Caputo tras la derrota de Trump y la suba del dólar en Brasil",
    "source": "iProfesional",
@@ -31,22 +55,10 @@
    "link": "https://www.infobae.com/economia/2026/11/04/el-dolar-volvio-a-trepar-en-brasil-contagio-al-mercado-argentino-y-el-riesgo-pais-se-despego-de-los-800-puntos/"
   },
   {
-   "title": "El dólar y el riesgo país se recalientan, en la previa de las elecciones en EE.UU.",
-   "source": "iProfesional",
-   "date": "2026-11-04T00:28:00+00:00",
-   "link": "https://www.iprofesional.com/finanzas/468240-dolar-y-riesgo-pais-se-recalientan-en-la-previa-de-las-elecciones-en-eeuu"
-  },
-  {
    "title": "El riesgo país trepó a un máximo desde las elecciones de 2025 y el dólar anotó una nueva suba",
    "source": "Infobae",
    "date": "2026-11-03T21:52:38+00:00",
    "link": "https://www.infobae.com/economia/2026/11/03/el-riesgo-pais-trepo-a-un-maximo-desde-las-elecciones-de-2025-y-el-dolar-anoto-una-nueva-suba/"
-  },
-  {
-   "title": "Precios de exportaciones récord y menos importaciones impulsan el superávit comercial",
-   "source": "iProfesional",
-   "date": "2026-11-03T21:02:00+00:00",
-   "link": "https://www.iprofesional.com/comex/468234-precios-exportacion-record-y-menos-importaciones-impulsan-superavit-comercial-2026"
   },
   {
    "title": "Plazo fijo en dólares: cuánto ganás al invertir u$d1.000 en 30 días",
@@ -131,12 +143,6 @@
    "source": "Infobae",
    "date": "2026-11-02T21:32:21+00:00",
    "link": "https://www.infobae.com/economia/2026/11/02/la-recaudacion-tributaria-crecio-por-segundo-mes-consecutivo-por-encima-de-la-inflacion-en-octubre/"
-  },
-  {
-   "title": "El dólar volvió a subir y la cotización en el Banco Nación alcanzó un nuevo máximo histórico",
-   "source": "Infobae",
-   "date": "2026-11-02T21:24:10+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/02/el-dolar-volvio-a-subir-y-la-cotizacion-en-el-banco-nacion-alcanzo-un-nuevo-maximo-historico/"
   }
  ]
 }
