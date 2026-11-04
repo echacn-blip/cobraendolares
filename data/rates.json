@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-11-04T19:55:06+00:00",
+ "fetched_utc": "2026-11-04T21:54:00+00:00",
  "mid": {
   "source": "currency-api (fawazahmed0)",
   "source_url": "https://github.com/fawazahmed0/exchange-api",
@@ -18,66 +18,66 @@
    "nombre": "Oficial",
    "compra": 1520,
    "venta": 1570,
-   "t": "2026-11-04T16:00:00.000Z"
+   "t": "2026-11-04T18:00:00.000Z"
   },
   {
    "casa": "blue",
    "nombre": "Blue",
-   "compra": 1545,
-   "venta": 1565,
-   "t": "2026-11-04T18:55:00.000Z"
+   "compra": 1540,
+   "venta": 1560,
+   "t": "2026-11-04T20:55:00.000Z"
   },
   {
    "casa": "bolsa",
    "nombre": "Bolsa",
-   "compra": 1580.3,
-   "venta": 1581.7,
-   "t": "2026-11-04T18:55:00.000Z"
+   "compra": 1575.7,
+   "venta": 1588.6,
+   "t": "2026-11-04T20:55:00.000Z"
   },
   {
    "casa": "contadoconliqui",
    "nombre": "Contado con liquidación",
-   "compra": 1678.9,
-   "venta": 1679.3,
-   "t": "2026-11-04T18:55:00.000Z"
+   "compra": 1676.7,
+   "venta": 1680.4,
+   "t": "2026-11-04T20:55:00.000Z"
   },
   {
    "casa": "mayorista",
    "nombre": "Mayorista",
-   "compra": 1538,
-   "venta": 1547,
-   "t": "2026-11-04T14:41:00.000Z"
+   "compra": 1537,
+   "venta": 1546,
+   "t": "2026-11-04T16:24:00.000Z"
   },
   {
    "casa": "cripto",
    "nombre": "Cripto",
-   "compra": 1664.54,
-   "venta": 1669.47,
-   "t": "2026-11-04T18:55:00.000Z"
+   "compra": 1659.63,
+   "venta": 1667.14,
+   "t": "2026-11-04T20:55:00.000Z"
   },
   {
    "casa": "tarjeta",
    "nombre": "Tarjeta",
    "compra": 1976,
    "venta": 2041,
-   "t": "2026-11-04T16:00:00.000Z"
+   "t": "2026-11-04T18:00:00.000Z"
   }
  ],
  "local": {
   "mx": {
-   "compra": 18.693,
-   "venta": 18.699,
-   "t": "2026-11-03T00:00:00.000Z"
+   "compra": 18.674,
+   "venta": 18.68,
+   "t": "2026-11-04T00:00:00.000Z"
   },
   "cl": {
-   "compra": 969.34,
-   "venta": 970.42,
-   "t": "2026-11-04T12:01:08.824Z"
+   "compra": 964.64,
+   "venta": 966.44,
+   "t": "2026-11-04T20:02:23.265Z"
   },
   "co": {
-   "compra": 3209.44,
-   "venta": 3212.94,
-   "t": "2026-11-03T12:02:11.358Z"
+   "compra": 3226.04,
+   "venta": 3229.54,
+   "t": "2026-11-04T20:03:02.083Z"
   }
  }
 }
