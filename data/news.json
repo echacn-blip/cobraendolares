@@ -1,124 +1,670 @@
 {
- "generated_utc": "2026-11-05T01:53:20+00:00",
- "sources": [
-  "Ámbito (RSS Economía)",
-  "Infobae (RSS Economía)",
-  "iProfesional (RSS Economía)"
- ],
+ "generated_at": "2026-11-05T19:52:02.705906+00:00",
+ "count": 60,
  "items": [
   {
-   "title": "Uno de los gurúes preferidos de Milei recomienda a Caputo un plan B para conseguir dólares",
-   "source": "iProfesional",
-   "date": "2026-11-04T23:20:00+00:00",
-   "link": "https://www.iprofesional.com/finanzas/468367-uno-de-los-gurues-financieros-de-milei-alerta-a-caputo-por-la-canilla-de-dolares"
-  },
-  {
-   "title": "Se frenó el repunte de la actividad automotriz: la producción y las exportaciones volvieron a caer en octubre",
-   "source": "Infobae",
-   "date": "2026-11-04T23:15:34+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/04/se-freno-el-repunte-de-la-actividad-automotriz-la-produccion-y-las-exportaciones-volvieron-a-caer-en-octubre/"
-  },
-  {
-   "title": "Tras dos días sin sumar divisas, el Banco Central volvió a comprar dólares",
-   "source": "Infobae",
-   "date": "2026-11-04T21:52:12+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/04/tras-dos-dias-sin-sumar-divisas-el-banco-central-volvio-a-comprar-dolares/"
-  },
-  {
-   "title": "El riesgo país superó los 850 puntos, el dólar cayó y las acciones argentinas se hundieron hasta 8% en Wall Street",
-   "source": "Infobae",
-   "date": "2026-11-04T21:35:59+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/04/el-riesgo-pais-supero-los-850-puntos-el-dolar-cayo-y-las-acciones-argentinas-se-hundieron-hasta-8-en-wall-street/"
-  },
-  {
-   "title": "El BCRA retomó la compra de reservas tras dos días sin intervenir y bajó el dólar oficial",
-   "source": "iProfesional",
-   "date": "2026-11-04T21:30:00+00:00",
-   "link": "https://www.iprofesional.com/finanzas/468359-el-bcra-volvio-a-comprar-dolares-tras-dos-dias-de-correrse-del-mercado"
-  },
-  {
-   "title": "El salario empató con la inflación, pero el poder de compra del argentino se frenó",
-   "source": "iProfesional",
-   "date": "2026-11-04T18:49:00+00:00",
-   "link": "https://www.iprofesional.com/economia/468061-economia-argentina-mejoro-salario-no-recupera-poder-compra-preocupa-hogares-noviembre-2026"
-  },
-  {
-   "title": "Luis Caputo volvió a descartar una devaluación, pero tiene un valor del dólar como referencia",
    "source": "Ámbito",
-   "date": "2026-11-04T17:31:00+00:00",
-   "link": "https://www.ambito.com/economia/luis-caputo-volvio-descartar-una-devaluacion-pero-tiene-un-valor-del-dolar-como-referencia-n6341442"
+   "country": "AR",
+   "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 5 de noviembre",
+   "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-5-noviembre-n6341760",
+   "date": "2026-11-05T19:47:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
   },
   {
-   "title": "A través de Lula, la fábrica de aviones FADEA obtiene otro negocio y exporta más a Embraer",
+   "source": "El Financiero",
+   "country": "MX",
+   "title": "Banxico ‘pone en aprietos’ al peso: Sorprende y baja la tasa de interés a 6.25%",
+   "link": "https://www.elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre/",
+   "date": "2026-11-05T19:42:28+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Gestión",
+   "country": "PE",
+   "title": "Dólar y petróleo caen tras derrota de Trump: ¿tipo de cambio romperá S/ 3.40?",
+   "link": "https://gestion.pe/tu-dinero/dolar-y-petroleo-caen-tras-derrota-de-trump-tipo-de-cambio-rompera-s-340-noticia/",
+   "date": "2026-11-05T19:40:19+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Comercio",
+   "country": "PE",
+   "title": "Precio del dólar en Perú: cierre del tipo de cambio del jueves 5 de noviembre",
+   "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-jueves-5-de-noviembre-a-cuanto-esta-el-dolar-y-tipo-de-cambio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
+   "date": "2026-11-05T19:28:49+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "El riesgo país de Paraguay salta 16% y el dólar trepa 10% tras la renuncia de Santiago Peña",
+   "link": "https://www.ambito.com/finanzas/el-dolar-salta-10-paraguay-y-el-riesgo-pais-se-eleva-16-la-renuncia-su-presidente-n6342004",
+   "date": "2026-11-05T19:16:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Economista",
+   "country": "MX",
+   "title": "El Banxico sorprende y recorta en 25 puntos base su tasa de interés hasta el 6.25%",
+   "link": "https://www.eleconomista.com.mx/sectorfinanciero/banxico-sorprende-recorta-25-puntos-base-tasa-interes-6-20261105-842377.html",
+   "date": "2026-11-05T19:07:24+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "Dólar blue hoy: a cuánto cerró este jueves 5 de noviembre",
+   "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-cerro-este-jueves-5-noviembre-n6342084",
+   "date": "2026-11-05T19:06:49+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Gestión",
+   "country": "PE",
+   "title": "Tipo de cambio hoy en Perú: ¿en cuánto cerró el dólar este jueves 5 de noviembre?",
+   "link": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-jueves-5-de-noviembre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
+   "date": "2026-11-05T19:05:36+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "El dólar mayorista retrocedió previo al feriado bancario, pero sumó su cuarta semana consecutiva al alza",
+   "link": "https://www.ambito.com/finanzas/el-dolar-se-mantiene-cerca-maximos-historicos-nominales-y-la-devaluacion-del-real-brasil-enciende-alertas-n6341762",
+   "date": "2026-11-05T18:54:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Gestión",
+   "country": "PE",
+   "title": "UN gana peso en EE.UU.: con planta en Norteamérica apuntará a Brasil, Argentina y Colombia",
+   "link": "https://gestion.pe/economia/empresas/los-nuevos-suplementos-corporacion-un-se-expande-mas-alla-del-gimnasio-y-prepara-incursion-en-eeuu-noticia/",
+   "date": "2026-11-05T18:45:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "La Nación",
+   "country": "AR",
+   "title": "“Miedo al péndulo”: qué va a pasar con el dólar y el riesgo país, según una consultora",
+   "link": "https://www.lanacion.com.ar/economia/miedo-al-pendulo-que-va-a-pasar-con-el-dolar-y-el-riesgo-pais-segun-una-consultora-nid05112026/",
+   "date": "2026-11-05T18:43:18+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Potosinoticias.com",
+   "country": "LatAm",
+   "title": "Remesas a México suman 5 mil 362 millones de dólares en septiembre y recuperan crecimiento",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVGJVQ0ZndnZxTENXZlRjbmhYMzJHMVA0YXVXbnhXcVpLS0NwZUFxS1dENlY3MWRSbzFjUUtvUzdGXzdCYlJvb09ROGk1SDlpWWljRGpBZm1udnZMTFotQ2RWWTd2VkJzd0g3SFNpZTFxWXYtU0wwTXNwdDM2eENJWTgzZTFIdG4tZ1FJV1VoaC1XTVluQUxLcTE5S3VCYm8yZ1ZsQWlXRUd2Wk5jX2ZmWDdVNldna05DYVVuUHRHNFZqZFlNYklTOA?oc=5",
+   "date": "2026-11-05T18:39:34+00:00",
+   "category": "remesas",
+   "tags": [
+    "remesas",
+    "dólar"
+   ]
+  },
+  {
    "source": "iProfesional",
-   "date": "2026-11-04T17:27:00+00:00",
-   "link": "https://www.iprofesional.com/negocios/468312-a-traves-de-lula-fabrica-de-aviones-fadea-exporta-mas-a-embraer"
+   "country": "AR",
+   "title": "Riesgo país rumbo a 1.000 puntos: qué pasará con la economía y dólar si trepa la tensión",
+   "link": "https://www.iprofesional.com/finanzas/468380-que-pasara-con-la-economia-y-dolar-si-el-riesgo-pais-supera-los-1000-puntos",
+   "date": "2026-11-05T18:39:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
   },
   {
-   "title": "La letra chica del seguro del hogar que permite ahorrar muchos pesos y sacarte de un apuro",
+   "source": "Ámbito",
+   "country": "AR",
+   "title": "Advierten que la recaudación de impuestos se sostiene solo por \"factores excepcionales\"",
+   "link": "https://www.ambito.com/economia/advierten-que-la-recaudacion-impuestos-se-sostiene-solo-factores-excepcionales-n6341858",
+   "date": "2026-11-05T18:37:00+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
    "source": "iProfesional",
-   "date": "2026-11-04T17:20:00+00:00",
-   "link": "https://www.iprofesional.com/actualidad/468322-seguros-de-hogar-que-asistencias-cubren-y-cuanto-cuestan-por-mes"
+   "country": "AR",
+   "title": "La inflación no bajaría del 2% en los próximos meses, según sondeo del BCRA al mercado",
+   "link": "https://www.iprofesional.com/finanzas/468341-inflacion-sigue-mas-alta-a-lo-esperado-y-cerca-de-2-por-ciento-esto-dicen-economistas",
+   "date": "2026-11-05T18:25:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
   },
   {
-   "title": "Santiago Peña anunció cambios en el Banco Central y una ley de emergencia para devolver los ahorros del Ueno Bank",
-   "source": "Infobae",
-   "date": "2026-11-04T16:50:47+00:00",
-   "link": "https://www.infobae.com/america/america-latina/2026/11/04/santiago-pena-anuncio-cambios-en-el-banco-central-y-una-ley-de-emergencia-para-devolver-los-ahorros-del-ueno-bank/"
+   "source": "La Tercera Pulso",
+   "country": "CL",
+   "title": "Libertarios piden explicaciones a ENAP por históricas ganancias en medio de alzas de los combustibles",
+   "link": "https://www.latercera.com/pulso/noticia/libertarios-piden-explicaciones-a-enap-por-historicas-ganancias-en-medio-de-alzas-de-los-combustibles/",
+   "date": "2026-11-05T18:17:46+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
   },
   {
-   "title": "La inflación de la zona euro se aceleró en octubre al 4% interanual con impulso de la energía",
+   "source": "La Tercera Pulso",
+   "country": "CL",
+   "title": "El dólar se dispara y recupera casi todo lo que bajó este miércoles",
+   "link": "https://www.latercera.com/pulso/noticia/el-valor-del-dolar-en-chile-el-5-de-noviembre-de-2026/",
+   "date": "2026-11-05T18:07:58+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "La Nación",
+   "country": "AR",
+   "title": "La provincia que decretó impuestos cero para empresas vinculadas a Vaca Muerta",
+   "link": "https://www.lanacion.com.ar/economia/la-provincia-que-decreto-impuestos-cero-para-empresas-vinculadas-a-vaca-muerta-nid05112026/",
+   "date": "2026-11-05T18:06:25+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "ARCA y Banco Ciudad rematarán bicicletas de alta gama el 19 de noviembre: se subastarán desde modelos Trek y Specialized a partir $450.000",
+   "link": "https://www.cronista.com/informacion-gral/arca-y-banco-ciudad-remataran-bicicletas-de-alta-gama-el-19-de-noviembre-se-subastaran-desde-modelos-trek-y-specialized-a-partir-450000/",
+   "date": "2026-11-05T17:52:34+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "iProfesional",
+   "country": "AR",
+   "title": "El dólar se disparó en Paraguay y el riesgo país subió 16% tras la renuncia de Peña",
+   "link": "https://www.iprofesional.com/finanzas/468448-el-dolar-se-disparo-en-guay-y-el-riesgo-pais-subio-16-tras-la-renuncia-de-pena",
+   "date": "2026-11-05T17:10:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "Presupuestos ante un dólar de 18 o 20 pesos: por qué conviene usar varios escenarios",
+   "link": "https://www.cronista.com/mexico/finanzas-economia/presupuestos-ante-un-dolar-de-18-o-20-pesos-por-que-conviene-usar-varios-escenarios/",
+   "date": "2026-11-05T17:00:59+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Bloomberg Línea",
+   "country": "LatAm",
+   "title": "Dólar se dispara en Paraguay: guaraní es la moneda que más cae en el mundo tras renuncia de Peña y crisis de Ueno",
+   "link": "https://www.bloomberglinea.com/mercados/dolar-se-dispara-en-paraguay-guarani-es-la-moneda-que-mas-cae-en-el-mundo-por-juicio-a-pena-y-crisis-de-ueno/",
+   "date": "2026-11-05T16:47:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "Consumir avena ayuda a bajar el colesterol, favorecer la pérdida de peso, regular la presión arterial, según un estudio",
+   "link": "https://www.cronista.com/informacion-gral/consumir-avena-ayuda-a-bajar-el-colesterol-favorecer-la-perdida-de-peso-regular-la-presion-arterial-segun-un-estudio/",
+   "date": "2026-11-05T16:45:29+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "La Orquesta",
+   "country": "LatAm",
+   "title": "El dólar digital no es el dólar | Columna de Gonzalo Hernández Araujo",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ScnNSb1daQTM0TmVrNzdNWklMMG9JeWVnNGs4NkJzNTRJWDc2UUJsLUNsWjBBMXRaU0YzYnVHVF9jZXZwd3FmQ08xWjgtQXFkX0tzTm8zczFRc0l6aTQzbw?oc=5",
+   "date": "2026-11-05T16:37:47+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Cronista",
+   "country": "AR",
+   "title": "Willy Kohan advirtió por el dólar y apuntó al principal problema del programa económico",
+   "link": "https://www.cronista.com/finanzas-mercados/willy-kohan-advirtio-por-el-dolar-y-apunto-al-principal-problema-del-programa-economico/",
+   "date": "2026-11-05T16:37:15+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Financiero",
+   "country": "MX",
+   "title": "No le ‘duró el gusto’ al peso: Pierde 14 centavos ante el dólar y espera decisión del Banxico",
+   "link": "https://www.elfinanciero.com.mx/mercados/2026/11/05/peso-dolar-tipo-de-cambio-precio-hoy-5-de-noviembre-de-2026/",
+   "date": "2026-11-05T16:35:58+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Economista",
+   "country": "MX",
+   "title": "Peso cae en espera de decisión de Banxico",
+   "link": "https://www.eleconomista.com.mx/videos/peso-cae-espera-decision-banxico-20261105-842355.html",
+   "date": "2026-11-05T16:29:01+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
    "source": "Ámbito",
-   "date": "2026-11-04T11:59:00+00:00",
-   "link": "https://www.ambito.com/economia/la-inflacion-la-zona-euro-se-acelero-octubre-al-4-interanual-impulso-la-energia-n6341315"
+   "country": "AR",
+   "title": "REM de octubre: los gurúes de la city actualizan sus pronósticos para el dólar, la inflación y el PBI",
+   "link": "https://www.ambito.com/economia/rem-octubre-los-gurues-la-city-actualizan-sus-pronosticos-el-dolar-la-inflacion-y-el-pbi-n6341932",
+   "date": "2026-11-05T16:23:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
   },
   {
-   "title": "El dólar volvió a trepar en Brasil, contagió al mercado argentino y el riesgo país se despegó de los 800 puntos",
+   "source": "Portafolio",
+   "country": "CO",
+   "title": "El precio del euro bajó en Colombia y continúa perdiendo terreno frente al peso: así cotiza la divisa",
+   "link": "https://www.portafolio.co/economia/finanzas/el-precio-del-euro-bajo-en-colombia-y-continua-perdiendo-terreno-frente-al-peso-asi-cotiza-la-divisa-505779",
+   "date": "2026-11-05T16:15:35+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Economista",
+   "country": "MX",
+   "title": "Deuda externa de países en desarrollo tocó récord de 9.4 billones de dólares en 2025: Banco Mundial",
+   "link": "https://www.eleconomista.com.mx/sectorfinanciero/deuda-externa-paises-desarrollo-toco-record-9-4-billones-dolares-2025-banco-mundial-20261105-842347.html",
+   "date": "2026-11-05T15:50:19+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "24-horas",
+   "country": "LatAm",
+   "title": "México se afianza como el segundo país con mayor recepción de remesas en el mundo",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXVsZHhfQWo0VXF6MlZBbjhtS2xDdkQyS2p6NVJuODM0QnBacEM1LXc2YmxCYzB0bUNRQWk2Yzc3cTI5M0lmVlNzejN3UGZrMmJnZEQ3eERteDNoQTdOVGhPa0xwZ2Y2X2tIZlBUbklqN0U4VnJ4R1Y4YkVZWTFyd2JBZw?oc=5",
+   "date": "2026-11-05T15:47:20+00:00",
+   "category": "remesas",
+   "tags": [
+    "remesas"
+   ]
+  },
+  {
+   "source": "Portafolio",
+   "country": "CO",
+   "title": "El oro retoma la senda alcista y escala hasta los 4.117 dólares en medio de un mercado de alta volatilidad",
+   "link": "https://www.portafolio.co/internacional/el-oro-retoma-la-senda-alcista-y-escala-hasta-los-4-117-dolares-en-medio-de-un-mercado-de-alta-volatilidad-505771",
+   "date": "2026-11-05T15:40:06+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "La Nación",
+   "country": "AR",
+   "title": "Retenciones: la Argentina quedó última en un ranking mundial de apoyo al campo y revelan cuánto pierde por los impuestos",
+   "link": "https://www.lanacion.com.ar/economia/campo/retenciones-la-argentina-quedo-ultima-en-un-ranking-mundial-de-apoyo-al-campo-y-revelan-cuanto-nid05112026/",
+   "date": "2026-11-05T15:36:12+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "Plano Informativo",
+   "country": "LatAm",
+   "title": "​Crecen 3% las remesas hacia San Luis Potosí",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOam9JNmFua21ZaFM3Qm1kc2VvMkJycFZsSUt1TzFnMU9jZDQ3c3poOHFpR2l4OUFaTHEwODhRalQ4aFQ5VV9XX1ktWTE2c2lkWDk2MTh4SnIySWNUbGd4ZndIOHBCYUlGQUhQU0RoZWlTU2tFQk8tSDh6dWp3anFFOTlGZVFUZw?oc=5",
+   "date": "2026-11-05T15:36:00+00:00",
+   "category": "remesas",
+   "tags": [
+    "remesas"
+   ]
+  },
+  {
+   "source": "La Tercera Pulso",
+   "country": "CL",
+   "title": "Propuesta que imponía impuesto a los superricos de California no logra apoyo popular y pierde en jornada electoral",
+   "link": "https://www.latercera.com/pulso/noticia/propuesta-que-imponia-impuesto-a-los-superricos-de-california-no-logra-apoyo-popular-y-pierde-en-jornada-electoral/",
+   "date": "2026-11-05T15:34:36+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "La Nación",
+   "country": "AR",
+   "title": "Sin intervenir el dólar desde 2021, el ministro de Economía de Uruguay explicó la receta detrás de la estabilidad",
+   "link": "https://www.lanacion.com.ar/economia/sin-intervenir-el-dolar-desde-2021-el-ministro-de-economia-de-uruguay-explico-la-receta-detras-de-la-nid05112026/",
+   "date": "2026-11-05T15:13:56+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Economista",
+   "country": "MX",
+   "title": "Peso mexicano se deprecia frente al dólar; espera anuncio de política monetaria del Banxico",
+   "link": "https://www.eleconomista.com.mx/mercados/precio-dolar-hoy-5-noviembre-2026-cuanto-cotiza-20261105-842340.html",
+   "date": "2026-11-05T15:12:42+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "La Nación",
+   "country": "AR",
+   "title": "“Tres preocupaciones”: los riesgos que identifica el BCRA para la economía y por qué anticipan crecimiento del crédito",
+   "link": "https://www.lanacion.com.ar/economia/tres-preocupaciones-los-riesgos-que-identifica-el-bcra-para-la-economia-y-por-que-anticipan-nid05112026/",
+   "date": "2026-11-05T14:51:32+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "La Nación",
+   "country": "AR",
+   "title": "Para el Santander, el Gobierno está “muchísimo mejor preparado” que en 2025 para enfrentar una corrida hacia el dólar",
+   "link": "https://www.lanacion.com.ar/economia/las-cuatro-megatendencias-que-marcaran-a-la-economia-mundial-en-los-proximos-anos-nid05112026/",
+   "date": "2026-11-05T14:46:12+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Comercio",
+   "country": "PE",
+   "title": "El dólar abre a la baja en S/3,44 mientras el oro y el cobre mantienen sus ganancias",
+   "link": "https://elcomercio.pe/economia/peru/el-dolar-abre-a-la-baja-en-s344-mientras-el-oro-y-el-cobre-mantienen-sus-ganancias-l-ultimas-noticia/",
+   "date": "2026-11-05T14:31:55+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos",
+    "dólar"
+   ]
+  },
+  {
    "source": "Infobae",
-   "date": "2026-11-04T04:11:28+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/04/el-dolar-volvio-a-trepar-en-brasil-contagio-al-mercado-argentino-y-el-riesgo-pais-se-despego-de-los-800-puntos/"
+   "country": "AR",
+   "title": "El número dos del BCRA defendió la velocidad diferente a la que crecen los sectores exportadores: “Tienen un derrame fuertísimo”",
+   "link": "https://www.infobae.com/economia/2026/11/05/el-numero-dos-del-bcra-defendio-la-velocidad-diferente-a-la-que-crecen-los-sectores-exportadores-tienen-un-derrame-fuertisimo/",
+   "date": "2026-11-05T14:24:47+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
   },
   {
-   "title": "El riesgo país trepó a un máximo desde las elecciones de 2025 y el dólar anotó una nueva suba",
+   "source": "La Voz del Interior",
+   "country": "LatAm",
+   "title": "Una fintech argentina levantó U$S 7 millones y se prepara para llegar a más de 15 países en 2027",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVC0xZEpKbGJWX2VZZy05NG1Rdy1hRVNXSU5qU1k5MElpaGlEU1VRcW0xME5RdHpMRUdxSnAyT1hMcjhGQ2xnVjZjYWRfMlFqdzZ2cks4aG5ObkxtQ2lXWXV0SUFJc2pGRGd3RkhadEJWcEtXTjM3Xy1FaHZrQVRLU1FiNFVRSHJ0RnQxYkVHcnpCcXZLaWZqdTUtVW5pUUNwQXV5Tmx5bm1SYzRQdURjS21fWFgzQ196a2VjaThR?oc=5",
+   "date": "2026-11-05T14:20:17+00:00",
+   "category": "fintech",
+   "tags": [
+    "fintech"
+   ]
+  },
+  {
+   "source": "El Financiero",
+   "country": "MX",
+   "title": "Mercados ‘celebran’ triunfo demócrata en elecciones de EU; petróleo cae y el peso gana",
+   "link": "https://www.elfinanciero.com.mx/economia/2026/11/05/celebran-mercados-triunfo-democrata-en-elecciones-de-eu/",
+   "date": "2026-11-05T14:11:50+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Bloomberg Línea",
+   "country": "LatAm",
+   "title": "Vicepresidente del BCRA afirma que sectores que crecen tienen un “derrame absolutamente positivo”",
+   "link": "https://www.bloomberglinea.com/latinoamerica/argentina/vicepresidente-del-bcra-afirma-que-sectores-que-crecen-tienen-un-derrame-absolutamente-positivo/",
+   "date": "2026-11-05T14:09:10+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Tiempo",
+   "country": "CO",
+   "title": "¿Qué debe hacer para que le devuelvan a su cuenta el IVA que paga en el mercado? Esto propone la ley de rescate económico",
+   "link": "https://www.eltiempo.com/economia/finanzas-personales/que-debe-hacer-para-que-le-devuelvan-a-su-cuenta-el-iva-que-paga-en-el-mercado-esto-propone-la-ley-de-rescate-economico-3598631",
+   "date": "2026-11-05T14:01:00+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "La República",
+   "country": "CO",
+   "title": "Dólar subió $7 tras caída en el número de solicitudes de subsidio por desempleo",
+   "link": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-5-de-noviembre-4518099",
+   "date": "2026-11-05T13:05:30+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "El Economista",
+   "country": "MX",
+   "title": "Proponen en Cámara de Diputados reducción a 6% la retención de IVA a pymes que venden en marketplace",
+   "link": "https://www.eleconomista.com.mx/el-empresario/proponen-camara-diputados-reduccion-6-retencion-iva-pymes-venden-marketplace-20261105-842240.html",
+   "date": "2026-11-05T13:05:00+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "Investing.com España",
+   "country": "LatAm",
+   "title": "Payoneer Global Inc no alcanza por 0,01$ las previsiones de BPA en el tercer trimestre del año",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUUlWbW5kSlA5QU9ZeFJFUFZIRVBDZkNBOEh2NVpYVzVVNEJTS0V1cmFkYlIyeHVId0tIcHFUYzZKWkVzYnFkQmZoaGpOWTZjbEVScXlVRlJyRXUtREFpMmVxRW0xbkNjNHBYTEpoU240a09mWV9pUDU1OEk5MmVHTmdnaWpaYkpOeVRIcUJwbFF3azBndlhVem0xVXFicDRJSjFVeC1raHE4c0hmNkFaYTZQRi1fUU4zX2x2U0IzSmowNU9ObjN4bFhEcVFKOFk5SHFGZ3pB?oc=5",
+   "date": "2026-11-05T12:46:00+00:00",
+   "category": "fintech",
+   "tags": [
+    "fintech"
+   ]
+  },
+  {
+   "source": "TradingKey",
+   "country": "LatAm",
+   "title": "Resultados de Payoneer del 3T de 2026: el volumen B2B se acelera mientras cae el beneficio operativo",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4aDcwTVg2enZKYjgxb3RhbkJ5OFNXeUp0VkNFZHpuSkRJaWFvNi1xVFozX1liMVdsdnYxVlkxZDJ1c2FuREZzc2duUmZlazFtY0hFSVpscEdzbkRtbHQzS3hybDI?oc=5",
+   "date": "2026-11-05T12:45:25+00:00",
+   "category": "fintech",
+   "tags": [
+    "fintech"
+   ]
+  },
+  {
+   "source": "El Tiempo",
+   "country": "CO",
+   "title": "Vapeadores en Colombia tendrán impuesto y el recaudo llevará nuevos recursos al sistema de salud",
+   "link": "https://www.eltiempo.com/economia/finanzas-personales/vapeadores-en-colombia-tendran-impuesto-y-el-recaudo-llevara-nuevos-recursos-al-sistema-de-salud-3598604",
+   "date": "2026-11-05T12:15:49+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "BBC Mundo",
+   "country": "LatAm",
+   "title": "4 datos que muestran el peso del voto latino en la \"ola azul\" que llevó a los demócratas a arrasar en las elecciones de EE.UU.",
+   "link": "https://www.bbc.com/mundo/articles/cq203vjl5ym8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-05T11:56:53+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "La República",
+   "country": "CO",
+   "title": "Oro tocó un máximo de dos semanas, mientras el dólar y el crudo bajaron tras elecciones",
+   "link": "https://www.larepublica.co/finanzas/precio-del-oro-5-de-noviembre-4518058",
+   "date": "2026-11-05T11:38:04+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Diario del Yaqui",
+   "country": "LatAm",
+   "title": "¿A cuánto está el dólar hoy 5 de noviembre de 2026? Bancos, remesas y euro",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjlLQnVZZXY2MHIyN2M0dFNqSGZVTGstTVZqd0JqckwyeHFLQXEtNnlWdGVraHlWalJhUHE4OXV6dTJlVll1SmNjQW5VbjVnbW1QZTU4WjJTa2IzaHNwcWRwNm9Qb21tUnpjVFEzWjdjZW1VVS1WaXVxQWRyWXV6NlZGbFlUVnJfVjVOVGhNWkpZY2tJWFdKV09MWlVycThEUjk5NXprajkxTjVIU2dOcmlqSQ?oc=5",
+   "date": "2026-11-05T11:35:00+00:00",
+   "category": "remesas",
+   "tags": [
+    "remesas",
+    "dólar"
+   ]
+  },
+  {
    "source": "Infobae",
-   "date": "2026-11-03T21:52:38+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/03/el-riesgo-pais-trepo-a-un-maximo-desde-las-elecciones-de-2025-y-el-dolar-anoto-una-nueva-suba/"
+   "country": "AR",
+   "title": "Envían falsos mails con el logo de ARCA para pedir plata y robar datos: cómo detectar los fraudes",
+   "link": "https://www.infobae.com/economia/2026/11/05/envian-falsos-mails-con-el-logo-de-arca-para-pedir-plata-y-robar-datos-como-detectar-los-fraudes/",
+   "date": "2026-11-05T11:05:36+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
   },
   {
-   "title": "Plazo fijo en dólares: cuánto ganás al invertir u$d1.000 en 30 días",
-   "source": "Ámbito",
-   "date": "2026-11-03T20:00:00+00:00",
-   "link": "https://www.ambito.com/economia/plazo-fijo-dolares-cuanto-ganas-al-invertir-ud1000-30-dias-n6341032"
+   "source": "El Financiero",
+   "country": "MX",
+   "title": "Paraguay en crisis bancaria; miles pierden acceso a sus cuentas y dimite director del Banco Central",
+   "link": "https://www.elfinanciero.com.mx/mundo/2026/11/05/paraguay-en-crisis-bancaria-miles-pierden-acceso-a-sus-cuentas-y-dimite-director-del-banco-central/",
+   "date": "2026-11-05T10:54:18+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
   },
   {
-   "title": "El dólar subió por segundo día y volvió a marcar un récord nominal",
+   "source": "Gestión",
+   "country": "PE",
+   "title": "Arca Continental crece a doble dígito en Perú y mira los próximos meses: ¿qué anticipa ante El Niño?",
+   "link": "https://gestion.pe/economia/empresas/arca-continental-embotelladora-de-coca-cola-e-inca-kola-crecio-244-en-peru-y-mira-los-proximos-meses-que-anticipa-ante-el-nino-noticia/",
+   "date": "2026-11-05T10:15:00+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "Bloomberg Línea",
+   "country": "LatAm",
+   "title": "Analistas ven más riesgos que beneficios si Banxico decide recortar la tasa de interés",
+   "link": "https://www.bloomberglinea.com/latinoamerica/mexico/analistas-ven-mas-riesgos-que-beneficios-si-banxico-decide-recortar-la-tasa-de-interes/",
+   "date": "2026-11-05T10:00:00+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
+   "source": "Bloomberg Línea",
+   "country": "LatAm",
+   "title": "De la Espriella adapta a Colombia el modelo de Milei de gabelas tributarias a inversionistas",
+   "link": "https://www.bloomberglinea.com/latinoamerica/colombia/de-la-espriella-adapta-a-colombia-el-modelo-de-milei-de-gabelas-tributarias-a-inversionistas/",
+   "date": "2026-11-05T10:00:00+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
+  },
+  {
+   "source": "El Financiero",
+   "country": "MX",
+   "title": "La partitura de Banxico",
+   "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/11/05/la-partitura-de-banxico/",
+   "date": "2026-11-05T07:43:51+00:00",
+   "category": "dólar",
+   "tags": [
+    "dólar"
+   ]
+  },
+  {
    "source": "Infobae",
-   "date": "2026-11-03T19:14:56+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/03/el-dolar-subio-por-segundo-dia-y-volvio-a-marcar-un-record-nominal/"
-  },
-  {
-   "title": "El dólar mayorista superó por primera vez los $1.550 y quebró un nuevo máximo nominal",
-   "source": "Ámbito",
-   "date": "2026-11-03T19:09:00+00:00",
-   "link": "https://www.ambito.com/economia/dolar-su-record-nominal-el-mercado-sigue-atencion-las-elecciones-eeuu-y-las-reservas-del-bcra-n6340809"
-  },
-  {
-   "title": "Caputo respondió a los pedidos para inyectar pesos y reactivar el crédito en 2027: “Los bancos no prestan por incertidumbre”",
-   "source": "Infobae",
-   "date": "2026-11-03T13:27:18+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/03/caputo-respondio-a-los-pedidos-para-inyectar-pesos-y-reactivar-el-credito-en-2027-los-bancos-no-prestan-por-incertidumbre/"
-  },
-  {
-   "title": "Nueva banda cambiaria: hasta qué precio puede subir el dólar en noviembre sin que intervenga el BCRA",
-   "source": "Infobae",
-   "date": "2026-11-03T11:28:03+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/03/nueva-banda-cambiaria-hasta-que-precio-puede-subir-el-dolar-en-noviembre-sin-que-intervenga-el-bcra/"
-  },
-  {
-   "title": "Por la suba del riesgo país las acciones de un sector clave acumulan caídas de hasta 46% y cotizan en mínimos del año",
-   "source": "Infobae",
-   "date": "2026-11-03T05:59:16+00:00",
-   "link": "https://www.infobae.com/economia/2026/11/03/por-la-suba-del-riesgo-pais-las-acciones-de-un-sector-clave-acumulan-caidas-de-hasta-46-y-cotizan-en-minimos-del-ano/"
+   "country": "AR",
+   "title": "El Gobierno repartió menos del 20% de los fondos de emergencia a las provincias mientras negocia eliminar un impuesto clave",
+   "link": "https://www.infobae.com/economia/2026/11/05/el-gobierno-repartio-menos-del-20-de-los-fondos-de-emergencia-a-las-provincias-mientras-negocia-eliminar-un-impuesto-clave/",
+   "date": "2026-11-05T04:55:56+00:00",
+   "category": "impuestos",
+   "tags": [
+    "impuestos"
+   ]
   }
- ]
+ ],
+ "notice": "Titulares y enlaces a las fuentes originales; el contenido pertenece a cada medio."
 }

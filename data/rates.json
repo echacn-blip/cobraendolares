@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-11-05T01:53:20+00:00",
+ "fetched_utc": "2026-11-05T19:51:55+00:00",
  "mid": {
   "source": "currency-api (fawazahmed0)",
   "source_url": "https://github.com/fawazahmed0/exchange-api",
@@ -18,49 +18,49 @@
    "nombre": "Oficial",
    "compra": 1520,
    "venta": 1570,
-   "t": "2026-11-04T18:00:00.000Z"
+   "t": "2026-11-05T16:00:00.000Z"
   },
   {
    "casa": "blue",
    "nombre": "Blue",
-   "compra": 1540,
-   "venta": 1560,
-   "t": "2026-11-04T20:55:00.000Z"
+   "compra": 1535,
+   "venta": 1555,
+   "t": "2026-11-05T18:58:00.000Z"
   },
   {
    "casa": "bolsa",
    "nombre": "Bolsa",
-   "compra": 1575.7,
-   "venta": 1588.6,
-   "t": "2026-11-04T20:55:00.000Z"
+   "compra": 1580.3,
+   "venta": 1581.6,
+   "t": "2026-11-05T18:58:00.000Z"
   },
   {
    "casa": "contadoconliqui",
    "nombre": "Contado con liquidación",
-   "compra": 1676.7,
-   "venta": 1680.4,
-   "t": "2026-11-04T20:55:00.000Z"
+   "compra": 1671.3,
+   "venta": 1671.5,
+   "t": "2026-11-05T18:58:00.000Z"
   },
   {
    "casa": "mayorista",
    "nombre": "Mayorista",
-   "compra": 1537,
-   "venta": 1546,
-   "t": "2026-11-04T16:24:00.000Z"
+   "compra": 1536.5,
+   "venta": 1545.5,
+   "t": "2026-11-05T15:34:00.000Z"
   },
   {
    "casa": "cripto",
    "nombre": "Cripto",
-   "compra": 1659.63,
-   "venta": 1667.14,
-   "t": "2026-11-04T20:55:00.000Z"
+   "compra": 1656.44,
+   "venta": 1663.99,
+   "t": "2026-11-05T18:58:00.000Z"
   },
   {
    "casa": "tarjeta",
    "nombre": "Tarjeta",
    "compra": 1976,
    "venta": 2041,
-   "t": "2026-11-04T18:00:00.000Z"
+   "t": "2026-11-05T16:00:00.000Z"
   }
  ],
  "local": {
@@ -70,14 +70,14 @@
    "t": "2026-11-04T00:00:00.000Z"
   },
   "cl": {
-   "compra": 964.64,
-   "venta": 966.44,
-   "t": "2026-11-04T20:02:23.265Z"
+   "compra": 963.91,
+   "venta": 966.11,
+   "t": "2026-11-05T12:01:16.303Z"
   },
   "co": {
-   "compra": 3226.04,
-   "venta": 3229.54,
-   "t": "2026-11-04T20:03:02.083Z"
+   "compra": 3227.38,
+   "venta": 3230.88,
+   "t": "2026-11-05T12:03:54.918Z"
   }
  }
 }
